@@ -32,14 +32,14 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 
 html_js_files = [
-    'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js', 
+    'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js',
     '_static/flyout.js'
 ]
 
 html_static_path = ['_static']
-html_logo = "easy.png"
+html_logo = "docs/source/_static/easy.svg"
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'display_version': False,
 }
 # -- Options for EPUB output
