@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+OPEN TEST SMELL CATALOG
 =======================================
+[![Documentation Status](https://readthedocs.org/projects/test-smell-catalog/badge/?version=latest)](https://test-smell-catalog.readthedocs.io/en/latest/?badge=latest)
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
