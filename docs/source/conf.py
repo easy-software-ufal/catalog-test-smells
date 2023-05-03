@@ -2,11 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Test Smells Catalog'
+copyright = '2023, EASY'
+author = 'EASY'
 
-release = '0.1'
+release = '2.0'
 version = '0.1.0'
 
 # -- General configuration
