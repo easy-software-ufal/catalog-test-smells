@@ -31,7 +31,7 @@ Contents
    Test semantic-logic/index
 
 
-   .. toctree::
+.. toctree::
    :maxdepth: 1
    :caption: 🏢 About Us
 
