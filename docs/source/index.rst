@@ -33,6 +33,6 @@ Contents
    Test semantic-logic/index
 
    .. toctree
-
    :caption: About Us
+
    about
