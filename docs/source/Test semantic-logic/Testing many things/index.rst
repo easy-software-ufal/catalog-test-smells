@@ -7,7 +7,7 @@ This subgroup was proposed by Garousi
 
 .. toctree::
     :maxdepth: 4
-    
+
     Assertion Roulette
     Eager Test
     Messy Test
