@@ -13,6 +13,7 @@ Contents
 .. toctree::
    :maxdepth: 4
    :glob:
+   
    Test Smells/*
    Tests Smells/Code related/Code duplication/Duplicate Alt Branches
    Tests Smells/Code related/Code duplication/Duplicate Assert
