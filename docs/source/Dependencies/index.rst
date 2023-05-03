@@ -1,6 +1,5 @@
-
 ####################
-Test semantic - logic
+Dependencies
 ####################
 
 This group was proposed by Garousi
@@ -10,6 +9,5 @@ Subgroups:
 .. toctree::
     :maxdepth: 2
 
-    Other test logic related/index
-    Testing many things/index
-    Testing many units/index
+    Dependencies among tests/index
+    External dependencies/index

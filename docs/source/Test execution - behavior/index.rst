@@ -1,6 +1,5 @@
-
 ####################
-Test semantic - logic
+Test execution - behavior
 ####################
 
 This group was proposed by Garousi
@@ -10,6 +9,5 @@ Subgroups:
 .. toctree::
     :maxdepth: 2
 
-    Other test logic related/index
-    Testing many things/index
-    Testing many units/index
+    Other test execution - behavior/index
+    Performance/index
