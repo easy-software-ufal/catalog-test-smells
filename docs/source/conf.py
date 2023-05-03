@@ -36,5 +36,11 @@ html_js_files = [
     '_static/flyout.js'
 ]
 
+html_static_path = ['_static']
+html_logo = "easy.png"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
