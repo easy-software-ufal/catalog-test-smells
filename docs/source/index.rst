@@ -24,17 +24,17 @@ Contents
    Tests Smells/Code related/Code duplication/Duplicate Template Fields
    Tests Smells/Code related/Code duplication/Duplicated Code In Conditional
    Tests Smells/Code related/Code duplication/Duplicated Code
-   Tests Smells/Code related/Code duplication/Half A Helper Method 
+   Tests Smells/Code related/Code duplication/Half A Helper Method
    Tests Smells/Code related/Code duplication/Missing Parameterised Test
    Tests Smells/Code related/Code duplication/Missing Test Data Factory
    Tests Smells/Code related/Code duplication/Test Code Duplication
-   Tests Smells/Code related/Code duplication/The First And Last Rites 
+   Tests Smells/Code related/Code duplication/The First And Last Rites
    Tests Smells/Code related/Code duplication/Two For The Price Of One
    Tests Smells/Code related/Complex - Hard to understand/Bad Comment Rate
    Tests Smells/Code related/Complex - Hard to understand/Hard-Coded Test Data
    Tests Smells/Code related/Complex - Hard to understand/Hard-Coded Values
    Tests Smells/Code related/Complex - Hard to understand/Herp Derp
-   Tests Smells/Code related/Complex - Hard to understand/It Looks Right To Me 
+   Tests Smells/Code related/Complex - Hard to understand/It Looks Right To Me
    Tests Smells/Code related/Complex - Hard to understand/Long Statement Block
    Tests Smells/Code related/Complex - Hard to understand/Long Test
    Tests Smells/Code related/Complex - Hard to understand/Magic Number Test
@@ -60,8 +60,8 @@ Contents
    Tests Smells/Code related/In association with production code/The Ugly Mirror
    Tests Smells/Code related/Mock and stub related/Is Mockito Working Fine
    Tests Smells/Code related/Mock and stub related/Mockers Without Borders
-   Tests Smells/Code related/Mock and stub related/Mockito Any() Vs. Isa()
-   Tests Smells/Code related/Mock and stub related/Mock'Em All!
+   Tests Smells/Code related/Mock and stub related/Mockito Any Vs Isa
+   Tests Smells/Code related/Mock and stub related/MockEm All
    Tests Smells/Code related/Mock and stub related/Remote Control Mocking
    Tests Smells/Code related/Mock and stub related/Surreal
    Tests Smells/Code related/Mock and stub related/The Dead Tree
@@ -78,10 +78,10 @@ Contents
    Tests Smells/Code related/Violating coding best practices/Flaky Locator
    Tests Smells/Code related/Violating coding best practices/Fully-Parameterized Template
    Tests Smells/Code related/Violating coding best practices/Goto Statement
-   Tests Smells/Code related/Violating coding best practices/Hidden Meaning 
-   Tests Smells/Code related/Violating coding best practices/Hidden Test Call 
+   Tests Smells/Code related/Violating coding best practices/Hidden Meaning
+   Tests Smells/Code related/Violating coding best practices/Hidden Test Call
    Tests Smells/Code related/Violating coding best practices/Ignored Test
-   Tests Smells/Code related/Violating coding best practices/Is There Anybody There 
+   Tests Smells/Code related/Violating coding best practices/Is There Anybody There
    Tests Smells/Code related/Violating coding best practices/Literal Pollution
    Tests Smells/Code related/Violating coding best practices/Long Parameter List
    Tests Smells/Code related/Violating coding best practices/Missed Skip Rotten Green Test
@@ -149,7 +149,7 @@ Contents
    Tests Smells/Issues in test steps/Issues in assertions/Premature Assertions
    Tests Smells/Issues in test steps/Issues in assertions/Primitive Assertion
    Tests Smells/Issues in test steps/Issues in assertions/Redundant Assertion
-   Tests Smells/Issues in test steps/Issues in assertions/Second Guess The Calculation 
+   Tests Smells/Issues in test steps/Issues in assertions/Second Guess The Calculation
    Tests Smells/Issues in test steps/Issues in assertions/Self-Test
    Tests Smells/Issues in test steps/Issues in assertions/Sensitive Equality
    Tests Smells/Issues in test steps/Issues in assertions/Testing The Internal Monologue
@@ -165,7 +165,7 @@ Contents
    Tests Smells/Issues in test steps/Issues in setup/Badly Used Fixture
    Tests Smells/Issues in test steps/Issues in setup/Bury The Lede
    Tests Smells/Issues in test steps/Issues in setup/Complicated Set Up Scenarios Within The Tests Themselves
-   Tests Smells/Issues in test steps/Issues in setup/Curdled Test Fixtures 
+   Tests Smells/Issues in test steps/Issues in setup/Curdled Test Fixtures
    Tests Smells/Issues in test steps/Issues in setup/Excessive Setup
    Tests Smells/Issues in test steps/Issues in setup/General Fixture
    Tests Smells/Issues in test steps/Issues in setup/Idle Ptc
@@ -180,10 +180,10 @@ Contents
    Tests Smells/Issues in test steps/Issues in teardown/Activation Asymmetry
    Tests Smells/Issues in test steps/Issues in teardown/Complex Teardown
    Tests Smells/Issues in test steps/Issues in teardown/External Shared-State Corruption
-   Tests Smells/Issues in test steps/Issues in teardown/Shared-State Corruption 
+   Tests Smells/Issues in test steps/Issues in teardown/Shared-State Corruption
    Tests Smells/Issues in test steps/Issues in teardown/Unrepeatable Test
    Tests Smells/Test execution - behavior/Other test execution - behavior
-   Tests Smells/Test execution - behavior/Other test execution - behavior/Chatty Logging 
+   Tests Smells/Test execution - behavior/Other test execution - behavior/Chatty Logging
    Tests Smells/Test execution - behavior/Other test execution - behavior/Redundant Print
    Tests Smells/Test execution - behavior/Other test execution - behavior/Transcripting Test
    Tests Smells/Test execution - behavior/Other test execution - behavior/Unnecessary Navigation
@@ -202,7 +202,7 @@ Contents
    Tests Smells/Test semantic-logic/Other test logic related/Contaminated Test Subject
    Tests Smells/Test semantic-logic/Other test logic related/Context-Dependent Rotten Green Assertion Test
    Tests Smells/Test semantic-logic/Other test logic related/Embedding Implementation Detail In Your Features-Scenarios
-   Tests Smells/Test semantic-logic/Other test logic related/Evolve Or ...
+   Tests Smells/Test semantic-logic/Other test logic related/Evolve Or
    Tests Smells/Test semantic-logic/Other test logic related/Factories With Random Data Instead Of Sequences
    Tests Smells/Test semantic-logic/Other test logic related/Flexible Test
    Tests Smells/Test semantic-logic/Other test logic related/Fully Rotten Green Test
