@@ -2,7 +2,7 @@
 Issues in assertions
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

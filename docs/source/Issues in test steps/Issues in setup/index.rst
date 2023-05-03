@@ -2,7 +2,7 @@
 Issues in setup
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

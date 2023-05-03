@@ -2,7 +2,7 @@
 Other test execution - behavior
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

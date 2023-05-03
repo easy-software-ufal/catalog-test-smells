@@ -1,8 +1,6 @@
 ####################
 Code related
 ####################
-This group was proposed by Garousi
-
 
 .. toctree::
    :maxdepth: 4

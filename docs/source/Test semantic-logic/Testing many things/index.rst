@@ -3,7 +3,7 @@
 Testing many things
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

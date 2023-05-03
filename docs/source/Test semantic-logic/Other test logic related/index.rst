@@ -2,7 +2,7 @@
 Other test logic related
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

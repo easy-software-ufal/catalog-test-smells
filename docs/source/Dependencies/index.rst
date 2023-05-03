@@ -2,7 +2,6 @@
 Dependencies
 ####################
 
-This group was proposed by Garousi
 
 
 .. toctree::

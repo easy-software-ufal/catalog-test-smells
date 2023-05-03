@@ -2,7 +2,6 @@
 Design related
 ####################
 
-This group was proposed by Garousi
 
 
 .. toctree::

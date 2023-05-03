@@ -2,7 +2,7 @@
 Not using test patterns
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

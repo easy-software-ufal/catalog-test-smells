@@ -2,7 +2,7 @@
 Issues in exception handling
 ####################
 
-This subgroup was proposed by Garousi
+
 
 .. toctree::
     :maxdepth: 4

@@ -2,7 +2,6 @@
 Issues in test steps
 ####################
 
-This group was proposed by Garousi
 
 .. toctree::
     :maxdepth: 4

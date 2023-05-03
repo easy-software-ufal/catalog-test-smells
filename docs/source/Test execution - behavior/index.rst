@@ -2,7 +2,6 @@
 Test execution - behavior
 ####################
 
-This group was proposed by Garousi
 
 
 .. toctree::

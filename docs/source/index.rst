@@ -1,18 +1,11 @@
 Welcome to the Open Test Smell Catalog!
 ===================================
 
-Search for your smell using the **search** or the **sidebar**, if you already have an idea of where to look!
+Search for your smell using the search or the sidebar if you already know where to look, or browse by category in the left panel. There is a lot to see!
 
-The catalog intends to provide a visualization of the data set compiled in a Multivocal Literature Review.
-Treating the catalog as an open-source project enables any community member to submit a contribution as a pull request and help improve the catalog.
-We did not extract the technology to which the test smell was initially proposed. Therefore, the catalog does not include such information, except for the code example when available.
+The catalog provides a visualization of the data set compiled in a Multivocal Literature Review published here. Initially, it unifies 127 formal and informal sources (sites, personal blogs, even videos!). As the catalog is open-source, any community member can submit a contribution as a pull request and help improve it.
 
-The smells are presented grouped by Groups and Subgroups, with this segmentation proposed by Garousi *et al.*
-
-Every smell listed here contains at least one definition, one reference, and a code example, likely extracted from the reference listed.
-
-The catalog provides a helpful resource for software testing community members to better understand the test smells phenomena and helps avoid adding new names to existing test smells in an overlap.
-
+Every smell listed here contains at least a definition, reference, and code example, likely extracted from the listed bibliography, which provides much more information. We expect the catalog to be a helpful resource for software testing community members to understand better the test smells. In this sense, it may help avoid adding new names to existing test smells in an overlap.
 .. tip::
 
    Please help us keep this Catalog updated and contribute your own test smell findings.
@@ -26,7 +19,7 @@ Contents
 --------
 .. toctree::
    :maxdepth: 4
-   :caption: 💩 Test Smell Groups
+   :caption: Test Smell Groups
 
    Code related/index
    Dependencies/index

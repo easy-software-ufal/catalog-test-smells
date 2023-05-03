@@ -3,7 +3,6 @@
 Test semantic - logic
 ####################
 
-This group was proposed by Garousi
 
 
 .. toctree::
