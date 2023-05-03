@@ -11,5 +11,6 @@ Contents
 --------
 
 .. toctree::
-    :maxdepth: 4
-    Test Smells/Code related/index
+    :maxdepth: 2
+
+    Code related/index
