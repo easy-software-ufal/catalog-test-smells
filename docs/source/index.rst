@@ -13,17 +13,17 @@ Every smell listed here contains at least one definition, one reference, and a c
 
 The catalog provides a helpful resource for software testing community members to better understand the test smells phenomena and helps avoid adding new names to existing test smells in an overlap.
 
+.. tip::
 
-
-.. note::
-
-   This project is under active development and is open to contributions! Click on the menu above to contribute!
+   Please help us keep this Documentation updated and contribute your own test smell findings.
+   Send in your helpful comments or ideas 💡 to easy@ic.ufal.br
+   or contribute directly by clicking :guilabel:`Edit on GitHub` in the top right corner of this page.
 
 Contents
 --------
 .. toctree::
    :maxdepth: 4
-   :caption: Test Smell Groups
+   :caption: 💩 Test Smell Groups
 
    Code related/index
    Dependencies/index
@@ -32,7 +32,8 @@ Contents
    Test execution - behavior/index
    Test semantic-logic/index
 
-   .. toctree
-   :caption: About Us
+
+   .. toctree::
+   :caption: 🏢 About Us
 
    about
