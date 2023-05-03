@@ -37,6 +37,7 @@ Contents
 
 
    .. toctree::
+   :maxdepth: 1
    :caption: 🏢 About Us
 
    about
