@@ -11,7 +11,7 @@ Contents
 --------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Code related/index
     Dependencies/index

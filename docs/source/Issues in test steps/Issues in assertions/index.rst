@@ -5,8 +5,8 @@ Issues in assertions
 This subgroup was proposed by Garousi
 
 .. toctree::
-    :maxdepth: 2
-    
+    :maxdepth: 4
+
     7 Layer Testing
     Asserting Pre-Condition And Invariants
     Assertion Diversion

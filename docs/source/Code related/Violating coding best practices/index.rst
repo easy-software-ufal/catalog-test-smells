@@ -3,7 +3,7 @@ Violating coding best practices
 ####################
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     
     Anonymous Test
     Bad Documentation Comment

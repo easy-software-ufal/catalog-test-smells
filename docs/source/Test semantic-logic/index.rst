@@ -8,7 +8,7 @@ This group was proposed by Garousi
 Subgroups:
 ----------
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Other test logic related/index
     Testing many things/index

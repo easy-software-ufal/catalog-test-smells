@@ -5,7 +5,7 @@ Issues in teardown
 This subgroup was proposed by Garousi
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     
     Activation Asymmetry
     Complex Teardown

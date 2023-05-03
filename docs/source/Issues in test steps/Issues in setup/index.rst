@@ -5,7 +5,7 @@ Issues in setup
 This subgroup was proposed by Garousi
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Badly Used Fixture
     Bury The Lede

@@ -6,7 +6,7 @@ This group was proposed by Garousi
 Subgroups:
 ----------
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
    Code duplication/index
    Complex - Hard to understand/index

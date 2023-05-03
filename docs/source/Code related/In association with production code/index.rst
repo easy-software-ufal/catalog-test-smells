@@ -3,7 +3,7 @@ In association with production code
 ####################
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Code Pollution
     Context Logic In Production Code

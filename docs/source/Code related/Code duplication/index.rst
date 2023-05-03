@@ -5,7 +5,7 @@ Code duplication
 ####################
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Duplicate Alt Branches
     Duplicate Assert

@@ -5,7 +5,7 @@ Other test logic related
 This subgroup was proposed by Garousi
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Branch To Assumption Anti-Pattern
     Chafing

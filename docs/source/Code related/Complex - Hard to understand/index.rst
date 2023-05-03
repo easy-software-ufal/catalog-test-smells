@@ -3,7 +3,7 @@ Complex - Hard to understand
 ####################
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Bad Comment Rate
     Hard-Coded Test Data

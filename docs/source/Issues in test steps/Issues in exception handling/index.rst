@@ -5,7 +5,7 @@ Issues in exception handling
 This subgroup was proposed by Garousi
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Catching Unexpected Exceptions
     Exception Handling

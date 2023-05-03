@@ -5,7 +5,7 @@ Dependencies among tests
 This subgroup was proposed by Garousi
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
 
     Constrained Test Order
     Coupling Between Test Methods

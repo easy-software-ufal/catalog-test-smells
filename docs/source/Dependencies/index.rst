@@ -7,7 +7,7 @@ This group was proposed by Garousi
 Subgroups:
 ----------
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
 
     Dependencies among tests/index
     External dependencies/index
