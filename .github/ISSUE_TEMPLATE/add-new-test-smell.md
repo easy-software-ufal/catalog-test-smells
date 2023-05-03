@@ -26,4 +26,4 @@ A clear and concise code example of the test smells you've considered.
 Add every reference that you have found this test smell.
 
 **Additional Context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about the new test smell request here.
