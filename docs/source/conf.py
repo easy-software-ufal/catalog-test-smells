@@ -7,7 +7,7 @@ copyright = '2023, EASY'
 author = 'EASY'
 
 release = '2.0'
-version = '0.1.0'
+version = '2.3.0'
 
 # -- General configuration
 
@@ -30,6 +30,11 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_js_files = [
+    'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js', 
+    '_static/flyout.js'
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
