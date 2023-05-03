@@ -6,7 +6,18 @@ Definitions:
 * Testing asynchronous code becomes tricky as it is based on a future value that you might receive or might not.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: ruby
+
+  test('the data is peanut butter', () => {
+    function callback(data) {
+      expect(data).toBe('peanut butter');
+    }
+    
+    fetchData(callback);
+  });
+
 
 References:
 

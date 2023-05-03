@@ -13,7 +13,34 @@ Also Known As:
 
 * The Test It All, Split Personality
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+    
+   public void testFlightMileage_asKm2() throws Exception {
+        // setup fixture
+        // exercise contructor
+        Flight newFlight = new Flight(validFlightNumber);
+        // verify constructed object
+        assertEquals(validFlightNumber, newFlight.number);
+        assertEquals("", newFlight.airlineCode);
+        assertNull(newFlight.airline);
+        // setup mileage
+        newFlight.setMileage(1122);
+        // exercise mileage translater
+        int actualKilometres = newFlight.getMileageAsKm();    
+        // verify results
+        int expectedKilometres = 1810;
+        assertEquals( expectedKilometres, actualKilometres);
+        // now try it with a canceled flight:
+        newFlight.cancel();
+        try {
+            newFlight.getMileageAsKm();
+            fail("Expected exception");
+        } catch (InvalidRequestException e) {
+            assertEquals( "Cannot get cancelled flight mileage", e.getMessage());
+        }
+    }
 
 References:
 

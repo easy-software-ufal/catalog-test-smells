@@ -6,7 +6,14 @@ Definitions:
 * Conditional test including branches like ifTrue:aBlock or ifFalse:aBlock
 
 
-Code Example::
+Code Example:
+
+.. code-block::
+
+  testRendering
+    self shouldRun ifFalse: [ ^ true ].
+    self assert: ...
+    ...
 
 References:
 
