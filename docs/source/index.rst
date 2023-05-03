@@ -13,6 +13,8 @@ Every smell listed here contains at least one definition, one reference, and a c
 
 The catalog provides a helpful resource for software testing community members to better understand the test smells phenomena and helps avoid adding new names to existing test smells in an overlap.
 
+
+
 .. note::
 
    This project is under active development and is open to contributions! Click on the menu above to contribute!
@@ -31,6 +33,6 @@ Contents
    Test semantic-logic/index
 
    .. toctree
-   :caption: About Us
 
+   :caption: About Us
    about
