@@ -1,0 +1,241 @@
+Welcome to Test Smell Catalog!
+===================================
+
+This site is a catalog containing smells from a variety of places. Search for your smell using the searchbar or the sidebar.
+
+.. note::
+
+   This project is under active development.
+
+Contents
+--------
+
+.. toctree::
+   :maxdepth: 4
+   :glob:
+
+   
+   Code related/Code duplication/Duplicate Alt Branches
+   Code related/Code duplication/Duplicate Assert
+   Code related/Code duplication/Duplicate Component Definition
+   Code related/Code duplication/Duplicate In-Line Templates
+   Code related/Code duplication/Duplicate Local Variable-Constant-Timer
+   Code related/Code duplication/Duplicate Statements
+   Code related/Code duplication/Duplicate Template Fields
+   Code related/Code duplication/Duplicated Code In Conditional
+   Code related/Code duplication/Duplicated Code
+   Code related/Code duplication/Half A Helper Method
+   Code related/Code duplication/Missing Parameterised Test
+   Code related/Code duplication/Missing Test Data Factory
+   Code related/Code duplication/Test Code Duplication
+   Code related/Code duplication/The First And Last Rites
+   Code related/Code duplication/Two For The Price Of One
+   Code related/Complex - Hard to understand/Bad Comment Rate
+   Code related/Complex - Hard to understand/Hard-Coded Test Data
+   Code related/Complex - Hard to understand/Hard-Coded Values
+   Code related/Complex - Hard to understand/Herp Derp
+   Code related/Complex - Hard to understand/It Looks Right To Me
+   Code related/Complex - Hard to understand/Long Statement Block
+   Code related/Complex - Hard to understand/Long Test
+   Code related/Complex - Hard to understand/Magic Number Test
+   Code related/Complex - Hard to understand/Magic Number
+   Code related/Complex - Hard to understand/Magic Values
+   Code related/Complex - Hard to understand/Obscure Test
+   Code related/Complex - Hard to understand/Obscure Tests
+   Code related/Complex - Hard to understand/Over Refactoring Of Tests
+   Code related/Complex - Hard to understand/Overcommented Test
+   Code related/Complex - Hard to understand/Self Important Test Data
+   Code related/Complex - Hard to understand/Using Complicated X-Path Or Css Selectors
+   Code related/In association with production code/Code Pollution
+   Code related/In association with production code/Context Logic In Production Code
+   Code related/In association with production code/Equality Pollution
+   Code related/In association with production code/Fire And Forget
+   Code related/In association with production code/Overspecification
+   Code related/In association with production code/Overspecified Tests
+   Code related/In association with production code/Plate Spinning
+   Code related/In association with production code/Production Logic In Test
+   Code related/In association with production code/Test Hook
+   Code related/In association with production code/Test Hooks
+   Code related/In association with production code/Test Tautology
+   Code related/In association with production code/The Ugly Mirror
+   Code related/Mock and stub related/Is Mockito Working Fine
+   Code related/Mock and stub related/Mockers Without Borders
+   Code related/Mock and stub related/Mockito Any Vs Isa
+   Code related/Mock and stub related/MockEm All
+   Code related/Mock and stub related/Remote Control Mocking
+   Code related/Mock and stub related/Surreal
+   Code related/Mock and stub related/The Dead Tree
+   Code related/Violating coding best practices/Anonymous Test
+   Code related/Violating coding best practices/Bad Documentation Comment
+   Code related/Violating coding best practices/Bad Naming
+   Code related/Violating coding best practices/Blethery Prefixes
+   Code related/Violating coding best practices/Constant Actual Parameter Value
+   Code related/Violating coding best practices/Default Test
+   Code related/Violating coding best practices/Directly Executing Javascript
+   Code related/Violating coding best practices/Empty Test
+   Code related/Violating coding best practices/Erratic Tests
+   Code related/Violating coding best practices/Everything Is A Property
+   Code related/Violating coding best practices/Flaky Locator
+   Code related/Violating coding best practices/Fully-Parameterized Template
+   Code related/Violating coding best practices/Goto Statement
+   Code related/Violating coding best practices/Hidden Meaning
+   Code related/Violating coding best practices/Hidden Test Call
+   Code related/Violating coding best practices/Ignored Test
+   Code related/Violating coding best practices/Is There Anybody There
+   Code related/Violating coding best practices/Literal Pollution
+   Code related/Violating coding best practices/Long Parameter List
+   Code related/Violating coding best practices/Missed Skip Rotten Green Test
+   Code related/Violating coding best practices/Missing Variable Definition
+   Code related/Violating coding best practices/Missing Verdict
+   Code related/Violating coding best practices/Name-Clashing Import
+   Code related/Violating coding best practices/Nondeterministic Test
+   Code related/Violating coding best practices/Over-Specific Runs On
+   Code related/Violating coding best practices/Overreferencing
+   Code related/Violating coding best practices/Short Template
+   Code related/Violating coding best practices/Singular Component Variable-Constant-Timer Reference
+   Code related/Violating coding best practices/Singular Template Reference
+   Code related/Violating coding best practices/Stop In Function
+   Code related/Violating coding best practices/Test Body Is Somewhere Else
+   Code related/Violating coding best practices/The Stepford Fields
+   Code related/Violating coding best practices/Time Bombs
+   Code related/Violating coding best practices/Time Sensitive Test
+   Code related/Violating coding best practices/Unreachable Default
+   Code related/Violating coding best practices/Unrestricted Imports
+   Code related/Violating coding best practices/Unused Imports
+   Code related/Violating coding best practices/Unused Parameter
+   Code related/Violating coding best practices/Unused Variable Definition
+   Code related/Violating coding best practices/Wasted Variable Definition
+   Dependencies/Dependencies among tests/Constrained Test Order
+   Dependencies/Dependencies among tests/Coupling Between Test Methods
+   Dependencies/Dependencies among tests/Interacting Test Suites
+   Dependencies/Dependencies among tests/Litter Bugs
+   Dependencies/Dependencies among tests/Order Dependent Tests
+   Dependencies/Dependencies among tests/Test Run War
+   Dependencies/External dependencies/Factories Depending On Database Records
+   Dependencies/External dependencies/Hidden Integration Test
+   Dependencies/External dependencies/Mystery Guest
+   Dependencies/External dependencies/Require External Resources
+   Dependencies/External dependencies/Resource Optimism
+   Design related/Not using test patterns/Autogeneration
+   Design related/Not using test patterns/Constructor Initialization
+   Design related/Not using test patterns/Disorder
+   Design related/Not using test patterns/Missing Log
+   Design related/Not using test patterns/Not Using Page-Objects
+   Design related/Not using test patterns/TestClass Hierarchy
+   Design related/Not using test patterns/Unknown Test
+   Issues in test steps/Issues in assertions/7 Layer Testing
+   Issues in test steps/Issues in assertions/Asserting Pre-Condition And Invariants
+   Issues in test steps/Issues in assertions/Assertion Diversion
+   Issues in test steps/Issues in assertions/Assertionless Test
+   Issues in test steps/Issues in assertions/Assertions Should Be Merciless
+   Issues in test steps/Issues in assertions/Brittle Test
+   Issues in test steps/Issues in assertions/Brittle Ui Tests
+   Issues in test steps/Issues in assertions/Broad Assertion
+   Issues in test steps/Issues in assertions/Bumbling Assertions
+   Issues in test steps/Issues in assertions/Calculating Expected Results On The Fly
+   Issues in test steps/Issues in assertions/Commented Test
+   Issues in test steps/Issues in assertions/Complex Assertions
+   Issues in test steps/Issues in assertions/Conspiracy Of Silence
+   Issues in test steps/Issues in assertions/Fantasy Tests
+   Issues in test steps/Issues in assertions/Fragile Tests
+   Issues in test steps/Issues in assertions/Fuzzy Assertions
+   Issues in test steps/Issues in assertions/Inadequate Assertion
+   Issues in test steps/Issues in assertions/Incidental Coverage
+   Issues in test steps/Issues in assertions/Invisible Assertions
+   Issues in test steps/Issues in assertions/Missed Fail Rotten Green Test
+   Issues in test steps/Issues in assertions/Missing Assertions
+   Issues in test steps/Issues in assertions/No Assertions
+   Issues in test steps/Issues in assertions/Over Exertion Assertion
+   Issues in test steps/Issues in assertions/Premature Assertions
+   Issues in test steps/Issues in assertions/Primitive Assertion
+   Issues in test steps/Issues in assertions/Redundant Assertion
+   Issues in test steps/Issues in assertions/Second Guess The Calculation
+   Issues in test steps/Issues in assertions/Self-Test
+   Issues in test steps/Issues in assertions/Sensitive Equality
+   Issues in test steps/Issues in assertions/Testing The Internal Monologue
+   Issues in test steps/Issues in assertions/Under-The-Carpet Failing Assertion
+   Issues in test steps/Issues in assertions/Using The Wrong Assert
+   Issues in test steps/Issues in exception handling
+   Issues in test steps/Issues in exception handling/Catching Unexpected Exceptions
+   Issues in test steps/Issues in exception handling/Exception Handling
+   Issues in test steps/Issues in exception handling/Expected Exceptions And Verification
+   Issues in test steps/Issues in exception handling/Expecting Exceptions Anywhere
+   Issues in test steps/Issues in exception handling/The Secret Catcher
+   Issues in test steps/Issues in exception handling/The Silent Catcher
+   Issues in test steps/Issues in setup/Badly Used Fixture
+   Issues in test steps/Issues in setup/Bury The Lede
+   Issues in test steps/Issues in setup/Complicated Set Up Scenarios Within The Tests Themselves
+   Issues in test steps/Issues in setup/Curdled Test Fixtures
+   Issues in test steps/Issues in setup/Excessive Setup
+   Issues in test steps/Issues in setup/General Fixture
+   Issues in test steps/Issues in setup/Idle Ptc
+   Issues in test steps/Issues in setup/Irrelevant Information
+   Issues in test steps/Issues in setup/Isolated Ptc
+   Issues in test steps/Issues in setup/Noisy Setup
+   Issues in test steps/Issues in setup/Oversharing On Setup
+   Issues in test steps/Issues in setup/Superfluous Setup Data
+   Issues in test steps/Issues in setup/Test Setup Is Somewhere Else
+   Issues in test steps/Issues in setup/Unused Definition
+   Issues in test steps/Issues in setup/Using Fixtures
+   Issues in test steps/Issues in teardown/Activation Asymmetry
+   Issues in test steps/Issues in teardown/Complex Teardown
+   Issues in test steps/Issues in teardown/External Shared-State Corruption
+   Issues in test steps/Issues in teardown/Shared-State Corruption
+   Issues in test steps/Issues in teardown/Unrepeatable Test
+   Test execution - behavior/Other test execution - behavior
+   Test execution - behavior/Other test execution - behavior/Chatty Logging
+   Test execution - behavior/Other test execution - behavior/Redundant Print
+   Test execution - behavior/Other test execution - behavior/Transcripting Test
+   Test execution - behavior/Other test execution - behavior/Unnecessary Navigation
+   Test execution - behavior/Performance/Asynchronous Test
+   Test execution - behavior/Performance/Factories Pulling Too Many Dependencies
+   Test execution - behavior/Performance/Sleeping For Arbitrary Amount Of Time
+   Test execution - behavior/Performance/Sleepy Test
+   Test execution - behavior/Performance/Slow Test
+   Test execution - behavior/Performance/The Slow Poke
+   Test semantic-logic/Other test logic related/Branch To Assumption Anti-Pattern
+   Test semantic-logic/Other test logic related/Chafing
+   Test semantic-logic/Other test logic related/Complex Conditional
+   Test semantic-logic/Other test logic related/Conditional Assertions
+   Test semantic-logic/Other test logic related/Conditional Test Logic
+   Test semantic-logic/Other test logic related/Conditional Verification Logic
+   Test semantic-logic/Other test logic related/Contaminated Test Subject
+   Test semantic-logic/Other test logic related/Context-Dependent Rotten Green Assertion Test
+   Test semantic-logic/Other test logic related/Embedding Implementation Detail In Your Features-Scenarios
+   Test semantic-logic/Other test logic related/Evolve Or
+   Test semantic-logic/Other test logic related/Factories With Random Data Instead Of Sequences
+   Test semantic-logic/Other test logic related/Flexible Test
+   Test semantic-logic/Other test logic related/Fully Rotten Green Test
+   Test semantic-logic/Other test logic related/Generative
+   Test semantic-logic/Other test logic related/Ground Zero
+   Test semantic-logic/Other test logic related/Guarded Test
+   Test semantic-logic/Other test logic related/Happy Path
+   Test semantic-logic/Other test logic related/Indecisive
+   Test semantic-logic/Other test logic related/Insufficient Grouping
+   Test semantic-logic/Other test logic related/Invasion Of Privacy
+   Test semantic-logic/Other test logic related/Lazy Test
+   Test semantic-logic/Other test logic related/Multiple Test Conditions
+   Test semantic-logic/Other test logic related/Nested Conditional
+   Test semantic-logic/Other test logic related/Paranoid
+   Test semantic-logic/Other test logic related/Parsed Data
+   Test semantic-logic/Other test logic related/Quixotic
+   Test semantic-logic/Other test logic related/Rotten Green Test
+   Test semantic-logic/Other test logic related/Skip Rotten Green Test
+   Test semantic-logic/Other test logic related/Tangential
+   Test semantic-logic/Other test logic related/Test By Number
+   Test semantic-logic/Other test logic related/The Liar
+   Test semantic-logic/Other test logic related/Underspecification
+   Test semantic-logic/Other test logic related/Use Smart Values
+   Test semantic-logic/Other test logic related/X-Ray Specs
+   Test semantic-logic/Testing many things/Assertion Roulette
+   Test semantic-logic/Testing many things/Eager Test
+   Test semantic-logic/Testing many things/Messy Test
+   Test semantic-logic/Testing many things/Missing Assertion Message
+   Test semantic-logic/Testing many things/Multiple Assertions
+   Test semantic-logic/Testing many things/Split Logic
+   Test semantic-logic/Testing many things/Split Personality
+   Test semantic-logic/Testing many things/The Free Ride
+   Test semantic-logic/Testing many things/The Giant
+   Test semantic-logic/Testing many units
+   Test semantic-logic/Testing many units/Indirect Testing
+
