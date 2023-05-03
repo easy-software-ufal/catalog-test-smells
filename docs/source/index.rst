@@ -13,7 +13,7 @@ Contents
 .. toctree::
    :maxdepth: 4
    :glob:
-   
+
    Test Smells/*
    Tests Smells/Code related/Code duplication/Duplicate Alt Branches
    Tests Smells/Code related/Code duplication/Duplicate Assert
@@ -65,7 +65,6 @@ Contents
    Tests Smells/Code related/Mock and stub related/Remote Control Mocking
    Tests Smells/Code related/Mock and stub related/Surreal
    Tests Smells/Code related/Mock and stub related/The Dead Tree
-   Tests Smells/Code related/Violating coding best practices
    Tests Smells/Code related/Violating coding best practices/Anonymous Test
    Tests Smells/Code related/Violating coding best practices/Bad Documentation Comment
    Tests Smells/Code related/Violating coding best practices/Bad Naming
@@ -106,7 +105,6 @@ Contents
    Tests Smells/Code related/Violating coding best practices/Unused Parameter
    Tests Smells/Code related/Violating coding best practices/Unused Variable Definition
    Tests Smells/Code related/Violating coding best practices/Wasted Variable Definition
-   Tests Smells/Dependencies/Dependencies among tests
    Tests Smells/Dependencies/Dependencies among tests/Constrained Test Order
    Tests Smells/Dependencies/Dependencies among tests/Coupling Between Test Methods
    Tests Smells/Dependencies/Dependencies among tests/Interacting Test Suites
@@ -118,7 +116,6 @@ Contents
    Tests Smells/Dependencies/External dependencies/Mystery Guest
    Tests Smells/Dependencies/External dependencies/Require External Resources
    Tests Smells/Dependencies/External dependencies/Resource Optimism
-   Tests Smells/Design related/Not using test patterns
    Tests Smells/Design related/Not using test patterns/Autogeneration
    Tests Smells/Design related/Not using test patterns/Constructor Initialization
    Tests Smells/Design related/Not using test patterns/Disorder
@@ -126,7 +123,6 @@ Contents
    Tests Smells/Design related/Not using test patterns/Not Using Page-Objects
    Tests Smells/Design related/Not using test patterns/TestClass Hierarchy
    Tests Smells/Design related/Not using test patterns/Unknown Test
-   Tests Smells/Issues in test steps/Issues in assertions
    Tests Smells/Issues in test steps/Issues in assertions/7 Layer Testing
    Tests Smells/Issues in test steps/Issues in assertions/Asserting Pre-Condition And Invariants
    Tests Smells/Issues in test steps/Issues in assertions/Assertion Diversion
@@ -166,7 +162,6 @@ Contents
    Tests Smells/Issues in test steps/Issues in exception handling/Expecting Exceptions Anywhere
    Tests Smells/Issues in test steps/Issues in exception handling/The Secret Catcher
    Tests Smells/Issues in test steps/Issues in exception handling/The Silent Catcher
-   Tests Smells/Issues in test steps/Issues in setup
    Tests Smells/Issues in test steps/Issues in setup/Badly Used Fixture
    Tests Smells/Issues in test steps/Issues in setup/Bury The Lede
    Tests Smells/Issues in test steps/Issues in setup/Complicated Set Up Scenarios Within The Tests Themselves
@@ -182,13 +177,11 @@ Contents
    Tests Smells/Issues in test steps/Issues in setup/Test Setup Is Somewhere Else
    Tests Smells/Issues in test steps/Issues in setup/Unused Definition
    Tests Smells/Issues in test steps/Issues in setup/Using Fixtures
-   Tests Smells/Issues in test steps/Issues in teardown
    Tests Smells/Issues in test steps/Issues in teardown/Activation Asymmetry
    Tests Smells/Issues in test steps/Issues in teardown/Complex Teardown
    Tests Smells/Issues in test steps/Issues in teardown/External Shared-State Corruption
    Tests Smells/Issues in test steps/Issues in teardown/Shared-State Corruption 
    Tests Smells/Issues in test steps/Issues in teardown/Unrepeatable Test
-   Tests Smells/Test execution - behavior
    Tests Smells/Test execution - behavior/Other test execution - behavior
    Tests Smells/Test execution - behavior/Other test execution - behavior/Chatty Logging 
    Tests Smells/Test execution - behavior/Other test execution - behavior/Redundant Print
