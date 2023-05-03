@@ -39,7 +39,7 @@ html_js_files = [
 html_static_path = ['_static']
 html_logo = "https://easy-group.netlify.app/img/easy.svg"
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'display_version': True,
 }
 # -- Options for EPUB output
