@@ -1,5 +1,5 @@
 ####################
-Dependencies among tests
+External Dependencies
 ####################
 
 This subgroup was proposed by Garousi
