@@ -1,6 +1,6 @@
 
 ####################
-Other test execution - behavior
+Testing many things
 ####################
 
 This subgroup was proposed by Garousi
