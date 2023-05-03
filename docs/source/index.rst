@@ -19,11 +19,6 @@ The catalog provides a helpful resource for software testing community members t
 
 Contents
 --------
-.. toctree
-   :caption: About Us
-
-   about
-
 .. toctree::
    :maxdepth: 4
    :caption: Test Smell Groups
@@ -34,3 +29,8 @@ Contents
    Issues in test steps/index
    Test execution - behavior/index
    Test semantic-logic/index
+
+   .. toctree
+   :caption: About Us
+
+   about

@@ -9,7 +9,7 @@ Code duplication
 
     Duplicate Alt Branches
     Duplicate Assert
-    Duplicate Component Definition.
+    Duplicate Component Definition
     Duplicate In-Line Templates
     Duplicate Local Variable-Constant-Timer
     Duplicate Statements
@@ -20,5 +20,5 @@ Code duplication
     Missing Parameterised Test
     Missing Test Data Factory
     Test Code Duplication
-    The F And Last Rites
+    The First And Last Rites
     Two For The Price Of One
