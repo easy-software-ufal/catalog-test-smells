@@ -11,7 +11,7 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 4
    Tests Smells\Code related\Code duplication\Duplicate Alt Branches
    Tests Smells\Code related\Code duplication\Duplicate Assert
    Tests Smells\Code related\Code duplication\Duplicate Component Definition
