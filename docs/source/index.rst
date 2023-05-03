@@ -1,7 +1,7 @@
 Welcome to Test Smell Catalog!
 ===================================
 
-This site is a catalog containing smells from a variety of places.
+This site is a catalog containing smells from a variety of places. Search for your smell using the searchbar or the sidebar.
 
 .. note::
 
@@ -11,9 +11,6 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
    test-execution-behavior
    issues-in-test-steps
   
