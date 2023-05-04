@@ -23,6 +23,6 @@ If you have found a bug, edit the page on GitHub or create a new issue!
 --------------------------------
 You need to create a new pull request with the changes or email us on easy@ic.ufal.br
 
-.. tip:
+.. tip::
 
-You may click :guilabel:`Edit on GitHub` in the top right corner of this page to get fast access to our GitHub repo!
+  You may click :guilabel:`Edit on GitHub` in the top right corner of this page to get fast access to our GitHub repo!
