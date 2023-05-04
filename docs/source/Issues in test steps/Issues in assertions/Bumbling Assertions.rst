@@ -7,6 +7,16 @@ Definitions:
 
 Code Example::
 
+.. code-block:: java
+
+Optional<Foo> result = service.getFoos(123);
+assertNotNull(result);
+assertThat(result).isNotEmpty();
+assertThat(result.getBar()).isNotNull();
+assertThat(result.getBar()).hasSize(1);
+assertThat(result.getBar().get(0)).isEqualTo("buzz");
+
+
 References:
 
  * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_

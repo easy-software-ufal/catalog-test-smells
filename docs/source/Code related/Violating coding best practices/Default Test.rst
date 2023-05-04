@@ -9,6 +9,27 @@ Definitions:
 
 Code Example::
 
+.. code-block:: java
+public class ExampleUnitTest {
+    @Test
+	public void addition_isCorrect() throws Exception {
+		assertEquals(4, 2 + 2);
+	}
+
+    @Test
+    public void shareProblem() throws InterruptedException {
+    	.....
+		Observable.just(200)
+ 		.subscribeOn(Schedulers.newThread())
+		.subscribe(begin.asAction());
+		begin.set(200);
+		Thread.sleep(1000);
+		assertEquals(beginTime.get(), "200");
+    	.....
+	}
+	.....
+}
+            
 References:
 
  * `On the distribution of test smells in open source Android applications: an exploratory study <https://dl.acm.org/doi/10.5555/3370272.3370293>`_

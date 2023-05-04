@@ -6,6 +6,15 @@ Definitions:
 
 
 Code Example::
+.. code-block:: java
+
+@Test
+void someTest() {
+    Mockito.when(someMock.get())
+       .thenReturn(123);
+ 
+    ...
+}
 
 References:
 
