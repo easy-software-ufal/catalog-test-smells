@@ -5,7 +5,15 @@ Definitions:
 * it makes your test non-deterministic: you will never be sure which path will be verified in the next pass
 
 
-Code Example::
+Code Example:
+
+.. code-block:: javascript
+
+  if (existsInSystem(testUser)) {
+    // test for existing user...
+  } else {
+    // test for not existing user...
+  }
 
 References:
 

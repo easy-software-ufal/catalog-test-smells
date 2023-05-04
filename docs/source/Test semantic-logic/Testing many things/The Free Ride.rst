@@ -10,7 +10,26 @@ Also Known As:
 * Piggyback
 * Piggyback
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+    public void CalculateDiscount_ExpectedDiscountForFirstTimePurchase()
+    {
+        //Arrange            
+        decimal expected = 0.1M;
+        decimal expectedResultAge = 0.2M;
+
+        var sut = new DiscountCalculator();
+
+        //Act
+        var result = sut.CalculateDiscount(true, 30);
+        var resultAge = sut.CalculateDiscount(false, 65);
+
+        //Assert            
+        Assert.Equal(expected, result);
+        Assert.Equal(expectedResultAge, resultAge);
+    }
 
 References:
 

@@ -5,7 +5,32 @@ Definitions:
 * This is usually caused by wanting to prevent the execution of assertions if the SUT fails to return the right objects or the use of loops to verify the contents of collections returned by the SUT.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  public void testCombinationsOfInputValues() {
+    Calculator sut = new Calculator();
+    int expected;
+
+    for (int i = 0; i < 10; i++){
+      for(int j = 0 ; j < 10; j++){
+        int acutal = sut.calculate(i , j);
+
+        if(i==3 & j==4){
+          expected = 8;
+        } else {
+          expected = i+j;
+        }
+
+        assertEquals(message(i, j), expected, actual);
+      }
+    }
+  }
+
+  private String message(int i, int j) {
+    return "Cell (" + String.valueOf(i) + ", " + String.valueOf(j) + ")";
+  }
 
 References:
 

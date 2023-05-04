@@ -5,7 +5,29 @@ Definitions:
 * A test is trying to apply the same test logic to many sets of input values each with their own corresponding expected result.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  public void testMultipleValueSets(){
+    // Set Up Fixture
+    Calculator sut = new Calculator();
+    TestValues[] testValues = {
+      new TestValues(1,2,3),
+      new TestValues(2,3,5),
+      new TestValues(3,4,8),
+      new TestValues(4,5,9)
+    };
+    for (int i = 0; i < testValues.length; i++){
+      TestValues values = testValues[i];
+      int actual = sut.calculate( values.a, values.b);
+      assertEquals(message(i), values.expectedSum, actual);
+    }
+  }
+
+  private String message(int i) {
+    return "Row "+ String.valueOf(i);
+  }
 
 References:
 

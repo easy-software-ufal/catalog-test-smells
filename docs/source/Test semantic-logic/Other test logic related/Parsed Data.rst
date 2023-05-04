@@ -5,7 +5,18 @@ Definitions:
 * A test creates structured data by parsing unstructured input and only uses the structured data during the test.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  void ParseAndTest(string xml) {
+    // parse
+    Employee e = Employee.Deserialize(xml);
+    // test logic
+    EmployeeCollection c = new EmployeeCollection();
+    c.Add(e);
+    Assert.IsTrue(c.Contains(e));
+  }
 
 References:
 

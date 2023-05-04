@@ -10,7 +10,34 @@ Definitions:
 * When a test method has many unexplained assertions, making it hard to tell which one may cause a test failure
 
 
-Code Example::
+.. code-block:: python
+    
+    import unittest
+ 
+    airLinesCode = ['2569','2450','2340']
+    
+    class Flight:
+        def __init__(self,airLine,mileage):
+            self.mileage = mileage
+            self.airLine = airLine
+            self.fullFuel = True
+            
+        def isValidAirLineCode(self):
+            for airLineCode in airLinesCode:
+                if(self.airLine == airLineCode):
+                    return True
+            return False
+
+    class TestFlight(unittest.TestCase):
+        def test_flight(self):
+            flight = Flight('2569',1000)
+            
+            self.assertEqual(flight.mileage,1000)
+            self.assertTrue(flight.fullFuel)
+            self.assertTrue(flight.isValidAirLineCode())
+
+    if __name__ == '__main__':
+        unittest.main(argv=['first-arg-is-ignored'], exit=False)
 
 References:
 

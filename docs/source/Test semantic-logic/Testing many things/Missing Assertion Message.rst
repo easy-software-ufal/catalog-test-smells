@@ -5,7 +5,21 @@ Definitions:
 * A test fails. Upon examining the output of the Test Runner, we cannot determine exactly which assertion had failed.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+    
+    public void testInvoice_addLineItem7() {
+        LineItem expItem = new LineItem(inv, product, QUANTITY);
+        //  Exercise
+        inv.addItemQuantity(product, QUANTITY);
+        // Verify
+        List lineItems = inv.getLineItems();
+        LineItem actual = (LineItem)lineItems.get(0);
+        assertEquals(expItem.getInv(), actual.getInv());
+        assertEquals(expItem.getProd(), actual.getProd());
+        assertEquals(expItem.getQuantity(), actual.getQuantity());
+    }  
 
 References:
 
