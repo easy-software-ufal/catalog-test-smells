@@ -5,7 +5,17 @@ Definitions:
 * A test behaves differently the first time it is run than how it behaves on subsequent test runs.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: smalltalk
+
+  Suite.run()--> Green
+  Suite.run()--> Test C fails
+  Suite.run()--> Test C fails
+  # User resets something
+  Suite.run()--> Green
+  Suite.run()--> Test C fails
+  Suite.run()--> Test C fails
 
 References:
 

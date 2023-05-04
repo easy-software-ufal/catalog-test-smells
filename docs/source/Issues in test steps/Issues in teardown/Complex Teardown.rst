@@ -5,7 +5,37 @@ Definitions:
 * Complex fixture teardown code is more likely to leave test environment corrupted by not cleaning up correctly. It is hard to verify that it has been written correctly and can easily result in "data leaks" that may later cause this or other tests to fail for no apparent reason.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+  
+  public void testGetFlightsByOrigin_NoInboudFlight_SMRTD() throws exception{
+    BigDecimal outboundAirport = createTestAirport("1OF");
+    BigDecimal inboundAirport = null;
+    FlightDto expFlightDto = null;
+
+    try {
+      inboundAirport = createTestAirport("1IF");
+      expFlightDto = 
+            createTestFlight(outboundAirport, inboundAirport);
+      
+      List flightsAtDestination1 =
+            facade.getFlightsByOriginAirport(inboundAirport);
+      
+      assertEquals(0, flightsAtDestination1.size());
+    } finally {
+      try {
+        facade.removeFlight(expFlightDto.getFlightNumber());
+      } finally {
+        try {
+          facade.removeAirport(inboundAirport);
+        }finally {
+          facade.removeAirport(outboundAirport);
+        }
+      }
+    }
+  }
+
 
 References:
 
