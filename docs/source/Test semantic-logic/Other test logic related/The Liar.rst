@@ -3,7 +3,6 @@ The Liar
 Definitions:
 
 * Testing asynchronous code becomes tricky as it is based on a future value that you might receive or might not.
-* Testing asynchronous code becomes tricky as it is based on a future value that you might receive or might not.
 
 
 Code Example:

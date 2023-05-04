@@ -2,7 +2,7 @@ Short Template
 ^^^^^
 Definitions:
 
-* template definition is very short (in terms of characters or number of fields).
+* Template definition is very short (in terms of characters or number of fields).
 
 
 Code Example::

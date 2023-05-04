@@ -2,7 +2,7 @@ Erratic Tests
 ^^^^^
 Definitions:
 
-* tests that will pass or fail without you changing anything
+* Tests that will pass or fail without you changing anything
 
 
 Code Example::

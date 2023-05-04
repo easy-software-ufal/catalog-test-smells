@@ -2,7 +2,7 @@ Fragile Tests
 ^^^^^
 Definitions:
 
-* tests which seem to break when they shouldn't
+* Tests which seem to break when they shouldn't
 
 
 Code Example::

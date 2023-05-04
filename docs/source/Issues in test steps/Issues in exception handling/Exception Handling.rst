@@ -2,10 +2,7 @@ Exception Handling
 ^^^^^
 Definitions:
 
-* This smell occurs when the passing or failing of a test method is explicitly dependent on the production method throwing an exception. Developers should utilize JUnit’s exception handling features to automatically pass/fail the test instead of custom exception handling code or exception throwing.
-* Occurs when the test manually handles both exceptions and test outcome
 * This smell occurs when a test method explicitly a passing or failing of a test method is dependent on the production method throwing an exception. Developers should utilize JUnit's exception handling to automatically pass/fail the test instead of writing custom exception handling code or throwing an exception.
-* This smell occurs when the passing or failing of a test method is explicitly dependent on the production method throwing an exception. Developers should utilize JUnit’s exception handling features to automatically pass/fail the test instead of custom exception handling code or exception throwing.
 
 
 Code Example::

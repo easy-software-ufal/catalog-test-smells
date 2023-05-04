@@ -2,7 +2,7 @@ Blethery Prefixes
 ^^^^^
 Definitions:
 
-* where the implementation of a single line of test code is prefixed by a lot of characters before we get to the point
+* Where the implementation of a single line of test code is prefixed by a lot of characters before we get to the point
 
 
 Code Example::

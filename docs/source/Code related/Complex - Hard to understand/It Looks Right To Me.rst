@@ -2,7 +2,7 @@ It Looks Right To Me
 ^^^^^
 Definitions:
 
-* where the test data for negative cases makes the test hard to understand
+* Where the test data for negative cases makes the test hard to understand
 
 
 Code Example::

@@ -2,7 +2,7 @@ Is There Anybody There?
 ^^^^^
 Definitions:
 
-* any flickering test that occasionally breaks a build – bad test or bad code?
+* Any flickering test that occasionally breaks a build – bad test or bad code?
 
 
 Code Example::

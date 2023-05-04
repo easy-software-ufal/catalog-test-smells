@@ -2,7 +2,7 @@ The First And Last Rites
 ^^^^^
 Definitions:
 
-* where there’s some ritual/boilerplate at the start and end of most test bodies, suggesting a lack of common setup/teardown code
+* Where there’s some ritual/boilerplate at the start and end of most test bodies, suggesting a lack of common setup/teardown code
 
 Also Known As:
 
