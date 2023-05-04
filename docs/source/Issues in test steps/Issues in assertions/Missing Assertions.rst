@@ -6,7 +6,13 @@ Definitions:
 * the test method consists of an empty block
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  public void testSomething() {
+    // TODO
+  }
 
 References:
 

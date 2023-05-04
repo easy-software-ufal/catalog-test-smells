@@ -6,7 +6,17 @@ Definitions:
 * Failing assertions put into comments
 
 
-Code Example::
+Code Example:
+
+.. code-block:: smalltalk
+
+  ICImporterTest >> #testImport
+    ...
+    self assert: eventAtDate textualDescription = 'blabla'"
+    self assert: eventAtDate categories anyOne
+    = (calendar categoryWithSummary: 'business').
+    "self assert: ...
+
 
 References:
 
