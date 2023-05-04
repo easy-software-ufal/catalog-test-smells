@@ -11,7 +11,7 @@ Every smell listed here contains at least a definition, reference, and code exam
 
    Please help us keep this Catalog updated and **contribute with your own test smell findings**.
 
-   Send in your helpful comments or ideas 💡 to easy@ic.ufal.br
+   Send in your helpful comments or ideas to easy@ic.ufal.br
    or contribute directly by clicking :guilabel:`Edit on GitHub` in the top right corner of this page.
 
    If you are not familiar with directly editing, give us a new issue! `Click here and create a new  GitHub issue <https://github.com/easy-software-ufal/catalog-test-smells/issues/new?assignees=mantertius%2C+eas5&labels=enhancement&template=add-new-test-smell.md&title=%5BNEW%5D+Add+a+new+smell>`_
