@@ -1,4 +1,4 @@
-Welcome to the Open Test Smell Catalog!
+Welcome to the Open Test Smells Catalog!
 ===================================
 
 Search for your smell using the **search** or the **sidebar** if you already know where to look, or browse by category in the left panel. There is a **lot** to see!
@@ -35,5 +35,5 @@ Contents
    :maxdepth: 1
    :caption: Miscellanous
 
-   about
+   About
    How to contribute
