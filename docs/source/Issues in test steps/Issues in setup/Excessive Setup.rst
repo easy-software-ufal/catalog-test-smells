@@ -7,6 +7,87 @@ Definitions:
 
 Code Example:
 
+.. code-block:: javascript
+    
+    jest.mock('compression')
+    jest.mock('connect')
+    jest.mock('serve-static')
+    jest.mock('serve-placeholder')
+    jest.mock('launch-editor-middleware')
+    jest.mock('@nuxt/utils')
+    jest.mock('@nuxt/vue-renderer')
+    jest.mock('../src/listener')
+    jest.mock('../src/context')
+    jest.mock('../src/jsdom')
+    jest.mock('../src/middleware/nuxt')
+    jest.mock('../src/middleware/error')
+    jest.mock('../src/middleware/timing')
+    
+    describe('server: server', () => {
+    const createNuxt = () => ({
+        options: {
+        dir: {
+            static: 'var/nuxt/static'
+        },
+        srcDir: '/var/nuxt/src',
+        buildDir: '/var/nuxt/build',
+        globalName: 'test-global-name',
+        globals: { id: 'test-globals' },
+        build: {
+            publicPath: '__nuxt_test'
+        },
+        router: {
+            base: '/foo/'
+        },
+        render: {
+            id: 'test-render',
+            dist: {
+            id: 'test-render-dist'
+            },
+            static: {
+            id: 'test-render-static',
+            prefix: 'test-render-static-prefix'
+            }
+        },
+        server: {},
+        serverMiddleware: []
+        },
+        hook: jest.fn(),
+        ready: jest.fn(),
+        callHook: jest.fn(),
+        resolver: {
+        requireModule: jest.fn(),
+        resolvePath: jest.fn().mockImplementation(p => p)
+        }
+    })
+    
+    beforeAll(() => {
+        jest.spyOn(path, 'join').mockImplementation((...args) => `join(${args.join(', ')})`)
+        jest.spyOn(path, 'resolve').mockImplementation((...args) => `resolve(${args.join(', ')})`)
+        connect.mockReturnValue({ use: jest.fn() })
+        serveStatic.mockImplementation(dir => ({ id: 'test-serve-static', dir }))
+        nuxtMiddleware.mockImplementation(options => ({
+        id: 'test-nuxt-middleware',
+        ...options
+        }))
+        errorMiddleware.mockImplementation(options => ({
+        id: 'test-error-middleware',
+        ...options
+        }))
+        createTimingMiddleware.mockImplementation(options => ({
+        id: 'test-timing-middleware',
+        ...options
+        }))
+        launchMiddleware.mockImplementation(options => ({
+        id: 'test-open-in-editor-middleware',
+        ...options
+        }))
+        servePlaceholder.mockImplementation(options => ({
+        key: 'test-serve-placeholder',
+        ...options
+        }))
+    })
+
 References:
 
  * `TDD anti patterns - Chapter 1 <https://www.codurance.com/publications/tdd-anti-patterns-chapter-1>`_

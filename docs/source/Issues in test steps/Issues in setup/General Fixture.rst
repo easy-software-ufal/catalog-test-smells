@@ -7,6 +7,30 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+    public void testGetFlightsByFromAirport_OneOutboundFlight() throws Exception {
+        setupStandardAirportsAndFlights();
+        FlightDto outboundFlight = findOneOutboundFlight();
+        // Exercise System
+        List flightsAtOrigin = facade.getFlightsByOriginAirport(
+                        outboundFlight.getOriginAirportId());
+        // Verify Outcome
+        assertOnly1FlightInDtoList( "Flights at origin", outboundFlight,
+                                    flightsAtOrigin);
+    }
+    
+    public void testGetFlightsByFromAirport_TwoOutboundFlights() throws Exception {
+        setupStandardAirportsAndFlights();
+        FlightDto[] outboundFlights = findTwoOutboundFlightsFromOneAirport();
+        // Exercise System
+        List flightsAtOrigin = facade.getFlightsByOriginAirport(
+                        outboundFlights[0].getOriginAirportId());
+        // Verify Outcome
+        assertExactly2FlightsInDtoList( "Flights at origin", outboundFlights,
+                                        flightsAtOrigin);
+    }
+
 References:
 
  * `Assessing diffusion and perception of test smells in scala projects <https://dl.acm.org/doi/10.1109/MSR.2019.00072>`_

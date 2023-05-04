@@ -9,11 +9,11 @@ Code Example:
 
 ..code-block:: java
 
-Boolean isValid = false;
-if (actualResult.contains("foo")) {
-    isValid = true;
-}
-assertEquals(true, isValid)
+    Boolean isValid = false;
+    if (actualResult.contains("foo")) {
+        isValid = true;
+    }
+    assertEquals(true, isValid)
 
 References:
 

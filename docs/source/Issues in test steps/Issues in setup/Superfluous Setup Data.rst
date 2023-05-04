@@ -7,6 +7,21 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+    @Test
+    public void givenMultipleWidgetsExistWhenQueriedByNameThenOnlyWidgetAFound() {
+    insertDefaultWidget("a");
+    insertDefaultWidget("b");
+    insertDefaultWidget("c");
+    
+    WidgetQuery widgetQuery = new WidgetQuery();
+    List<Widget> results = widgetQuery.findByName("a");
+    
+    assertEquals(1, results.size());
+    assertEquals("a", results[0].getName());
+    }
+
 References:
 
  * `Testing anti-patterns <https://medium.com/jameskbride/testing-anti-patterns-b5ffc1612b8b>`_

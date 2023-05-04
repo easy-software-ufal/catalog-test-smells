@@ -9,12 +9,12 @@ Code Example:
 
 .. code-block:: java
 
-Optional<Foo> result = service.getFoos(123);
-assertNotNull(result);
-assertThat(result).isNotEmpty();
-assertThat(result.getBar()).isNotNull();
-assertThat(result.getBar()).hasSize(1);
-assertThat(result.getBar().get(0)).isEqualTo("buzz");
+    Optional<Foo> result = service.getFoos(123);
+    assertNotNull(result);
+    assertThat(result).isNotEmpty();
+    assertThat(result.getBar()).isNotNull();
+    assertThat(result.getBar()).hasSize(1);
+    assertThat(result.getBar().get(0)).isEqualTo("buzz");
 
 
 References:
