@@ -3,13 +3,20 @@ Mystery Guest
 Definitions:
 
 * A test case that uses external resources that are not managed by a fixture. A drawback of this approach is that the interface to external resources might change over time necessitating an update of the test case, or that those resources might not be available when the test case is run, endangering the deterministic behavior of the test.
-* The test reader is not able to see the cause and effect between fixture and verification logic because part of it is done outside the Test Method.
-* The test reader is not able to see the cause and effect between fixture and verification logic because part of it is done outside the Test Method.
-* The test reader is not able to see the cause and effect between fixture and verification logic because part of it is done outside the Test Method.
-* Occurs when a test method utilizes external resources (e.g. files, database, etc.). Use of external resources in test methods will result in stability and performance issues. Developers should use mock objects in place of external resources.
-
 
 Code Example:
+
+.. code-block:: java
+
+  public void testGetFlightsByFromAirport_OneOutboundFlight_mg() throws Exception {
+      loadAirportsAndFlightsFromFile("test-flights.csv");
+      // Exercise System
+      List flightsAtOrigin = facade.getFlightsByOriginAirportCode( "YYC");
+      // Verify Outcome
+      assertEquals( 1, flightsAtOrigin.size());
+      FlightDto firstFlight = (FlightDto) flightsAtOrigin.get(0);
+      assertEquals( "Calgary", firstFlight.getOriginCity());
+   }
 
 References:
 
