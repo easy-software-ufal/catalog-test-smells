@@ -5,7 +5,16 @@ Definitions:
 * A test that passes if an exception is thrown.. even if the exception that actually occurs is one that is different than the one the developer intended.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: csharp
+
+  [Test]
+  [ExpectedException(typeof(Exception))]
+  public void ItShouldThrowDivideByZeroException()
+  {
+    // some code that throws another exception yet passes the test
+  }
 
 References:
 
