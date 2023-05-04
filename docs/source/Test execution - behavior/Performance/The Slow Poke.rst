@@ -8,6 +8,24 @@ Definitions:
 
 Code Example::
 
+..code-block:: javascript
+
+    test('shoutd show Buggy on user interaction by keyboard', done => {
+        const wrapper = mount(
+        <Guide 
+            guideContent={content}
+            currentHint={0}
+            showNext={false}
+            invalidCode={false}
+            afkExpirationTime={ 400}
+            />
+        );
+
+setTimeout(() => {
+    wrapper .update();
+    expect (wrapper.find('BuggySleepy'). length).toBe(1);
+
+
 References:
 
  * `TDD anti patterns - Chapter 1 <https://www.codurance.com/publications/tdd-anti-patterns-chapter-1>`_

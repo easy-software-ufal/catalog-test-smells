@@ -33,6 +33,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: 🏢 About Us
+   :caption: Miscellanous
 
    about
+   How to contribute
