@@ -5,7 +5,7 @@ Definitions:
 * A Badly Used Fixture is a xture that is not fully used by the tests in the test-suite.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * A test which lacks any explicit assertions, leading future readers in the potentially frustrating position of puzzling over the intention of the test.
 
 
-Code Example::
+Code Example:
 
 References:
 

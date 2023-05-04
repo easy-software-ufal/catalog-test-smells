@@ -6,7 +6,7 @@ Definitions:
 * This test smell normally identifies classes that contain test methods with repeated test code steps.
 
 
-Code Example::
+Code Example:
 
 References:
 

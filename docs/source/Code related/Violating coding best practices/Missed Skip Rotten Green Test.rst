@@ -5,7 +5,7 @@ Definitions:
 * Test methods contain guards to stop their execution early under certain conditions.
 
 
-Code Example::
+Code Example:
 
 References:
 

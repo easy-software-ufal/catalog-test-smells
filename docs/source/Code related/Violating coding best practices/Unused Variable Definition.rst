@@ -8,7 +8,7 @@ Also Known As:
 
 * Du Data Flow Anomaly
 
-Code Example::
+Code Example:
 
 References:
 

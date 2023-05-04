@@ -5,7 +5,7 @@ Definitions:
 * An import from another module is never used.
 
 
-Code Example::
+Code Example:
 
 References:
 

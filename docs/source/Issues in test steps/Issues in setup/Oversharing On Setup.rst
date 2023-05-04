@@ -5,7 +5,7 @@ Definitions:
 * Where every test sets up a lot of shared data which only some tests need
 
 
-Code Example::
+Code Example:
 
 References:
 

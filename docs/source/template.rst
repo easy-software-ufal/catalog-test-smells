@@ -1,4 +1,4 @@
-[SMELL NAME] 
+[SMELL NAME]
 ^^^^^
 Definitions:
 
@@ -8,7 +8,7 @@ Also Known As:
 
 * [AKA]
 
-Code Example::
+Code Example:
 
 References:
   * [REFERENCE]

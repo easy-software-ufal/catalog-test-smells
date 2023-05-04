@@ -5,7 +5,7 @@ Definitions:
 * Tests that do not compare a result with an expected value, but with the result itself
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Test failures occur at random when several people are running tests simultaneously.
 
 
-Code Example::
+Code Example:
 
 References:
 

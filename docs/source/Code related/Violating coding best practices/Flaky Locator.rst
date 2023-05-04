@@ -5,7 +5,7 @@ Definitions:
 * A key component to making UI automation work is to provide your tool with identifiers to the elements that you'd like it to find and interact with. Using flaky locators—ones that are not durable—is an awful code smell. 
 
 
-Code Example::
+Code Example:
 
 References:
 

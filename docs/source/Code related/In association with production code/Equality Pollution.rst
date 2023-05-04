@@ -5,7 +5,7 @@ Definitions:
 * The code that is put into production contains logic that should be exercised only during tests… A system that behaves one way in the test lab and an entirely different way in production is a recipe for disaster!
 
 
-Code Example::
+Code Example:
 
 References:
 

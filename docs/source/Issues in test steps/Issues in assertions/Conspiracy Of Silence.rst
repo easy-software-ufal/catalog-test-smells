@@ -5,7 +5,7 @@ Definitions:
 * When assertions in tests are failing with almost no clue why
 
 
-Code Example::
+Code Example:
 
 References:
 

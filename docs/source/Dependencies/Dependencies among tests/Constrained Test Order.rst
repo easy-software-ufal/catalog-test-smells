@@ -5,7 +5,7 @@ Definitions:
 * Tests expecting to be run in a specific order or expecting information from other test results
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Words and comments in test code or names that add nothing, like simple or test or //given
 
 
-Code Example::
+Code Example:
 
 References:
 

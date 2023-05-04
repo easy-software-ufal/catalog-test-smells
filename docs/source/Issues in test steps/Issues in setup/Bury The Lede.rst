@@ -5,7 +5,7 @@ Definitions:
 * A test's setup is so onerous that the reader forgets the purpose of the subject by the time they reach the relevant invocation and assertion of the subject.
 
 
-Code Example::
+Code Example:
 
 .. code-block:: javascript
 

@@ -8,7 +8,7 @@ Also Known As:
 
 * Dd Data Flow Anomaly
 
-Code Example::
+Code Example:
 
 References:
 

@@ -6,7 +6,7 @@ Definitions:
 * Pretending to assert data and functionality, but does not
 
 
-Code Example::
+Code Example:
 
 References:
 

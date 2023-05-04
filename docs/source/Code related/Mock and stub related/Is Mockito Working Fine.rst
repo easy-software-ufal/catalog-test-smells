@@ -5,7 +5,7 @@ Definitions:
 * When the mock framerwork is tested intead of the SUT
 
 
-Code Example::
+Code Example:
 
 References:
 

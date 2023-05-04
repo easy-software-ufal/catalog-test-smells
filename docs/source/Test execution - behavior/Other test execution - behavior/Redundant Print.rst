@@ -5,7 +5,7 @@ Definitions:
 * Print statements in unit tests are redundant as unit tests are executed as part of an automated. Furthermore, they can consume computing resources or increase execution time if the developer calls an intensive/long-running method from within the print method (i.e., as a parameter).
 
 
-Code Example::
+Code Example:
 
 References:
 

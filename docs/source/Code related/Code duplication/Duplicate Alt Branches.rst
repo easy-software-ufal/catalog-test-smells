@@ -5,7 +5,7 @@ Definitions:
 * Different alt constructs contain duplicate branches
 
 
-Code Example::
+Code Example:
 
 .. code-block:: java
 

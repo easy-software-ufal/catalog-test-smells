@@ -5,7 +5,7 @@ Definitions:
 * The same local variable, constant or timer is defined in two or more functions, test cases or altsteps running on the same component.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Tests that do not track the step that raised the expected exception and pass
 
 
-Code Example::
+Code Example:
 
 References:
 

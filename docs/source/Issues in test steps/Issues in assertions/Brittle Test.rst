@@ -5,7 +5,7 @@ Definitions:
 * UI tests containing procedural test code, duplicated steps and magic values
 
 
-Code Example::
+Code Example:
 
 References:
 

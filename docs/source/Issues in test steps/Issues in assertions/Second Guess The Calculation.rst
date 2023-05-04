@@ -5,7 +5,7 @@ Definitions:
 * Where rather than using concrete test data, we use something that needs us to calculate the correct answer ahead of assertion
 
 
-Code Example::
+Code Example:
 
 References:
 

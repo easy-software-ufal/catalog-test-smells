@@ -5,7 +5,7 @@ Definitions:
 * When the test has actions, taken for granted, not related to the things we want to check
 
 
-Code Example::
+Code Example:
 
 References:
 

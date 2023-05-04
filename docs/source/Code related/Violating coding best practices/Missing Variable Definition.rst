@@ -8,7 +8,7 @@ Also Known As:
 
 * Ur Data Flow Anomaly
 
-Code Example::
+Code Example:
 
 References:
 

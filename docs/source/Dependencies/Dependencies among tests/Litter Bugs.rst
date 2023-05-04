@@ -8,7 +8,7 @@ Also Known As:
 
 * Test Pollution
 
-Code Example::
+Code Example:
 
 References:
 

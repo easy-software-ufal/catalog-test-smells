@@ -5,7 +5,7 @@ Definitions:
 * The fields of two or more templates are identical or very similar
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * A verification happens after an expected exception is thrown and halts the test method execution
 
 
-Code Example::
+Code Example:
 
 References:
 

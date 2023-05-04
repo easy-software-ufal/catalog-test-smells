@@ -5,7 +5,7 @@ Definitions:
 * A Transcripting Test is writing information to the console or a global stream, for example the Transcript in Smalltalk, while it is running.
 
 
-Code Example::
+Code Example:
 
 References:
 

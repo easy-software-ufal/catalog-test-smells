@@ -5,7 +5,7 @@ Definitions:
 * The duplicated code can appear in a series of conditionals (with different conditions and the same action in each check) or in all legs of a conditional
 
 
-Code Example::
+Code Example:
 
 References:
 

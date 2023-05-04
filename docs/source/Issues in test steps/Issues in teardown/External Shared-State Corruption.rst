@@ -5,7 +5,7 @@ Definitions:
 * Integration tests with shared resources and no rollback
 
 
-Code Example::
+Code Example:
 
 References:
 

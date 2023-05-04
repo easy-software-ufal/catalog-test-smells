@@ -5,7 +5,7 @@ Definitions:
 * When a test uses fixtures to prepare and reuse test data on Rails
 
 
-Code Example::
+Code Example:
 
 References:
 

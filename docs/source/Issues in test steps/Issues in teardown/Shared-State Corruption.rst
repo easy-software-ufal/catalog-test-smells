@@ -5,7 +5,7 @@ Definitions:
 * Tests sharing in-memory state without rolling back
 
 
-Code Example::
+Code Example:
 
 References:
 

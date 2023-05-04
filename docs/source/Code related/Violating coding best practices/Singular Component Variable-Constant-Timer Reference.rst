@@ -5,7 +5,7 @@ Definitions:
 * A component variable, constant or timer is referenced by one single function, test case or altstep only, although other behavioral entities run on the component as well.
 
 
-Code Example::
+Code Example:
 
 References:
 

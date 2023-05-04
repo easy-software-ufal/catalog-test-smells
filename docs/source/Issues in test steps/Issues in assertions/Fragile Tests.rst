@@ -5,7 +5,7 @@ Definitions:
 * Tests which seem to break when they shouldn't
 
 
-Code Example::
+Code Example:
 
 References:
 

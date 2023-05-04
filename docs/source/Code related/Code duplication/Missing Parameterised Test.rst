@@ -5,7 +5,7 @@ Definitions:
 * When you did it the long way round because you didn’t bring in parameterisation
 
 
-Code Example::
+Code Example:
 
 References:
 

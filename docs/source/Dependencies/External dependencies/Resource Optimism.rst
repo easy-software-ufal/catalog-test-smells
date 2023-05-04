@@ -6,7 +6,7 @@ Definitions:
 * This smell occurs when a test method makes an optimistic assumption that the external resource (e.g., File), utilized by the test method, exists.
 
 
-Code Example::
+Code Example:
 
 References:
 

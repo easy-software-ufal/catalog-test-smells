@@ -5,7 +5,7 @@ Definitions:
 * When a verbose sequence of low-level records that is difficult to comprehend is displayed in the setup
 
 
-Code Example::
+Code Example:
 
 References:
 

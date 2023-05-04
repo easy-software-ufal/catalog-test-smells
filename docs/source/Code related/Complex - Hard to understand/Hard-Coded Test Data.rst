@@ -5,7 +5,7 @@ Definitions:
 * Data values in the fixture, assertions or arguments of the SUT are hard-coded in the Test Method obscuring cause-effect relationships between inputs and expected outputs.
 
 
-Code Example::
+Code Example:
 
 References:
 

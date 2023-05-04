@@ -5,7 +5,7 @@ Definitions:
 * All fields of a template are defined by formal parameters.
 
 
-Code Example::
+Code Example:
 
 References:
 

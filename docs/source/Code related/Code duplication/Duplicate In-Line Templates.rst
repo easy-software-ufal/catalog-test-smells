@@ -5,7 +5,7 @@ Definitions:
 * Two or more similar or identical in-line templates.
 
 
-Code Example::
+Code Example:
 
 .. code-block:: java
 

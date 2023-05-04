@@ -5,7 +5,7 @@ Definitions:
 * where a class that depends on a service is tested with those service’s complex dependencies mocked, rather than the service itself being mocked.
 
 
-Code Example::
+Code Example:
 
 References:
 

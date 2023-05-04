@@ -5,7 +5,7 @@ Definitions:
 * This smell occurs when a test method explicitly a passing or failing of a test method is dependent on the production method throwing an exception. Developers should utilize JUnit's exception handling to automatically pass/fail the test instead of writing custom exception handling code or throwing an exception.
 
 
-Code Example::
+Code Example:
 
 References:
 

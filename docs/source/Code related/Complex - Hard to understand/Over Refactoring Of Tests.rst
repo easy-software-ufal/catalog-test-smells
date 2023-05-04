@@ -5,7 +5,7 @@ Definitions:
 * where you can’t read them because they’ve been DRYed out to death
 
 
-Code Example::
+Code Example:
 
 References:
 

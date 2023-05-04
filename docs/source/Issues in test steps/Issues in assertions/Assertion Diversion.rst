@@ -5,7 +5,7 @@ Definitions:
 * Where the wrong sort of assert is used, thus making a test failure harder to understand
 
 
-Code Example::
+Code Example:
 
 ..code-block:: java
 

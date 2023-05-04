@@ -5,7 +5,7 @@ Definitions:
 * A default activation has no matching subsequent deactivation in the same statement block, or a deactivation has no matching previous activation.
 
 
-Code Example::
+Code Example:
 
 References:
 

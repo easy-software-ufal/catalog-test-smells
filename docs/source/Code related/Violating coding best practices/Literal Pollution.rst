@@ -7,7 +7,7 @@ Definitions:
 - The same or similar test data is often repeated within a test or testsuite. This is often a consequence of simply extending or adding tests without actually designing them. The result is a test-suite that is extremely hard to maintain and refactor. We detected such Duplication in harvesting our case study.
 
 
-Code Example::
+Code Example:
 
 References:
 

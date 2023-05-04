@@ -5,7 +5,7 @@ Definitions:
 * Misuse of mockito’s matchers classes to type checks
 
 
-Code Example::
+Code Example:
 
 References:
 

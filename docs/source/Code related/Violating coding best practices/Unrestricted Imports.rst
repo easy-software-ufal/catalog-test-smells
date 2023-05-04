@@ -5,7 +5,7 @@ Definitions:
 * A module imports more from another module than needed.
 
 
-Code Example::
+Code Example:
 
 References:
 

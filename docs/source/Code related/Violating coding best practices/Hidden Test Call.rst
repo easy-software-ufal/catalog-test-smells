@@ -5,7 +5,7 @@ Definitions:
 * Tests calling other tests
 
 
-Code Example::
+Code Example:
 
 References:
 

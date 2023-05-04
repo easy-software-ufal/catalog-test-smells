@@ -5,7 +5,7 @@ Definitions:
 * A PTC is created but never started. A PTC which is not started is of no use for the test case.
 
 
-Code Example::
+Code Example:
 
 References:
 

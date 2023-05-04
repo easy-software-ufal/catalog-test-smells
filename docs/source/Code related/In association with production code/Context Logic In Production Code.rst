@@ -5,7 +5,7 @@ Definitions:
 * When the production code becomes aware of the context in which it is used.
 
 
-Code Example::
+Code Example:
 
 References:
 

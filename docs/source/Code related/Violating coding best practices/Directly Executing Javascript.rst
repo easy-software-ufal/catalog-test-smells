@@ -5,7 +5,7 @@ Definitions:
 * Since WebDriver can directly execute any arbitrary JavaScript, it can be tempting to bypass DOM manipulation and just run the JavaScript.
 
 
-Code Example::
+Code Example:
 
 References:
 

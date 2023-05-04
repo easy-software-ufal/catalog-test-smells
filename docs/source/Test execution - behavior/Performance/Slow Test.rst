@@ -5,7 +5,7 @@ Definitions:
 * Slow tests are kind of tests which take long enough to run
 
 
-Code Example::
+Code Example:
 
 References:
 

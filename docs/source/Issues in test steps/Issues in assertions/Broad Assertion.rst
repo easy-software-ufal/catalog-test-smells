@@ -5,7 +5,7 @@ Definitions:
 * Assertions that do not compare exact content and are, therefore, broad
 
 
-Code Example::
+Code Example:
 
 References:
 

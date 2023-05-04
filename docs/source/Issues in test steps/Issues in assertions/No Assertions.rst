@@ -5,7 +5,7 @@ Definitions:
 * Tests that have no assertions and require the manual verification of log outputs
 
 
-Code Example::
+Code Example:
 
 References:
 

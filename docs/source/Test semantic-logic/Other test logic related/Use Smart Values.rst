@@ -5,7 +5,7 @@ Definitions:
 * Tests pass when the scenario they test is not really fulfilled
 
 
-Code Example::
+Code Example:
 
 References:
 

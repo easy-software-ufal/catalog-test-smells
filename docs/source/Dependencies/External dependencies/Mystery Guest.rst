@@ -9,7 +9,7 @@ Definitions:
 * Occurs when a test method utilizes external resources (e.g. files, database, etc.). Use of external resources in test methods will result in stability and performance issues. Developers should use mock objects in place of external resources.
 
 
-Code Example::
+Code Example:
 
 References:
 

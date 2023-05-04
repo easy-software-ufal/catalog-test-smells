@@ -5,7 +5,7 @@ Definitions:
 * When the test logic is split into several test objects and their specific assertions
 
 
-Code Example::
+Code Example:
 
 References:
 

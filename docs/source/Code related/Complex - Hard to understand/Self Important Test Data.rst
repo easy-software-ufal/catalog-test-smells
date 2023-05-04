@@ -5,7 +5,7 @@ Definitions:
 * Test data is more complex than is needed to exercise some behavior in a test.
 
 
-Code Example::
+Code Example:
 
 References:
 

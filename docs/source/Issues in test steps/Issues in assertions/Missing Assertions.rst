@@ -6,7 +6,7 @@ Definitions:
 * The test method consists of an empty block
 
 
-Code Example::
+Code Example:
 
 References:
 

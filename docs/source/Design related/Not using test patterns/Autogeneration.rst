@@ -5,7 +5,7 @@ Definitions:
 * Auto-generated tests that test methods instead of behavior
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -8,7 +8,7 @@ Also Known As:
 
 * Process Compliance Backdoor
 
-Code Example::
+Code Example:
 
 References:
 

@@ -16,7 +16,7 @@ A preferred ordering could be:
 • control part
 
 
-Code Example::
+Code Example:
 
 References:
 

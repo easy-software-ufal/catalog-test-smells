@@ -5,7 +5,7 @@ Definitions:
 * When a test overuse all kinds of test double, even when it is not really the best option
 
 
-Code Example::
+Code Example:
 
 References:
 

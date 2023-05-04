@@ -5,7 +5,7 @@ Definitions:
 * When a test becomes fragile to network or processing congestion
 
 
-Code Example::
+Code Example:
 
 References:
 

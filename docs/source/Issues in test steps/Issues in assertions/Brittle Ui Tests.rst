@@ -5,7 +5,7 @@ Definitions:
 * Tests having fixed delays, bad selectors and targeting elements, and difficult investigating failures
 
 
-Code Example::
+Code Example:
 
 References:
 

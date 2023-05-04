@@ -5,7 +5,7 @@ Definitions:
 * Tests that are not maintained after SUT code evolution and still pass
 
 
-Code Example::
+Code Example:
 
 References:
 

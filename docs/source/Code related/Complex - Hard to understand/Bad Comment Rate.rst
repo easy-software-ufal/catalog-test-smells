@@ -5,7 +5,7 @@ Definitions:
 * The comment rate (number of comments per line) is too high or too low.
 
 
-Code Example::
+Code Example:
 
 References:
 

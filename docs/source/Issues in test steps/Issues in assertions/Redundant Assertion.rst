@@ -5,7 +5,7 @@ Definitions:
 * This smell occurs when test methods contain assertion statements that are either always true or always false. A test is intended to return a binary outcome of whether the intended result is correct or not, and should not return the same output regardless of the input.
 
 
-Code Example::
+Code Example:
 
 References:
 

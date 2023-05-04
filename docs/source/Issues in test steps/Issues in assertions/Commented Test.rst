@@ -5,7 +5,7 @@ Definitions:
 * Test contents are commented so that it passes
 
 
-Code Example::
+Code Example:
 
 References:
 

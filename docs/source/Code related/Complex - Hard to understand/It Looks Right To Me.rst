@@ -5,7 +5,7 @@ Definitions:
 * Where the test data for negative cases makes the test hard to understand
 
 
-Code Example::
+Code Example:
 
 .. code-block::
 
