@@ -5,7 +5,18 @@ Definitions:
 * A PTC is created and started, but neither connected to another component nor mapped to the TSI. A PTC which is not connected or mapped is isolated from all other components, especially the MTC, and is of no use for the test.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: pseudo
+
+  testcase exampleTestCase() runs on MainComponentType system SystemType {
+    // . . .
+    var ParallelComponentType exampleComponent := ParallelComponentType.create;
+    // no map or connect statement shere!
+    exampleComponent.start(exampleBehavior())
+    exampleComponent.done
+    // . . .
+  }
 
 References:
 

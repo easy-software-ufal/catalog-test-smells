@@ -9,7 +9,32 @@ Definitions:
 * Occurs when a test case fixture is too general and the test methods only access part of it. A test setup/fixture method that initializes fields that are not accessed by test methods indicates that the fixture is too generalized. A drawback of it being too general is that unnecessary work is being done when a test method is run.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  public void testGetFlightsByFromAirport_OneOutboundFlight() throws Exception {
+        setupStandardAirportsAndFlights();
+        FlightDto outboundFlight = findOneOutboundFlight();
+        // Exercise System
+        List flightsAtOrigin = facade.getFlightsByOriginAirport(
+                      outboundFlight.getOriginAirportId());
+        // Verify Outcome
+        assertOnly1FlightInDtoList( "Flights at origin", outboundFlight,
+                                    flightsAtOrigin);
+    }
+    
+    public void testGetFlightsByFromAirport_TwoOutboundFlights() throws Exception {
+        setupStandardAirportsAndFlights();
+        FlightDto[] outboundFlights = findTwoOutboundFlightsFromOneAirport();
+        // Exercise System
+        List flightsAtOrigin = facade.getFlightsByOriginAirport(
+                      outboundFlights[0].getOriginAirportId());
+        // Verify Outcome
+        assertExactly2FlightsInDtoList( "Flights at origin", outboundFlights,
+                                        flightsAtOrigin);
+    }
+  }
 
 References:
 

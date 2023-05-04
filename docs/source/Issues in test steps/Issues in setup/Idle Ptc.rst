@@ -5,7 +5,18 @@ Definitions:
 * A PTC is created but never started. A PTC which is not started is of no use for the test case.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: pseudo
+
+  testcase exampleTestCase ( ) runs on MainComponentType system SystemType {
+    //...
+    var ParallelComponentType exampleComponent := ParallelComponentType.create;
+    map(self: aPort, system: aPort) ;
+    connect(self: anotherPort, exampleComponent: aPort ) ;
+    // no start here...
+  }
+
 
 References:
 

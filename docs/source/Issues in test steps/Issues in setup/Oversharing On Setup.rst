@@ -2,10 +2,19 @@ Oversharing On Setup
 ^^^^^
 Definitions:
 
-* where every test sets up a lot of shared data which only some tests need
+* Where every test sets up a lot of shared data which only some tests need.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: javascript
+
+  beforeEach(() => {
+    databaseConnection = openDatabase();
+    inputFile = loadBigFile();
+    userList = loadUserList();
+    imageData = loadImageBytes();
+  });
 
 References:
 
