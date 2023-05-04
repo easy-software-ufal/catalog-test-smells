@@ -5,7 +5,12 @@ Definitions:
 * When assertions in tests are failing with almost no clue why
 
 
-Code Example::
+Code Example:
+
+.. code-block::
+
+  Expected: true
+  Actual: false
 
 References:
 

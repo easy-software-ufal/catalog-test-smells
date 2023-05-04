@@ -6,7 +6,19 @@ Definitions:
 * Pretending to assert data and functionality, but does not
 
 
-Code Example::
+Code Example:
+
+.. code-block:: Smalltalk
+
+  // Smalltalk
+  ICCreateCalendar>>TesttestCreatingSeveralCalendars
+    self addCalendarWithName: ’new Calendar 1’.
+    self addCalendarWithName: ’new Calendar 2’.
+    self addCalendarWithName: ’new Calendar 3’.
+    self addCalendarWithName: ’new Calendar 1’.
+    self addCalendarWithName: ’new Calendar 2’.
+    self addCalendarWithName: ’new Calendar 3’.
+
 
 References:
 

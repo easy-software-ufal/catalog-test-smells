@@ -5,7 +5,17 @@ Definitions:
 * Using the same API to express pre-conditions (i.e. argument validation), post-conditions, invariants, and assertions.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: csharp
+
+  public void Parse(string input) {
+    // pre-condition
+    Debug.Assert(input != null, "invalid argument");
+    ...
+    // invariant
+    Debug.Assert(condition, "this should not happen");
+  }
 
 References:
 
