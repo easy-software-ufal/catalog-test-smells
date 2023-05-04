@@ -7,7 +7,17 @@ Definitions:
 * An assertion statement describes an expected condition for a test method. By examining the assertion statement, it is possible to understand the purpose of the test. However, It is possible for a test method to be written without an assertion statement, in such an instance JUnit will show the test method as passing if the  statements within the test method did not result in a thrown exception when executed.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  @Test
+  public void hitGetPOICategoriesApi() throws Exception {
+      POICategories poiCategories = apiClient.getPOICategories(16);
+      for (POICategory category : poiCategories) {
+        System.out.println(category.name() + ": " + category);
+      }
+  }
 
 References:
 
