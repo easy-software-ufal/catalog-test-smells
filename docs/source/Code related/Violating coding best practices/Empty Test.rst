@@ -7,6 +7,14 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+    public void testCredGetFullSampleV1() throws Throwable{
+    //        ScrapedCredentials credentials =  innerCredTest(FULL_SAMPLE_v1);
+    //        assertEquals("p4ssw0rd", credentials.pass);
+    //        assertEquals("user@example.com",credentials.user);
+    }
+                
 References:
 
  * `On the distribution of test smells in open source Android applications: an exploratory study <https://dl.acm.org/doi/10.5555/3370272.3370293>`_

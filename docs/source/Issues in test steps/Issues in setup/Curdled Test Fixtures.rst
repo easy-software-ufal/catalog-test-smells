@@ -21,7 +21,6 @@ Code Example:
     void beforeEach() {
         // some additional setup
     }
-
     @AfterEach
     void afterEach() {
         // some tidy up

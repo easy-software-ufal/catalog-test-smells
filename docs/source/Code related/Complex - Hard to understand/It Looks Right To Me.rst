@@ -7,7 +7,17 @@ Definitions:
 
 Code Example:
 
-.. code-block::
+.. code-block:: java
+
+    expect(getFieldCaseInsensitive(obj, 'username'))
+    .toEqual('Mr User');
+    
+    expect(getFieldCaseInsensitive(obj, 'Username'))
+    .toEqual('Mr User');
+    
+    expect(getFieldCaseInsensitive(obj, 'UserNaME'))
+    .toEqual('Mr User');
+
 
 
 References:
