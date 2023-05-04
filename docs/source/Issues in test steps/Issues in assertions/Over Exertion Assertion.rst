@@ -2,7 +2,7 @@ Over Exertion Assertion
 ^^^^^
 Definitions:
 
-* Where the implementation of an assertion is heavy and in the body of the test, rather than in an assertion library.
+* Where the implementation of an assertion is heavy and in the body of the test, rather than in an assertion library
 
 
 Code Example:

@@ -2,7 +2,7 @@ Ground Zero
 ^^^^^
 Definitions:
 
-* where the lack of testing with 0 is the source of a lot of bugs.
+* Where the lack of testing with 0 is the source of a lot of bugs.
 
 
 Code Example:

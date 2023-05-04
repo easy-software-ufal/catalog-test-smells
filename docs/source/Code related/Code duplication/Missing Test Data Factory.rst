@@ -2,7 +2,7 @@ Missing Test Data Factory
 ^^^^^
 Definitions:
 
-* where every test has its own way of making the same test example data
+* Where every test has its own way of making the same test example data
 
 
 Code Example::

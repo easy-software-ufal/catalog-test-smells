@@ -2,7 +2,7 @@ Test Body Is Somewhere Else
 ^^^^^
 Definitions:
 
-* when the test method calls another method entirely with no other implementation in the test method – often a sign of missing parameterised test
+* When the test method calls another method entirely with no other implementation in the test method – often a sign of missing parameterised test
 
 
 Code Example::

@@ -3,7 +3,6 @@ Under-The-Carpet Failing Assertion
 Definitions:
 
 * A test having the smell Under-the-carpet failing Assertion is a test that returns a successful test-result, but contains hidden assertions. A hidden assertion is an assertion that is put into comments, is not executed when the test runs, and which would actually throw an Error or Failure if the comment were removed.
-* Failing assertions put into comments
 
 
 Code Example:

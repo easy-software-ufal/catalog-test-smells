@@ -2,7 +2,7 @@ Missing Parameterised Test
 ^^^^^
 Definitions:
 
-* when you did it the long way round because you didn’t bring in parameterisation
+* When you did it the long way round because you didn’t bring in parameterisation
 
 
 Code Example::

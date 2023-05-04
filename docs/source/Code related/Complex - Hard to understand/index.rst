@@ -13,10 +13,8 @@ Complex - Hard to understand
     Long Statement Block
     Long Test
     Magic Number Test
-    Magic Number
     Magic Values
     Obscure Test
-    Obscure Tests
     Over Refactoring Of Tests
     Overcommented Test
     Self Important Test Data

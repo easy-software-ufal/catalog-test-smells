@@ -3,7 +3,6 @@ The Slow Poke
 Definitions:
 
 * Usually, it puts the test suite to execution and takes longer to finish and give the developer feedback.
-* Usually, it puts the test suite to execution and takes longer to finish and give the developer feedback.
 
 
 Code Example:
