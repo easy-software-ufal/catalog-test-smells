@@ -5,7 +5,15 @@ Definitions:
 * An assumption is conditionally executed.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: java
+
+  void Test(int i, int j) {
+    if (i < 0)
+    PexAssume.IsTrue(j > 0);
+    ...
+  }
 
 References:
 

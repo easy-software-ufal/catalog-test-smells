@@ -5,7 +5,28 @@ Definitions:
 * When used alongside factories, random data generators may compromise the reliability of a test suite.
 
 
-Code Example::
+Code Example:
+
+.. code-block:: ruby
+
+  #Random factory
+
+  FactoryBot.define do
+    factory :category do
+      name { Faker::Lorem.word.capitalize }
+    end
+  end
+
+.. code-block:: ruby
+
+  #Sequence factory
+
+  FactoryBot.define do
+    factory :category do
+      sequence(:name) { |n| "Category number #{n}" }
+    end
+  end
+
 
 References:
 
