@@ -2,12 +2,8 @@ Eager Test
 ^^^^^
 Definitions:
 
-* A test case that checks or uses more than one method of the class under test. Since its introduction [3], this smell has been somewhat broadly defined. It is left to interpretation which method calls count towards the maximum. Either all methods invoked on the class under test could count, or only the methods invoked on the same instance under test, or only the methods of which the return value is eventually used within an assertion.
-* The test is verifying too much functionality in a single Test Method.
-* A test that checks multiple different functionalities in one case, which makes it hard to read or understand.
-* A test method that at- tempts to test several behaviors of the tested object.
-* Occurs when a test method invokes several methods of the production object. This smell results in difficulties in test comprehension and maintenance.
-* A single test verifies too much functionality.
+* A test case that checks or uses more than one method of the class under test. Since its introduction, this smell has been somewhat broadly defined. It is left to interpretation which method calls count towards the maximum. Either all methods invoked on the class under test could count, or only the methods invoked on the same instance under test, or only the methods of which the return value is eventually used within an assertion.
+
 
 Also Known As:
 

@@ -3,7 +3,6 @@ Excessive Setup
 Definitions:
 
 * Many dependencies you have to create beforehand (such as classes, operating system dependencies, databases - basically anything that removes the attention to the testing goal).
-* Many dependencies you have to create beforehand (such as classes, operating system dependencies, databases - basically anything that removes the attention to the testing goal).
 
 
 Code Example::

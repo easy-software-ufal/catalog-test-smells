@@ -3,7 +3,6 @@ Missed Fail Rotten Green Test
 Definitions:
 
 * Tests where the test engineer passes to an assertion primitive to force the test to fail. Such assertion calls are intended to be executed only if something goes wrong, and not if the test passes.
-* Tests that do not execute one or many assertions, and do not fall into any of the previous Rotten Green categories
 
 
 Code Example::
