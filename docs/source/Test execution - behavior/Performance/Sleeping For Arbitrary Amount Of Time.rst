@@ -5,7 +5,11 @@ Definitions:
 * When a test becomes fragile to network or processing congestion
 
 
-Code Example::
+Code Example:
+
+.. code-block:: ruby
+
+  Thread.sleep(4*1000);
 
 References:
 

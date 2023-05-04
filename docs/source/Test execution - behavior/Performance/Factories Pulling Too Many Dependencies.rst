@@ -5,7 +5,16 @@ Definitions:
 * Calling one factory may silently create many associated records, which accumulates to make the whole test suite slow (more on that later)
 
 
-Code Example::
+Code Example:
+
+.. code-block:: ruby
+
+  FactoryBot.define do
+    factory :comment do
+      post
+      body "groundbreaking insight"
+    end
+  end
 
 References:
 
