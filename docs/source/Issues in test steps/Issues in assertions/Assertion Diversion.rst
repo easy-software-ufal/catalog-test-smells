@@ -7,7 +7,7 @@ Definitions:
 
 Code Example::
 
-..codeblock:: java
+..code-block:: java
 
 Boolean isValid = false;
 if (actualResult.contains("foo")) {

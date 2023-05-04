@@ -7,7 +7,7 @@ Definitions:
 
 Code Example::
 
-.. codeblock:: javascript
+.. code-block:: javascript
 
 // Subject under test
 var _ = require('lodash')
