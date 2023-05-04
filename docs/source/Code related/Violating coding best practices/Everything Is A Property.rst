@@ -10,7 +10,7 @@ Also Known As:
 
 Code Example:
 
-.. code-example:: java
+.. code-block:: java
 
     class ParagraphAnalyzerTest {
         private String analyzed;

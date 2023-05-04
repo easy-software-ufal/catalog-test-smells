@@ -7,6 +7,20 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  @Ignore("disabled for now as this test is too flaky")
+  public void peerPriority() throws Exception {
+    final List addresses = Lists.newArrayList(
+        new InetSocketAddress("localhost", 2000),
+          new InetSocketAddress("localhost", 2001),
+          new InetSocketAddress("localhost", 2002)
+    );
+      peerGroup.addConnectedEventListener(connectedListener);
+      .....
+  }
+    
+
 References:
 
  * `On the distribution of test smells in open source Android applications: an exploratory study <https://dl.acm.org/doi/10.5555/3370272.3370293>`_

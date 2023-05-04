@@ -7,6 +7,18 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  @Test
+  public void restApi() {
+      int response = client.get("/endpoint");
+  
+      // the status code returned from the get
+      // should be OK, indicating
+      // the endpoint is healthy
+      assertEquals(200, response);
+  }
+
 References:
 
  * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_
