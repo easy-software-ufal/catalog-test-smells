@@ -5,7 +5,7 @@ Definitions:
 * Where something that should be part of the execution of the test, and appear in a test report, is hidden in a comment – essentially comment instead of name
 
 
-Code Example::
+Code Example:
 
 References:
 

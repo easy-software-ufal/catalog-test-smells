@@ -5,7 +5,7 @@ Definitions:
 * A duplicate sequence of statements in the statement block of one or multiple behavioral entities (functions, test cases and altsteps).
 
 
-Code Example::
+Code Example:
 
 References:
 

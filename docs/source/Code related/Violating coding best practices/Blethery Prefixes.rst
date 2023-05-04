@@ -5,7 +5,7 @@ Definitions:
 * Where the implementation of a single line of test code is prefixed by a lot of characters before we get to the point
 
 
-Code Example::
+Code Example:
 .. code-block:: java
 
 @Test

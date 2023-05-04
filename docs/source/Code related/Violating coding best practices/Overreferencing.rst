@@ -6,7 +6,7 @@ Definitions:
 * Test creating unnecessary dependencies and causing duplication
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Tests whose assertions do not prove the test method works correctly
 
 
-Code Example::
+Code Example:
 
 References:
 

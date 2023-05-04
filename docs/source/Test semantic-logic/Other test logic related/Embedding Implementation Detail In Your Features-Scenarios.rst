@@ -5,7 +5,7 @@ Definitions:
 * Acceptance test scenarios are meant to convey intention over implementation. If you start seeing things like URLs in your test scenarios you’re focusing on implementation.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * A test that uses known input, which executes without exception and produces an expected output.
 
 
-Code Example::
+Code Example:
 
 References:
 

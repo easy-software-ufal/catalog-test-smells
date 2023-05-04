@@ -5,7 +5,7 @@ Definitions:
 * A test whose use of test doubles is so confusing, it's hard to tell what the test is even doing at run-time.
 
 
-Code Example::
+Code Example:
 
 References:
 

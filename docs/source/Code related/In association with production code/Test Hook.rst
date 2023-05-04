@@ -5,7 +5,7 @@ Definitions:
 * Conditional logic within the SUT determines whether the "real" code or test-specific logic is run.
 
 
-Code Example::
+Code Example:
 
 References:
 

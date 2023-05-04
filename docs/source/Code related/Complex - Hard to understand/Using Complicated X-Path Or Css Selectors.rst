@@ -5,7 +5,7 @@ Definitions:
 * Using element identification selectors that have long chains from the DOM in them leads to fragile tests, as any change to that chain in the DOM will break your tests.
 
 
-Code Example::
+Code Example:
 
 References:
 

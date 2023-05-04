@@ -5,7 +5,7 @@ Definitions:
 * Template definition is very short (in terms of characters or number of fields).
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Tests that specify too many things that aren’t genuinely related to the scenario being tested.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Test require external resources but can not guarantee their state and availability
 
 
-Code Example::
+Code Example:
 
 References:
 

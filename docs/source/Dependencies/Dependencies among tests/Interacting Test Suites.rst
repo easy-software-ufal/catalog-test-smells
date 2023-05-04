@@ -5,7 +5,7 @@ Definitions:
 * A special case of Interacting Tests where the tests are in different test suites.
 
 
-Code Example::
+Code Example:
 
 References:
 

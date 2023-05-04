@@ -5,7 +5,7 @@ Definitions:
 * By default Android Studio creates default test classes when a project is created. These template test classes are meant to serve as an example for developers when writing unit tests and should either be removed or renamed. Having such files in the project will cause developers to start adding test methods into these files, making the default test class a container of all test cases and violate good testing practices. Problems would also arise when the classes need to be renamed in the future.
 
 
-Code Example::
+Code Example:
 
 .. code-block:: java
 public class ExampleUnitTest {

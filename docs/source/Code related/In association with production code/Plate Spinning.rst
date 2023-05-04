@@ -5,7 +5,7 @@ Definitions:
 * A test that is at risk of exiting prematurely because it does not properly wait for the results of external calls.
 
 
-Code Example::
+Code Example:
 
 References:
 

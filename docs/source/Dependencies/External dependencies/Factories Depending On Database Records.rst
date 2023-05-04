@@ -5,7 +5,7 @@ Definitions:
 * Adding a hard dependency on specific database records in factory definitions leads to build failures in CI environment.
 
 
-Code Example::
+Code Example:
 
 References:
 

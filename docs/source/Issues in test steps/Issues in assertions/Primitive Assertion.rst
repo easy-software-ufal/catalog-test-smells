@@ -5,7 +5,7 @@ Definitions:
 * Assertions that use primitive content to express intent
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * A PUT outcome depends on the state of the environment.
 
 
-Code Example::
+Code Example:
 
 References:
 

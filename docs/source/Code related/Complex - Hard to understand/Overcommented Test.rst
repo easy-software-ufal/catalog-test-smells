@@ -5,7 +5,7 @@ Definitions:
 * Overcommented Tests dene too many comments, obfuscating the code and distracting from the purpose of the test.
 
 
-Code Example::
+Code Example:
 
 References:
 

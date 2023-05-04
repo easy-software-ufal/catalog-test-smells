@@ -5,7 +5,7 @@ Definitions:
 * Tests that will pass or fail without you changing anything
 
 
-Code Example::
+Code Example:
 
 References:
 

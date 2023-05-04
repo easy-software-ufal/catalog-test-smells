@@ -5,7 +5,7 @@ Definitions:
 * The tests have to be executed in a certain order due to dependencies between them.
 
 
-Code Example::
+Code Example:
 
 References:
 

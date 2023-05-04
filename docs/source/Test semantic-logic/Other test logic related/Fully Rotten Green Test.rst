@@ -5,7 +5,7 @@ Definitions:
 * Contains an assertion which was forced to fail.
 
 
-Code Example::
+Code Example:
 
 References:
 

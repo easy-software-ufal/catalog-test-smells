@@ -8,7 +8,7 @@ Also Known As:
 
 * Oops I Forgot The Setup
 
-Code Example::
+Code Example:
 
 References:
 

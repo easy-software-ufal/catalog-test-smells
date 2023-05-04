@@ -5,7 +5,7 @@ Definitions:
 * Some forms of Conditional Test Logic are found in the result verification section of our tests.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Any flickering test that occasionally breaks a build – bad test or bad code?
 
 
-Code Example::
+Code Example:
 
 References:
 

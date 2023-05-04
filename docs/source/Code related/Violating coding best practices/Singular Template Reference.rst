@@ -5,7 +5,7 @@ Definitions:
 * A template definition is referenced only once.
 
 
-Code Example::
+Code Example:
 
 References:
 

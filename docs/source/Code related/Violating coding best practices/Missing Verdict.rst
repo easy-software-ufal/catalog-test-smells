@@ -5,7 +5,7 @@ Definitions:
 * A test case does not set a verdict. Normally a test case should set a verdict before terminating.
 
 
-Code Example::
+Code Example:
 
 References:
 

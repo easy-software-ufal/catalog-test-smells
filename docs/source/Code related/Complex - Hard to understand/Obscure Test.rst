@@ -9,7 +9,7 @@ Also Known As:
 
 * Long Test, Complex Test, Verbose Test
 
-Code Example::
+Code Example:
 
 References:
 

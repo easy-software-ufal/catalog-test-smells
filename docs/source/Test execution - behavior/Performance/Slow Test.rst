@@ -6,6 +6,7 @@ Definitions:
 
 
 Code Example:
+Code Example:
 
 .. code-block:: ruby
   

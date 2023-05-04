@@ -5,7 +5,7 @@ Definitions:
 * High number of formal parameters.
 
 
-Code Example::
+Code Example:
 
 References:
 

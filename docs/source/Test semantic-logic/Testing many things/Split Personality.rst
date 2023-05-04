@@ -5,7 +5,7 @@ Definitions:
 * A test method that attempts to test several behaviors of the tested object.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * Test methods (and all tests in general) must be perfectly isolated from each other. This means that changing one test must not affect any others.
 
 
-Code Example::
+Code Example:
 
 References:
 

@@ -5,7 +5,7 @@ Definitions:
 * A test that passes (is green) but contains assertions that are never executed
 
 
-Code Example::
+Code Example:
 
 References:
 

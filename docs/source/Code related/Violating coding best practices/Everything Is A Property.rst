@@ -5,7 +5,7 @@ Definitions:
 * Where a test class keeps what should be temporary variables in instance variables
 
 
-Code Example::
+Code Example:
 
 References:
 

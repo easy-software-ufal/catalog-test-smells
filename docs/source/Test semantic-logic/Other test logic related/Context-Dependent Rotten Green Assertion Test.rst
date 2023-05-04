@@ -5,7 +5,7 @@ Definitions:
 * Tests contain multiple conditional branches with different assertions in each branch
 
 
-Code Example::
+Code Example:
 
 References:
 

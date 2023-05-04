@@ -5,7 +5,7 @@ Definitions:
 * When test classes are not independent and test methods are inherited
 
 
-Code Example::
+Code Example:
 
 References:
 

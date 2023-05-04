@@ -5,7 +5,7 @@ Definitions:
 * An imported element causes a name clash with a declaration in the importing module or another imported element.
 
 
-Code Example::
+Code Example:
 
 References:
 
