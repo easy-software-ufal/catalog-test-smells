@@ -21,7 +21,7 @@ Contents
 --------
 .. toctree::
    :maxdepth: 4
-   :caption: Test Smell Groups
+   :caption: Test Smell Categories
 
    Code related/index
    Dependencies/index
