@@ -15,4 +15,5 @@ References:
 
  * `Obscure Test <http://xunitpatterns.com/Obscure%20Test.html>`_
  * `Test smell: Obscure Test <https://www.codewithjason.com/test-smell-obscure-test/>`_
+ * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_
 
