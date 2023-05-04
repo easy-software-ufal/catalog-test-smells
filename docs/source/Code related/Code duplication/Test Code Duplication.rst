@@ -2,10 +2,7 @@ Test Code Duplication
 ^^^^^
 Definitions:
 
-* Repeated test code steps
 * This test smell normally identifies classes that contain test methods with repeated test code steps.
-* When several tests in a suite needs to be setup or do similar computations
-* The same test code is repeated many times.
 
 
 Code Example::
