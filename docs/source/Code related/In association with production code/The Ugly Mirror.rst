@@ -3,7 +3,6 @@ The Ugly Mirror
 Definitions:
 
 * When you occasionally find yourself staring at a spec that looks exactly like the code under test, there’s surprisingly little win left to enjoy.
-* When you occasionally find yourself staring at a spec that looks exactly like the code under test
 
 
 Code Example::

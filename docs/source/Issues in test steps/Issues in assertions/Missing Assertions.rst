@@ -3,7 +3,7 @@ Missing Assertions
 Definitions:
 
 * The subject includes behavior which is not asserted by the test, whether implicitly or explicitly.
-* the test method consists of an empty block
+* The test method consists of an empty block
 
 
 Code Example:

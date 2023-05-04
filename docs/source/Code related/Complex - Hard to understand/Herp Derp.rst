@@ -2,7 +2,7 @@ Herp Derp
 ^^^^^
 Definitions:
 
-* words and comments in test code or names that add nothing, like simple or test or //given
+* Words and comments in test code or names that add nothing, like simple or test or //given
 
 
 Code Example::

@@ -2,9 +2,7 @@ Redundant Assertion
 ^^^^^
 Definitions:
 
-* Extra calls to an assert method where the condition being tested is a hard coded true value.
 * This smell occurs when test methods contain assertion statements that are either always true or always false. A test is intended to return a binary outcome of whether the intended result is correct or not, and should not return the same output regardless of the input.
-* This smell is introduced by developers for debugging purposes and then forgotten.
 
 Code Example:
 

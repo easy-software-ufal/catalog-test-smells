@@ -2,9 +2,7 @@ Ignored Test
 ^^^^^
 Definitions:
 
-* JUnit 4 provides developers with the ability to suppress test methods from running. However, these ignored test methods result in overhead with regards to compilation time and an increase in code complexity and comprehension
 * JUnit 4 provides developers with the ability to suppress test methods from running. However, these ignored test methods result in overhead since they add unnecessary overhead with regards to compilation time, and increases code complexity and comprehension.
-* JUnit 4 provides developers with the ability to suppress test methods from running. However, these ignored test methods result in overhead with regards to compilation time and an increase in code complexity and comprehension
 
 
 Code Example::

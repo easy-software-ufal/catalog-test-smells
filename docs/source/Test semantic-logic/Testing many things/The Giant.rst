@@ -3,7 +3,6 @@ The Giant
 Definitions:
 
 * Many assertions in a single test case
-* Many assertions in a single test case
 
 
 Code Example:

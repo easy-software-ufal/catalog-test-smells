@@ -1,5 +1,5 @@
 
-Welcome to the Open Test Smell Catalog!
+Welcome to the Open Test Smells Catalog!
 ===================================
 .. image:: https://readthedocs.org/projects/test-smell-catalog/badge/?version=latest
     :target: https://test-smell-catalog.readthedocs.io/en/latest/?badge=latest

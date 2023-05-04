@@ -2,7 +2,7 @@ Assertion Diversion
 ^^^^^
 Definitions:
 
-* where the wrong sort of assert is used, thus making a test failure harder to understand
+* Where the wrong sort of assert is used, thus making a test failure harder to understand
 
 
 Code Example:
