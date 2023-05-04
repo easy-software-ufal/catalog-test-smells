@@ -1,4 +1,4 @@
-It Looks Right To Me 
+It Looks Right To Me
 ^^^^^
 Definitions:
 
@@ -6,6 +6,9 @@ Definitions:
 
 
 Code Example::
+
+.. code-block::
+
 
 References:
 
