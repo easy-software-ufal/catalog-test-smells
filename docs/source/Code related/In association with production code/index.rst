@@ -14,6 +14,5 @@ In association with production code
     Plate Spinning
     Production Logic In Test
     Test Hook
-    Test Hooks
     Test Tautology
     The Ugly Mirror
