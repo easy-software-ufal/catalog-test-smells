@@ -3,7 +3,7 @@ The Open Catalog of Test Smells
 
 Welcome!
 
-Search for a test smell using the **search** or the **sidebar**, which includes test smell descriptions, if you already know where to look. If not, you may browse by category in the left panel. There is a **lot** to see!
+Search for a test smell using the **search** or the **sidebar** --- works with test smells descriptions too --- if you already know what to look for. If not, you may browse by category in the left panel. Download options (PDF and EPUB) are available in the `Read the Docs` menu (bottom of left panel). There is a **lot** to see!
 
 The catalog provides a visualization of the data set compiled in a Multivocal Literature Review published here. Initially, it unifies 127 formal and informal sources (sites, personal blogs, even videos!). As the catalog is open-source, any community member can submit a contribution as a pull request and help improve it.
 
