@@ -7,6 +7,14 @@ Definitions:
 
 Code Example:
 
+.. code-block:: ruby
+
+  class ApplicationController < ActionController::Base
+    unless Rails.env.test?
+      before_filter :require_login
+    end
+  end
+
 References:
 
  * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_

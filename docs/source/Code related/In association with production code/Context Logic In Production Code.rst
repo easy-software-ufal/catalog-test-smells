@@ -7,6 +7,16 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  public static void SaveToDatabase(Customer customerToWrite)
+  {
+    if (AreWeTesting)
+      WriteWithMockDatabase(customerToWrite);
+    else
+      Write(customerToWrite);
+  }
+
 References:
 
  * `Unit Testing Smells: What Are Your Tests Telling You? <https://dzone.com/articles/unit-testing-smells-what-are-your-tests-telling-yo>`_

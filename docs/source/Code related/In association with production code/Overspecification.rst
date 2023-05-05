@@ -7,6 +7,24 @@ Definitions:
 
 Code Example:
 
+.. code-block:: ruby
+
+  require File.dirname(__FILE__) + '/../test_helper'
+
+  class ProductsControllerTest < ActionController::TestCase
+    def test_something
+      product = Product.create(:name => "Frisbee", :price => 5.00)
+      get :show, :id => product.id
+      assert_response :success
+      product = assigns(:product)
+      assert_not_nil product
+      assert product.valid?
+      assert product.name == "Frisbee"
+      assert product.price == 5.00
+    end
+  end
+
+
 References:
 
  * `Testing anti-patterns: How to fail with 100% test coverage <https://jasonrudolph.com/blog/testing-anti-patterns-how-to-fail-with-100-test-coverage/>`_
