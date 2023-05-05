@@ -7,6 +7,16 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+    @Test
+    public void testGetLocalTimeAsCalendar() {
+        Calendar localTime = calc.getLocalTimeAsCalendar(BigDecimal.valueOf(15.5D), Calendar.getInstance());
+        assertEquals(15, localTime.get(Calendar.HOUR_OF_DAY));
+        assertEquals(30, localTime.get(Calendar.MINUTE));
+    }
+    
+
 References:
 
  * `On the distribution of test smells in open source Android applications: an exploratory study <https://dl.acm.org/doi/10.5555/3370272.3370293>`_

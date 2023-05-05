@@ -7,6 +7,11 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+        private static readonly By TeaTypeSelector = By.CssSelector("#input-tea-type > div > div.TeaSearchRow > div.TeaSearchCell.no > div:nth-child(2) > label");
+
+
 References:
 
  * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20220627170939/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns//>`_
