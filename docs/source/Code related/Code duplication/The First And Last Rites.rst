@@ -10,6 +10,27 @@ Also Known As:
 
 Code Example:
 
+.. code-block:: java
+
+    @Test
+    public void connectionWorks() {
+        database = openDatabase();
+    
+        database.healthCheck();
+    
+        database.close();
+    }
+    
+    @Test
+    public void countRows() {
+        database = openDatabase();
+    
+        assertThat(database.countAll())
+        .isEqualTo(0);
+    
+        database.close();
+    }
+
 References:
 
  * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_

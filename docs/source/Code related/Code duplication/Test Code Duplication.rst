@@ -8,6 +8,30 @@ Definitions:
 
 Code Example:
 
+.. code-block:: python
+
+    class TestFlight(unittest.TestCase):
+        def test_mileage_init(self):
+            airLine = '2569'
+            mileage = 1000
+            flight = Flight(airLine,mileage)
+            self.assertEqual(flight.mileage,1000)
+            
+        def test_fuel_is_full(self):
+            airLine = '2569'
+            mileage = 1000
+            flight = Flight(airLine,mileage)
+            self.assertTrue(flight.fullFuel)
+            
+        def test_is_valid_air_line_code(self):
+            airLine = '2569'
+            mileage = 1000
+            flight = Flight(airLine,mileage)
+            self.assertTrue(flight.isValidAirLineCode())
+
+    if __name__ == '__main__':
+        unittest.main(argv=['first-arg-is-ignored'], exit=False)
+
 References:
 
  * `LCCSS: A Similarity Metric for Identifying Similar Test Code <https://dl.acm.org/doi/10.1145/3425269.3425283>`_

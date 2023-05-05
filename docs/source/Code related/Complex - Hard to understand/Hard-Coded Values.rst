@@ -7,6 +7,16 @@ Definitions:
 
 Code Example:
 
+.. code-block:: csharp
+
+    public function testGetTranslationFileTimestamp()
+    {
+        $this->fileManagerMock->expects($this->once())
+            ->method('getTranslationFileTimestamp')
+            ->willReturn(1445736974);
+        $this->assertEquals(1445736974, $this->model->getTranslationFileTimestamp());
+    }
+
 References:
 
  * `Test Smell: Hard Coded Values <https://www.integer-net.com/test-smell-hard-coded-values/>`_

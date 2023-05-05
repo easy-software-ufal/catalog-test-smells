@@ -7,7 +7,10 @@ Definitions:
 
 Code Example:
 
-.. code-block:: 
+.. code-block:: javascript
+
+    import { createMockSession, createMockUser } from
+    '../../components/auth/__tests__/User.test.ts';
 
 References:
 
