@@ -1,6 +1,6 @@
 Multiple Assertions
 ^^^^^
-Definitions:
+Definition:
 
 * When a test method contains multiple assertion statements, it is an indication that the method is testing too much
 

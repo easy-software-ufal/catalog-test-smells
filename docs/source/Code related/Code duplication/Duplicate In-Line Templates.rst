@@ -1,6 +1,6 @@
 Duplicate In-Line Templates
 ^^^^^
-Definitions:
+Definition:
 
 * Two or more similar or identical in-line templates.
 

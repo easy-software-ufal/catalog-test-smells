@@ -1,6 +1,6 @@
 Parsed Data
 ^^^^^
-Definitions:
+Definition:
 
 * A test creates structured data by parsing unstructured input and only uses the structured data during the test.
 

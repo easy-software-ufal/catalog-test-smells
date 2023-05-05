@@ -1,6 +1,6 @@
 Test Setup Is Somewhere Else
 ^^^^^
-Definitions:
+Definition:
 
 
 * Where the test method just does the assertions, not the given/when part; this can be acceptable in the case of several tests on a single shared expensive resource setup, but seldom is at other times.

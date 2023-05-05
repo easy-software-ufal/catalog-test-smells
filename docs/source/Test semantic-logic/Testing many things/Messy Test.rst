@@ -1,6 +1,6 @@
 Messy Test
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that contain repeated code, copy&paste, disorganized structure and literal values
 

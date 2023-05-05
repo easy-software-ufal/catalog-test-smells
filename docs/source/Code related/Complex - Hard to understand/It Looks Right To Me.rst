@@ -1,6 +1,6 @@
 It Looks Right To Me
 ^^^^^
-Definitions:
+Definition:
 
 * Where the test data for negative cases makes the test hard to understand
 

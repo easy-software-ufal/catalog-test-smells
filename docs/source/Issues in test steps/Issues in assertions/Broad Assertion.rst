@@ -1,6 +1,6 @@
 Broad Assertion
 ^^^^^
-Definitions:
+Definition:
 
 * Assertions that do not compare exact content and are, therefore, broad
 

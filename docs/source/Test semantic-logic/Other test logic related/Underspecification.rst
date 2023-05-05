@@ -1,6 +1,6 @@
 Underspecification
 ^^^^^
-Definitions:
+Definition:
 
 * While it’s clearly possible for a test suite to do too much, it’s far more common for it to do too little.
 

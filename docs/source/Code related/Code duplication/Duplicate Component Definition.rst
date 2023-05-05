@@ -1,6 +1,6 @@
 Duplicate Component Definition
 ^^^^^
-Definitions:
+Definition:
 
 * Two or more components declare identical variables, constants, timers or ports.
 

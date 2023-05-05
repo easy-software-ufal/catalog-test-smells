@@ -1,6 +1,6 @@
 Surreal
 ^^^^^
-Definitions:
+Definition:
 
 * A test whose use of test doubles is so confusing, it's hard to tell what the test is even doing at run-time.
 

@@ -1,6 +1,6 @@
 Complex Teardown
 ^^^^^
-Definitions:
+Definition:
 
 * Complex fixture teardown code is more likely to leave test environment corrupted by not cleaning up correctly. It is hard to verify that it has been written correctly and can easily result in "data leaks" that may later cause this or other tests to fail for no apparent reason.
 

@@ -1,6 +1,6 @@
 Nested Conditional
 ^^^^^
-Definitions:
+Definition:
 
 * Nested conditional expression. Use if and else leg of a conditional only if both paths are part of the normal behavior; if one leg is an unusual condition, use a separate exit point (guard clause) instead.
 

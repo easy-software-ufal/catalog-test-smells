@@ -1,6 +1,6 @@
 Wasted Variable Definition
 ^^^^^
-Definitions:
+Definition:
 
 * A variable is defined and defined again before it is read.
 

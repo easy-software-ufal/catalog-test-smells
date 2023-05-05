@@ -1,6 +1,6 @@
 Test Body Is Somewhere Else
 ^^^^^
-Definitions:
+Definition:
 
 * When the test method calls another method entirely with no other implementation in the test method – often a sign of missing parameterised test
 

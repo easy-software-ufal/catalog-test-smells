@@ -1,6 +1,6 @@
 External Shared-State Corruption
 ^^^^^
-Definitions:
+Definition:
 
 * Integration tests with shared resources and no rollback
 

@@ -1,6 +1,6 @@
 Long Statement Block
 ^^^^^
-Definitions:
+Definition:
 
 * Long statement block in function, test case or altstep. A long function is more difficult to understand than a short one. Although the use of short functions (i.e. methods) is especially important for modern objectoriented languages, short functions have a certain importance for TTCN-3 as well. Long statement blocks in functions, test cases and altsteps should be decomposed into short functions with meaningful names.
 

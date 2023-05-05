@@ -1,6 +1,6 @@
 Split Personality
 ^^^^^
-Definitions:
+Definition:
 
 * A test method that attempts to test several behaviors of the tested object.
 

@@ -1,6 +1,6 @@
 Literal Pollution
 ^^^^^
-Definitions:
+Definition:
 
 * When writing tests for the application code it is mostly required also to provide some data to be able to test the functionality. This is mostly done by defining literals in the test code. However an excessive use of literals can cause severe problems:
   * Too many literals are distracting and obfuscate the functionality and purpose of a test. This makes a test hard to read and understand. 

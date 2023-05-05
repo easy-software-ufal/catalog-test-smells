@@ -1,6 +1,6 @@
 Fuzzy Assertions
 ^^^^^
-Definitions:
+Definition:
 
 * Where lack of control for the system under test, causes us not to be able to predict the exact outcome, leading to fuzzy or partial matching in our assertions
 

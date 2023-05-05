@@ -1,6 +1,6 @@
 Insufficient Grouping
 ^^^^^
-Definitions:
+Definition:
 
 * A module or group contains too many elements. Especially for large modules, groups should be used to add logical structure to the module and enhance readability. If a group reaches a critical size, it can be structured further by subgroups.
 

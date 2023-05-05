@@ -1,6 +1,6 @@
 The Dead Tree
 ^^^^^
-Definitions:
+Definition:
 
 * A test which where a stub was created, but the test wasn't actually written.
 

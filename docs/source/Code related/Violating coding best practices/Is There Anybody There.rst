@@ -1,6 +1,6 @@
 Is There Anybody There? 
 ^^^^^
-Definitions:
+Definition:
 
 * Any flickering test that occasionally breaks a build – bad test or bad code?
 

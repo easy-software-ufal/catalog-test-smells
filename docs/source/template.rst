@@ -1,6 +1,6 @@
 [SMELL NAME]
 ^^^^^
-Definitions:
+Definition:
 
 * [DEFINITION]
 

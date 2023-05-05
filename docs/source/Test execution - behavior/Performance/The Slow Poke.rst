@@ -1,6 +1,6 @@
 The Slow Poke
 ^^^^^
-Definitions:
+Definition:
 
 * Usually, it puts the test suite to execution and takes longer to finish and give the developer feedback.
 

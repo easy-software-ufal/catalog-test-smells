@@ -1,6 +1,6 @@
 Invasion Of Privacy
 ^^^^^
-Definitions:
+Definition:
 
 * A test is written directly against a method that's intended to be a private implementation detail of the subject.
 

@@ -1,6 +1,6 @@
 Constant Actual Parameter Value
 ^^^^^
-Definitions:
+Definition:
 
 * The value of an actual parameter is the same for all occurances. In contrast to Unused Parameter (4.3.1), the parameter is in use within the declaring entity and must not simply be removed. The declaring entity could be a template or a behavioral entity (function, test case or altstep).
 

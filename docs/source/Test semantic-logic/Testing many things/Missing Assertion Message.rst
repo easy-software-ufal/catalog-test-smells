@@ -1,6 +1,6 @@
 Missing Assertion Message
 ^^^^^
-Definitions:
+Definition:
 
 * A test fails. Upon examining the output of the Test Runner, we cannot determine exactly which assertion had failed.
 

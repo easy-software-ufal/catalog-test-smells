@@ -1,6 +1,6 @@
 Evolve Or …
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that are not maintained after SUT code evolution and still pass
 

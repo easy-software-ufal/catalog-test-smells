@@ -1,6 +1,6 @@
 Test Run War
 ^^^^^
-Definitions:
+Definition:
 
 * Test failures occur at random when several people are running tests simultaneously.
 

@@ -1,6 +1,6 @@
 Duplicate Statements
 ^^^^^
-Definitions:
+Definition:
 
 * A duplicate sequence of statements in the statement block of one or multiple behavioral entities (functions, test cases and altsteps).
 

@@ -1,6 +1,6 @@
 Interacting Test Suites
 ^^^^^
-Definitions:
+Definition:
 
 * A special case of Interacting Tests where the tests are in different test suites.
 

@@ -1,6 +1,6 @@
 Bad Documentation Comment
 ^^^^^
-Definitions:
+Definition:
 
 * A documentation comment does not conform to its format. Documentation comments like T3Doc need to conform to certain formatting rules and appear at certain positions in the source code.
 

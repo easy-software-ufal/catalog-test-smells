@@ -1,6 +1,6 @@
 Asynchronous Test
 ^^^^^
-Definitions:
+Definition:
 
 * A few tests take inordinately long to run; those tests contain explicit delays.
 

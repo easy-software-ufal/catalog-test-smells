@@ -1,6 +1,6 @@
 Premature Assertions
 ^^^^^
-Definitions:
+Definition:
 
 * Intermingled with a test's set-up of the data and objects it depends on are assertions which attempt to ensure that set-up was successful. The net effect of this often resembles a "Arrange-Assert-Act-Assert" pattern.
 

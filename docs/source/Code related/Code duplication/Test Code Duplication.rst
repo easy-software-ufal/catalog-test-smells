@@ -1,6 +1,6 @@
 Test Code Duplication
 ^^^^^
-Definitions:
+Definition:
 
 
 * This test smell normally identifies classes that contain test methods with repeated test code steps.

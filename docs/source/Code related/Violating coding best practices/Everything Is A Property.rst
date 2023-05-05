@@ -1,6 +1,6 @@
 Everything Is A Property
 ^^^^^
-Definitions:
+Definition:
 
 * Where a test class keeps what should be temporary variables in instance variables
 

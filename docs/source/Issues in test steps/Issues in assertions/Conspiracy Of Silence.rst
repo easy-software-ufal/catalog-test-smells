@@ -1,6 +1,6 @@
 Conspiracy Of Silence
 ^^^^^
-Definitions:
+Definition:
 
 * When assertions in tests are failing with almost no clue why
 

@@ -1,6 +1,6 @@
 Conditional Verification Logic
 ^^^^^
-Definitions:
+Definition:
 
 * This is usually caused by wanting to prevent the execution of assertions if the SUT fails to return the right objects or the use of loops to verify the contents of collections returned by the SUT.
 

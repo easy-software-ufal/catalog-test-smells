@@ -1,6 +1,6 @@
 Badly Used Fixture
 ^^^^^
-Definitions:
+Definition:
 
 * A Badly Used Fixture is a fixture that is not fully used by the tests in the test-suite.
 

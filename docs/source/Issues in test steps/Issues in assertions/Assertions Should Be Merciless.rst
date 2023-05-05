@@ -1,6 +1,6 @@
 Assertions Should Be Merciless
 ^^^^^
-Definitions:
+Definition:
 
 * Tests whose assertions do not prove the test method works correctly
 

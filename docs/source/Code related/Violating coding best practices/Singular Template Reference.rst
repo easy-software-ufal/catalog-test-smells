@@ -1,6 +1,6 @@
 Singular Template Reference
 ^^^^^
-Definitions:
+Definition:
 
 * A template definition is referenced only once.
 

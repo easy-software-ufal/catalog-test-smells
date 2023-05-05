@@ -1,6 +1,6 @@
 Fragile Tests
 ^^^^^
-Definitions:
+Definition:
 
 * Tests which seem to break when they shouldn't
 

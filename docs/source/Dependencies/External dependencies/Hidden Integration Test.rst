@@ -1,6 +1,6 @@
 Hidden Integration Test
 ^^^^^
-Definitions:
+Definition:
 
 * A PUT outcome depends on the state of the environment.
 
