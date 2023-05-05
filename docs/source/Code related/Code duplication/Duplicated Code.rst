@@ -7,6 +7,12 @@ Definitions:
 
 Code Example:
 
+.. code-block::java
+
+    assertEqual('Joe', person.getFirstName())
+    assertEqual('Bloggs', person.getLastName())
+    assertEqual(23, person.getAge())
+
 References:
 
  * `Is duplicated code more tolerable in unit tests? <https://stackoverflow.com/questions/129693/is-duplicated-code-more-tolerable-in-unit-tests>`_
