@@ -1,4 +1,4 @@
-Second Guess The Calculation 
+Second Guess The Calculation
 ^^^^^
 Definition:
 

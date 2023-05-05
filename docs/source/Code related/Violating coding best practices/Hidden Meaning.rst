@@ -1,4 +1,4 @@
-Hidden Meaning 
+Hidden Meaning
 ^^^^^
 Definition:
 

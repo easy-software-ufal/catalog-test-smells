@@ -16,4 +16,8 @@ Code Example:
 References:
 
  * `Is duplicated code more tolerable in unit tests? <https://stackoverflow.com/questions/129693/is-duplicated-code-more-tolerable-in-unit-tests>`_
+ * `A Refactoring Tool for TTCN-3 <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.3594&rep=rep1&type=pdf>`_
+ * `An Empirical Study into the Relationship Between Class Features and Test Smells <https://ieeexplore.ieee.org/document/7890581>`_
+ * `Test Smell Detection Tools: A Systematic Mapping Study <https://dl.acm.org/doi/10.1145/3463274.3463335>`_
+ * `TestQ: Exploring Structural and Maintenance Characteristics of Unit Test Suites <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.649.6409&rep=rep1&type=pdf>`_
 

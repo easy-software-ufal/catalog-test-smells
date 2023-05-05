@@ -25,4 +25,5 @@ Code Example:
 References:
 
  * `Obscure Test <http://xunitpatterns.com/Obscure%20Test.html>`_
+ * `Detecting redundant unit tests for AspectJ programs <https://ieeexplore.ieee.org/abstract/document/4021983>`_
 
