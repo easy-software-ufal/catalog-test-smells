@@ -1,4 +1,4 @@
-Shared-State Corruption 
+Shared-State Corruption
 ^^^^^
 Definition:
 

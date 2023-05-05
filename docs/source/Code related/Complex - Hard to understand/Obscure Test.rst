@@ -37,5 +37,14 @@ References:
 
  * `Obscure Test <http://xunitpatterns.com/Obscure%20Test.html>`_
  * `Test smell: Obscure Test <https://www.codewithjason.com/test-smell-obscure-test/>`_
- * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_
+ * `An analysis of information needs to detect test smells <https://www2.swc.rwth-aachen.de/docs/teaching/seminar2016/FsSE%20CTRelEng%202016.pdf#page=23>`_
+ * `Detecting redundant unit tests for AspectJ programs <https://ieeexplore.ieee.org/abstract/document/4021983>`_
+ * `Did You Remember To Test Your Tokens? <https://dl.acm.org/doi/10.1145/3379597.3387471>`_
+ * `Enhancing developers’ awareness on test suites’ quality with test smell summaries <https://lutpub.lut.fi/handle/10024/158751>`_
+ * `Inspecting Automated Test Code: A Preliminary Study <https://dl.acm.org/doi/abs/10.5555/1768961.1768982>`_
+ * `On the Maintenance of System User Interactive Tests <https://orbilu.uni.lu/handle/10993/48254>`_
+ * `Smells in System User Interactive Tests <https://arxiv.org/abs/2111.02317>`_
+ * `Test code quality and its relation to issue handling performance <https://ieeexplore.ieee.org/abstract/document/6862882/>`_
+ * `xUnit test patterns: Refactoring test code <https://books.google.com.br/books?hl=pt-BR&lr=&id=-izOiCEIABQC&oi=fnd&pg=PT19&dq=%22test+code%22+AND+(%22test*+smell*%22+OR+antipattern*+OR+%22poor+quality%22)&ots=YL71coYZkx&sig=s3U1TNqypvSAzSilSbex5lnHonk#v=onepage&q=%22test%20code%22%20AND%20(%22test*%20smell*%22%20OR%20antipattern*%20OR%20%22poor%20quality%22)&f=false>`_
+ * `xUnit test patterns: Refactoring test code <https://books.google.com.br/books?hl=pt-BR&lr=&id=-izOiCEIABQC&oi=fnd&pg=PT19&dq=%22test+code%22+AND+(%22test*+smell*%22+OR+antipattern*+OR+%22poor+quality%22)&ots=YL71coYZkx&sig=s3U1TNqypvSAzSilSbex5lnHonk#v=onepage&q=%22test%20code%22%20AND%20(%22test*%20smell*%22%20OR%20antipattern*%20OR%20%22poor%20quality%22)&f=false>`_
 

@@ -18,4 +18,6 @@ References:
 
  * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_
  * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_
+ * `On the Maintenance of System User Interactive Tests <https://orbilu.uni.lu/handle/10993/48254>`_
+ * `Smells in System User Interactive Tests <https://arxiv.org/abs/2111.02317>`_
 

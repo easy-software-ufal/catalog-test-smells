@@ -20,4 +20,5 @@ Code Example:
 References:
 
  * `Test Smell: Hard Coded Values <https://www.integer-net.com/test-smell-hard-coded-values/>`_
+ * `Hunting for smells in natural language tests <https://ieeexplore.ieee.org/abstract/document/6606682>`_
 

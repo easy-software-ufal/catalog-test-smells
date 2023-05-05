@@ -15,5 +15,7 @@ Code Example:
 
 References:
 
- * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20220627170939/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns//>`_
+ * `Five automated acceptance test anti-patterns <https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_
+
+test-anti-patterns//>`_
 

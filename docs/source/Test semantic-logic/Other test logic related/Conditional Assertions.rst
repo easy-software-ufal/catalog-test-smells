@@ -18,4 +18,7 @@ Code Example:
 References:
 
  * `Anti-patterns in test automation <https://www.codementor.io/@mgawinecki/anti-patterns-in-test-automation-101c6vm5jz>`_
+ * `On the Maintenance of System User Interactive Tests <https://orbilu.uni.lu/handle/10993/48254>`_
+ * `Smells in System User Interactive Tests <https://arxiv.org/abs/2111.02317>`_
+ * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_
 

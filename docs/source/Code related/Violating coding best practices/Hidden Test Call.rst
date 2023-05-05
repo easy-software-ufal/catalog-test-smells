@@ -1,4 +1,4 @@
-Hidden Test Call 
+Hidden Test Call
 ^^^^^
 Definition:
 

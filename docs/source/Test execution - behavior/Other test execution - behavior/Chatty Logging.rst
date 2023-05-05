@@ -1,4 +1,4 @@
-Chatty Logging 
+Chatty Logging
 ^^^^^
 Definition:
 

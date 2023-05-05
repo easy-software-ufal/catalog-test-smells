@@ -1,4 +1,4 @@
-The First And Last Rites 
+The First And Last Rites
 ^^^^^
 Definition:
 

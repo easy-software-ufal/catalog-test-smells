@@ -57,4 +57,5 @@ Code Example:
 References:
 
  * `Maintainable automated ui tests <https://code.tutsplus.com/articles/maintainable-automated-ui-tests--net-35089>`_
+ * `Smells of Testing (signs your tests are bad) <https://jakescruggs.blogspot.com/2009/04/smells-of-testing-signs-your-tests-are.html>`_
 

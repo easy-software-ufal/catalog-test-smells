@@ -1,4 +1,4 @@
-Half A Helper Method 
+Half A Helper Method
 ^^^^^
 Definition:
 
