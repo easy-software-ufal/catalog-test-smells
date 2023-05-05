@@ -7,29 +7,28 @@ Definitions:
 
 Code Example:
 
-..code-block:: java
+.. code-block:: java
 
-    class MyTest {
+  class MyTest {
     // some test input or expected output
     private static final SomeObject COMPLEX_DATA = new ...;
-    
+
     private Thing whatWeAreTesting = new ...;
-    
+
     // ... other resources
-    
+
     @BeforeEach
     void beforeEach() {
         // some additional setup
     }
-    
     @AfterEach
     void afterEach() {
         // some tidy up
     }
-    
+
     @Test
     void testOne() { ... }
-    }
+}
 
 References:
 

@@ -9,6 +9,6 @@ Issues in teardown
     
     Activation Asymmetry
     Complex Teardown
-    External Shared-State Corruption
     Shared-State Corruption
+    External Shared-State Corruption
     Unrepeatable Test

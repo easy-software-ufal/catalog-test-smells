@@ -7,6 +7,23 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  @Spy
+  private Service service = new Service( ... );
+  
+  @Test
+  public void withInputAItDoesTheThing() {
+      service.process("A");
+      verify(service).internalCall();
+  }
+  
+  @Test
+  public void withInputBItDoesntDoTheThing() {
+      service.process("B");
+      verify(service, never()).internalCall();
+  }
+
 References:
 
  * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_

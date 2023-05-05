@@ -7,6 +7,27 @@ Definitions:
 
 Code Example:
 
+.. code-block:: yaml
+
+  name:
+   title: Mr
+   first: Testing
+   last: Testing
+  company: Testing
+
+.. code-block:: 
+
+  expect(person.getFullName())
+    .toBe('Mr Testing Testing');
+  expect(person.getCompanyName())
+      .toBe('Testing');
+
+  person.company = 'Testing';
+  
+  expect(person.getCompanyName())
+    .toBe('Testing');
+
+
 References:
 
  * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_

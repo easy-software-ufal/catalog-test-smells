@@ -7,7 +7,26 @@ Definitions:
 
 Code Example:
 
+.. code-block:: smalltalk
+
+  HeapTest >> #testExamples
+    self shouldnt: [ self heapExample ] raise: Error.
+    self shouldnt: [ self heapSortExample ] raise: Error.
+
+  HeapTest >> #heapSortExample
+    "HeapTest new heapSortExample"
+    "Sort a random collection of Floats and compare the results with ... ''
+    | n rnd array time sorted |
+    n := 10000. "# of elements to sort"
+    rnd := Random new.
+    
+    Transcript cr; show:'Time for heap-sort: ', time printString,' msecs'.
+    "The quicksort version"
+    
+    Transcript cr; show:'Time for quick-sort: ', time printString,' msecs'.
+    "The merge-sort version"
+
 References:
 
- * `Assessing test quality ‐ TestLint <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9594>`_
+ * `Assessing test quality - TestLint <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9594>`_
 

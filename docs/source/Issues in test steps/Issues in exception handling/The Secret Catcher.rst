@@ -7,6 +7,14 @@ Definitions:
 
 Code Example:
 
+.. code-block:: csharp
+
+  [Test]
+  public void ShouldNotThrow()
+  {
+    DoSomethingThatShouldNotThrowAnException();
+  }
+
 References:
 
  * `Unit testing Anti-patterns catalogue <https://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue>`_

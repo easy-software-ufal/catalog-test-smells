@@ -7,6 +7,17 @@ Definitions:
 
 Code Example:
 
+.. code-block:: pseudo
+
+  testcase exampleTestCase() runs on MainComponentType system SystemType {
+    // . . .
+    var ParallelComponentType exampleComponent := ParallelComponentType.create;
+    // no map or connect statement shere!
+    exampleComponent.start(exampleBehavior())
+    exampleComponent.done
+    // . . .
+  }
+
 References:
 
  * `Pattern-based Smell Detection in TTCN-3 Test Suites <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.6997&rep=rep1&type=pdf>`_

@@ -7,6 +7,13 @@ Definitions:
 
 Code Example:
 
+.. code-block:: javascript
+
+  assertTrue("Objects must be the same", expected == actual);
+  assertTrue("Objects must be equal", expected.equals(actual));
+  assertTrue("Object must be null", actual == null);
+  assertTrue("Object must not be null", actual != null);
+
 References:
 
  * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_

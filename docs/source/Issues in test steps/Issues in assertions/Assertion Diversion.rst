@@ -7,7 +7,7 @@ Definitions:
 
 Code Example:
 
-..code-block:: java
+.. code-block:: java
 
     Boolean isValid = false;
     if (actualResult.contains("foo")) {
@@ -17,5 +17,5 @@ Code Example:
 
 References:
 
- * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_
+* `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_
 

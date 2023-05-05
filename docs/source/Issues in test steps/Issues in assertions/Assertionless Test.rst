@@ -8,6 +8,18 @@ Definitions:
 
 Code Example:
 
+.. code-block:: Smalltalk
+
+  // Smalltalk
+  ICCreateCalendar>>TesttestCreatingSeveralCalendars
+    self addCalendarWithName: ’new Calendar 1’.
+    self addCalendarWithName: ’new Calendar 2’.
+    self addCalendarWithName: ’new Calendar 3’.
+    self addCalendarWithName: ’new Calendar 1’.
+    self addCalendarWithName: ’new Calendar 2’.
+    self addCalendarWithName: ’new Calendar 3’.
+
+
 References:
 
  * `Assessing test quality ‐ TestLint <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9594>`_

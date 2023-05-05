@@ -7,6 +7,18 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  @Test
+  public void testTransform10mNEUAndBack() {
+      Leg northEastAndUp10M = new Leg(10, 45, 45);
+      Coord3D result = transformer.transform(Coord3D.ORIGIN, northEastAndUp10M);
+      System.out.println("result = " + result);
+      Leg reverse = new Leg(10, 225, -45);
+      result = transformer.transform(result, reverse);
+      assertEquals(Coord3D.ORIGIN, result);
+  }
+
 References:
 
  * `On the distribution of test smells in open source Android applications: an exploratory study <https://dl.acm.org/doi/10.5555/3370272.3370293>`_
