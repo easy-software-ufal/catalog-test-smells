@@ -7,6 +7,23 @@ Definitions:
 
 Code Example:
 
+.. code-block::
+
+  template myType t (charstring p1, integer p2) := {
+    field1 := true,
+    field2 := p2,
+    field3 := p1
+  }
+
+  function f() runs on myComponent {
+    // ...
+    p.send(templateA("foo", 42));
+    // ...
+    p.send(templateA("foo", 42));
+    // ...
+    p.send(templateA("foo", 43));
+  }
+
 References:
 
  * `Pattern-based Smell Detection in TTCN-3 Test Suites <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.6997&rep=rep1&type=pdf>`_

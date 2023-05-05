@@ -7,6 +7,18 @@ Definitions:
 
 Code Example:
 
+.. code-block:: ruby
+
+  require File.dirname(__FILE__) + '/../test_helper'
+
+  class ProductsControllerTest < ActionController::TestCase
+    def test_should_get_index
+      get :index
+    end
+
+    # ... remaining tests omitted
+  end
+
 References:
 
  * `Testing anti-patterns: How to fail with 100% test coverage <https://jasonrudolph.com/blog/testing-anti-patterns-how-to-fail-with-100-test-coverage/>`_

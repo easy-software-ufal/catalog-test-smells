@@ -7,6 +7,16 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  @Test
+  public void hitGetPOICategoriesApi() throws Exception {
+      POICategories poiCategories = apiClient.getPOICategories(16);
+      for (POICategory category : poiCategories) {
+        System.out.println(category.name() + ": " + category);
+      }
+  }
+
 References:
 
  * `On the distribution of test smells in open source Android applications: an exploratory study <https://dl.acm.org/doi/10.5555/3370272.3370293>`_

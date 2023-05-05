@@ -7,6 +7,15 @@ Definitions:
 
 Code Example:
 
+.. code-block:: ruby
+
+  factory :active_schedule do
+    start_date Date.current - 1.month
+    end_date 1.month.since(Date.current)
+    processing_status "processed"
+    schedule_duration ScheduleDuration.find_by_name("Custom")
+  end
+
 References:
 
  * `Rails Testing Antipatterns: Fixtures and Factories <https://semaphoreci.com/blog/2014/01/14/rails-testing-antipatterns-fixtures-and-factories.html>`_

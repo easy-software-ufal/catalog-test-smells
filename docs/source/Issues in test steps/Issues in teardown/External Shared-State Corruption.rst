@@ -7,6 +7,12 @@ Definitions:
 
 Code Example:
 
+.. code-block:: text
+
+  Similar to shared-state corruption.
+  Tests touch shared resources (either in memory or in external resources,such as databases and filesystems)
+  without cleaning up or rolling back any changes they make to those resources.
+
 References:
 
  * `Chapter 8. The pillars of good unit tests <https://apprize.best/c/unit/8.html>`_

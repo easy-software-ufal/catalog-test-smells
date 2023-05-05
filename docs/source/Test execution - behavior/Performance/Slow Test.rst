@@ -6,6 +6,20 @@ Definitions:
 
 
 Code Example:
+Code Example:
+
+.. code-block:: ruby
+  
+  class SlowTest < Test::Unit::TestCase
+    def test_fast
+      assert true
+    end
+
+    def test_slow
+      MyClass.slow_method
+      assert true
+    end
+  end
 
 References:
 

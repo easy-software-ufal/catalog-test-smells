@@ -8,6 +8,32 @@ Definitions:
 
 Code Example:
 
+.. code-block:: pseudo
+
+  BooleanTypesTest >> #testTrueFalseSubtype
+    | system boolType boolMetaType |
+    system := TPStructuralTypeSystem new.
+
+    boolType := TPClassType on: Boolean.
+    
+    self assert: (system is: (TPClassType on: True) subtypeOf: boolType).
+
+    self assert: (system is: (TPClassType on: False) subtypeOf: boolType).
+
+    self assert: (system is: (TPClassType on: False) subtypeOf: (TPClassType on: True)).
+
+    self assert: (system is: (TPClassType on: True) subtypeOf: (TPClassType on: False)).
+
+    boolMetaType := TPClassType on: Boolean class.
+
+    self assert: (system is: (TPClassType on: True class) subtypeOf: boolMetaType).
+
+    self assert: (system is: (TPClassType on: False class) subtypeOf: boolMetaType).
+
+    self assert: (system is: (TPClassType on: False class) subtypeOf: (TPClassType on: True class)).
+
+    self assert: (system is: (TPClassType on: True class) subtypeOf: (TPClassType on: False class)).
+
 References:
 
  * `Assessing test quality ‐ TestLint <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9594>`_

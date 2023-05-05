@@ -7,7 +7,7 @@ Definitions:
 
 Code Example:
 
-..code-block:: javascript
+.. code-block:: javascript
 
     test('shoutd show Buggy on user interaction by keyboard', done => {
         const wrapper = mount(
@@ -20,9 +20,10 @@ Code Example:
             />
         );
 
-setTimeout(() => {
-    wrapper .update();
-    expect (wrapper.find('BuggySleepy'). length).toBe(1);
+    setTimeout(() => {
+        wrapper .update();
+        expect (wrapper.find('BuggySleepy'). length).toBe(1);
+    }
 
 
 References:

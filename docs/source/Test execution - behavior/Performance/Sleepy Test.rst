@@ -7,7 +7,7 @@ Definitions:
 
 Code Example:
 
-..code-block:: java
+.. code-block:: java
 
     public void testEdictExternSearch() throws Exception {
         final Intent i = new Intent(getInstrumentation().getContext(), ResultActivity.class);

@@ -7,6 +7,25 @@ Definitions:
 
 Code Example:
 
+.. code-block:: ruby
+
+  testcase myTestcase() runs on MyComponent {
+    var default myDefaultVar := activate(myAltstep(t))
+    alt {
+      [] p.receive(charstring:("foo1")) {
+        p.send("ack")
+      }
+      [] p.receive(charstring:("bar1")) {
+        p.send("nack")
+      }
+      [else] {
+        setverdict(fail)
+        log("unexpected behavior")
+      }
+    }
+    deactivate(myDefaultVar)
+  }
+
 References:
 
  * `Pattern-based Smell Detection in TTCN-3 Test Suites <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.6997&rep=rep1&type=pdf>`_

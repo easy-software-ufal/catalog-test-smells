@@ -7,6 +7,18 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  @Test
+  public void hasCorrectFoo() {
+    checkFoo();
+  }
+  
+  private static checkFoo() {
+    Foo foo = service.getFoo();
+    assertThat(foo.getBar()).isEqualTo("baz");
+  }
+
 References:
 
  * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_

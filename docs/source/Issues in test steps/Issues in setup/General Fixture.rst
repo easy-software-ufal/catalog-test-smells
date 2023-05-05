@@ -9,12 +9,12 @@ Code Example:
 
 .. code-block:: java
 
-    public void testGetFlightsByFromAirport_OneOutboundFlight() throws Exception {
+  public void testGetFlightsByFromAirport_OneOutboundFlight() throws Exception {
         setupStandardAirportsAndFlights();
         FlightDto outboundFlight = findOneOutboundFlight();
         // Exercise System
         List flightsAtOrigin = facade.getFlightsByOriginAirport(
-                        outboundFlight.getOriginAirportId());
+                      outboundFlight.getOriginAirportId());
         // Verify Outcome
         assertOnly1FlightInDtoList( "Flights at origin", outboundFlight,
                                     flightsAtOrigin);
@@ -25,11 +25,12 @@ Code Example:
         FlightDto[] outboundFlights = findTwoOutboundFlightsFromOneAirport();
         // Exercise System
         List flightsAtOrigin = facade.getFlightsByOriginAirport(
-                        outboundFlights[0].getOriginAirportId());
+                      outboundFlights[0].getOriginAirportId());
         // Verify Outcome
         assertExactly2FlightsInDtoList( "Flights at origin", outboundFlights,
                                         flightsAtOrigin);
     }
+  }
 
 References:
 

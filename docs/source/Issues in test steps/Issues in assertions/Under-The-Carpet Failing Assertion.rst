@@ -7,6 +7,16 @@ Definitions:
 
 Code Example:
 
+.. code-block:: smalltalk
+
+  ICImporterTest >> #testImport
+    ...
+    self assert: eventAtDate textualDescription = 'blabla'"
+    self assert: eventAtDate categories anyOne
+    = (calendar categoryWithSummary: 'business').
+    "self assert: ...
+
+
 References:
 
  * `Assessing test quality ‐ TestLint <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9594>`_

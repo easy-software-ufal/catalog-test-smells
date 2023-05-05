@@ -7,6 +7,18 @@ Definitions:
 
 Code Example:
 
+.. code-block:: java
+
+  public void testCalculation() {
+    try {
+        deepThought.calculate();
+        assertEquals("Calculation wrong", 42, deepThought.getResult());
+    }
+    catch(CalculationException ex) {
+        Log.error("Calculation caused exception", ex);
+    }
+  }
+
 References:
 
  * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_
