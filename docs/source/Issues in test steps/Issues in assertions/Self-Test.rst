@@ -1,6 +1,6 @@
 Self-Test
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that do not compare a result with an expected value, but with the result itself
 

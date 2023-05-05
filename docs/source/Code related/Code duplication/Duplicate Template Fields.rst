@@ -1,6 +1,6 @@
 Duplicate Template Fields
 ^^^^^
-Definitions:
+Definition:
 
 * The fields of two or more templates are identical or very similar
 

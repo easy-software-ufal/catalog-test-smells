@@ -1,6 +1,6 @@
 Overreferencing
 ^^^^^
-Definitions:
+Definition:
 
 * It is about test-methods referencing many times classes from the application code. The main problem with an Overreferencing Test is that it causes a lot of unnecessary dependencies towards the model code. That distracts from the goal of the test.
 * Test creating unnecessary dependencies and causing duplication

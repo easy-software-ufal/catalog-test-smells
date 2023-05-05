@@ -1,6 +1,6 @@
 Primitive Assertion
 ^^^^^
-Definitions:
+Definition:
 
 * Assertions that use primitive content to express intent
 

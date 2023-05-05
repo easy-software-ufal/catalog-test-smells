@@ -1,6 +1,6 @@
 Nondeterministic Test
 ^^^^^
-Definitions:
+Definition:
 
 * Test failures occur at random even when only a single Test Runner is running tests.
 

@@ -1,6 +1,6 @@
 Brittle Test
 ^^^^^
-Definitions:
+Definition:
 
 * UI tests containing procedural test code, duplicated steps and magic values
 

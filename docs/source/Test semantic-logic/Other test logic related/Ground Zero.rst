@@ -1,6 +1,6 @@
 Ground Zero
 ^^^^^
-Definitions:
+Definition:
 
 * Where the lack of testing with 0 is the source of a lot of bugs.
 

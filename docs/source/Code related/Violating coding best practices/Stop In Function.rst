@@ -1,6 +1,6 @@
 Stop In Function
 ^^^^^
-Definitions:
+Definition:
 
 * A function contains a stop statement. If possible, functions should not contain any stop statement, because this can prevent the execution of postambles (e.g. code that has to be executed after each test case). Instead, functions should use return values. However, this smell should be classified weak compared to other smells.
 

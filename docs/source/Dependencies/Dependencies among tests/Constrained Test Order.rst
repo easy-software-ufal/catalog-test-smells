@@ -1,6 +1,6 @@
 Constrained Test Order
 ^^^^^
-Definitions:
+Definition:
 
 * Tests expecting to be run in a specific order or expecting information from other test results
 

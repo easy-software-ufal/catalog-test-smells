@@ -1,6 +1,6 @@
 Unrestricted Imports
 ^^^^^
-Definitions:
+Definition:
 
 * A module imports more from another module than needed.
 

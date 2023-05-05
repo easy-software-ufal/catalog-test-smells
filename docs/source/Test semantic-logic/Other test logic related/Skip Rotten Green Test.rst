@@ -1,6 +1,6 @@
 Skip Rotten Green Test
 ^^^^^
-Definitions:
+Definition:
 
 * Contains guards to stop their execution early under certain conditions.
 

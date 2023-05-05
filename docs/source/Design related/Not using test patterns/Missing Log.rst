@@ -1,6 +1,6 @@
 Missing Log
 ^^^^^
-Definitions:
+Definition:
 
 * setverdict is used with verdict inconc or fail, but without calling log. Inconclusive or unsuccessful test verdicts should be logged, because this helps discovering the reasons for the failure. However, this smell should be classified weak compared to other smells.
 

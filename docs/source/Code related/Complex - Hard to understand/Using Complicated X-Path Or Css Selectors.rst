@@ -1,6 +1,6 @@
 Using Complicated X-Path Or Css Selectors
 ^^^^^
-Definitions:
+Definition:
 
 * Using element identification selectors that have long chains from the DOM in them leads to fragile tests, as any change to that chain in the DOM will break your tests.
 

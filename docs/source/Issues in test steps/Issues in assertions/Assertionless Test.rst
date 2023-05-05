@@ -1,6 +1,6 @@
 Assertionless Test
 ^^^^^
-Definitions:
+Definition:
 
 * A test that does not contain at least one valid assertion is not a real test as it does only execute plain source-code, but never assert any data, state or functionality.
 * Pretending to assert data and functionality, but does not

@@ -1,6 +1,6 @@
 Missing Assertions
 ^^^^^
-Definitions:
+Definition:
 
 * The subject includes behavior which is not asserted by the test, whether implicitly or explicitly.
 * The test method consists of an empty block

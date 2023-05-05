@@ -1,6 +1,6 @@
 7 Layer Testing
 ^^^^^
-Definitions:
+Definition:
 
 * Numerous tests depend on the functionality of a single unit, typically incidentally. A single change in the code often breaks many tests in the build. Often exhibits itself when a team finds that even trivial changes to a system results in exorbitant effort to get back to a green build.
 

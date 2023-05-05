@@ -1,6 +1,6 @@
 No Assertions
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that have no assertions and require the manual verification of log outputs
 

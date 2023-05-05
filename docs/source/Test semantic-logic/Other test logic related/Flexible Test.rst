@@ -1,6 +1,6 @@
 Flexible Test
 ^^^^^
-Definitions:
+Definition:
 
 * Test code verifies different functionality depending on when or where it is run.
 

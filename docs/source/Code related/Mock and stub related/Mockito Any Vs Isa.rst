@@ -1,6 +1,6 @@
 Mockito Any() Vs. Isa()
 ^^^^^
-Definitions:
+Definition:
 
 * Misuse of mockito’s matchers classes to type checks
 

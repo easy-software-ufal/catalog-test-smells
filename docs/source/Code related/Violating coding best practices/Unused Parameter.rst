@@ -1,6 +1,6 @@
 Unused Parameter
 ^^^^^
-Definitions:
+Definition:
 
 * A parameter is never used within the declaring unit. For in-parameters, the parameter is never read, for out-parameters never defined, for inout-parameters never accessed at all.
 

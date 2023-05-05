@@ -1,6 +1,6 @@
 Duplicate Alt Branches
 ^^^^^
-Definitions:
+Definition:
 
 * Different alt constructs contain duplicate branches
 

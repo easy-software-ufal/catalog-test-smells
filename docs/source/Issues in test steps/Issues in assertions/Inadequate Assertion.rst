@@ -1,6 +1,6 @@
 Inadequate Assertion
 ^^^^^
-Definitions:
+Definition:
 
 * Every update to the execution state must eventually be verified in the assertions. In principle, assertions should verify the correctness of all updates to the  object/program state, otherwise the strength of the test oracles is considered not enough to guard the program against faults.
 

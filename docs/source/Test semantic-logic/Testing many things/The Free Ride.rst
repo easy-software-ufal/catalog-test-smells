@@ -1,6 +1,6 @@
 The Free Ride
 ^^^^^
-Definitions:
+Definition:
 
 * When an extra assertion is added in an existing test to cover a new scenario case
 

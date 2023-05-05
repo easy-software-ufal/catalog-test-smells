@@ -1,6 +1,6 @@
 Fully-Parameterized Template
 ^^^^^
-Definitions:
+Definition:
 
 * All fields of a template are defined by formal parameters.
 

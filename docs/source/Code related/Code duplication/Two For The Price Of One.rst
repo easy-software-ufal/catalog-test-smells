@@ -1,6 +1,6 @@
 Two For The Price Of One
 ^^^^^
-Definitions:
+Definition:
 
 * Sometimes a sign of missing parameterised tests – where a single test case is testing two use cases with the same set up
 

@@ -1,6 +1,6 @@
 Unused Variable Definition
 ^^^^^
-Definitions:
+Definition:
 
 * A defined variable or in parameter is not read before it becomes undefined.
 

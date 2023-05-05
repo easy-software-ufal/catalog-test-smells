@@ -1,6 +1,6 @@
 Autogeneration
 ^^^^^
-Definitions:
+Definition:
 
 * Auto-generated tests that test methods instead of behavior
 

@@ -1,6 +1,6 @@
 Assertion Roulette
 ^^^^^
-Definitions:
+Definition:
 
 * Occurs when a test method has multiple non-documented assertions. Multiple assertion statements in a test method without a descriptive message impacts readability/understandability/maintainability as it’s not possible to understand the reason for the failure of the test.
 

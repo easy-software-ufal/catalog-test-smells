@@ -1,6 +1,6 @@
 Unrepeatable Test
 ^^^^^
-Definitions:
+Definition:
 
 * A test behaves differently the first time it is run than how it behaves on subsequent test runs.
 

@@ -1,6 +1,6 @@
 Shared-State Corruption 
 ^^^^^
-Definitions:
+Definition:
 
 * Tests sharing in-memory state without rolling back
 

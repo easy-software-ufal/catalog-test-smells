@@ -1,6 +1,6 @@
 X-Ray Specs
 ^^^^^
-Definitions:
+Definition:
 
 * A test that accesses or edits private, internal state of the subject that it shouldn't logically be privy to.
 

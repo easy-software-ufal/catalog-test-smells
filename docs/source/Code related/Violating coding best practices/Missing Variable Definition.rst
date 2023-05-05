@@ -1,6 +1,6 @@
 Missing Variable Definition
 ^^^^^
-Definitions:
+Definition:
 
 * A variable or out parameter is read before its value has been defined. Access to undefined variables might result in unpredictable behavior.
 

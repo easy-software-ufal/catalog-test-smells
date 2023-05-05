@@ -1,6 +1,6 @@
 Indecisive
 ^^^^^
-Definitions:
+Definition:
 
 * A test contains branching logic. Of course, test-scoped logic is always risky, since it is itself untested. But this smell portends some deeper issues worth discussing.
 

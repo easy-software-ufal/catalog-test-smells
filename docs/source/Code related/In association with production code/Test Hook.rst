@@ -1,6 +1,6 @@
 Test Hook
 ^^^^^
-Definitions:
+Definition:
 
 * Conditional logic within the SUT determines whether the "real" code or test-specific logic is run.
 

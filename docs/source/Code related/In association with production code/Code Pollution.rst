@@ -1,6 +1,6 @@
 Code Pollution
 ^^^^^
-Definitions:
+Definition:
 
 * It takes place when you introduce additional code to your main code base in order to enable unit testing
 

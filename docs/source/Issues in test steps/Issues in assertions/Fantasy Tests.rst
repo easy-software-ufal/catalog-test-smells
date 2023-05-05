@@ -1,6 +1,6 @@
 Fantasy Tests
 ^^^^^
-Definitions:
+Definition:
 
 * Passing tests of code that wouldn't actually work in production, usually as a result of a stub returning a response that's substantially different from how a real instance would behave.
 

@@ -1,6 +1,6 @@
 Missed Skip Rotten Green Test
 ^^^^^
-Definitions:
+Definition:
 
 * Test methods contain guards to stop their execution early under certain conditions.
 

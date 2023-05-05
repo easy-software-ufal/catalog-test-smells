@@ -1,6 +1,6 @@
 Fully Rotten Green Test
 ^^^^^
-Definitions:
+Definition:
 
 * Contains an assertion which was forced to fail.
 

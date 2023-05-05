@@ -1,6 +1,6 @@
 Use Smart Values
 ^^^^^
-Definitions:
+Definition:
 
 * Tests pass when the scenario they test is not really fulfilled
 

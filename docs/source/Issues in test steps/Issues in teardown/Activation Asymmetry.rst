@@ -1,6 +1,6 @@
 Activation Asymmetry
 ^^^^^
-Definitions:
+Definition:
 
 * A default activation has no matching subsequent deactivation in the same statement block, or a deactivation has no matching previous activation.
 

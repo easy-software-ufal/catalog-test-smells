@@ -1,6 +1,6 @@
 Context Logic In Production Code
 ^^^^^
-Definitions:
+Definition:
 
 * When the production code becomes aware of the context in which it is used.
 

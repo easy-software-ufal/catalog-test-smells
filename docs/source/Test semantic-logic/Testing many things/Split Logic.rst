@@ -1,6 +1,6 @@
 Split Logic
 ^^^^^
-Definitions:
+Definition:
 
 * When the test logic is split into several test objects and their specific assertions
 

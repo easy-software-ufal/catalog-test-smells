@@ -1,6 +1,6 @@
 Test By Number
 ^^^^^
-Definitions:
+Definition:
 
 * Production code is tested consistently by rote, inadvertently suppressing creativity in the design of both the tests and their subjects.
 

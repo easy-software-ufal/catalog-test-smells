@@ -1,6 +1,6 @@
 Expected Exceptions And Verification
 ^^^^^
-Definitions:
+Definition:
 
 * A verification happens after an expected exception is thrown and halts the test method execution
 

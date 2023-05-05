@@ -1,6 +1,6 @@
 Magic Number Test
 ^^^^^
-Definitions:
+Definition:
 
 * This smell occurs when a test method contains unexplained and undocumented numeric literals as parameters or as values to identifiers. These magic values do not sufficiently indicate the meaning/purpose of the number. Hence, they hinder code understandability. Consequently, they should be replaced with constants or variables, thereby providing a descriptive name for the value.
 

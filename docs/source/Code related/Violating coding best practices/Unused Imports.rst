@@ -1,6 +1,6 @@
 Unused Imports
 ^^^^^
-Definitions:
+Definition:
 
 * An import from another module is never used.
 

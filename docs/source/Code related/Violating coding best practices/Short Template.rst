@@ -1,6 +1,6 @@
 Short Template
 ^^^^^
-Definitions:
+Definition:
 
 * Template definition is very short (in terms of characters or number of fields).
 
