@@ -7,10 +7,17 @@ Definition:
 
 Code Example:
 
-.. code-block:: java
+.. code-block:: javascript
 
-    assertThat(calculateAnswer(INPUT))
-    .isEqualTo(EXPECTED);
+  // Over Refactoring Of Test
+  assertThat(calculateAnswer(INPUT))
+   .isEqualTo(EXPECTED);
+
+.. code-block:: javascript
+
+  //before
+  assertThat(calculateAnswercountTheWordsIn("This is a string"))
+   .isEqualTo(4);
 
 References:
 

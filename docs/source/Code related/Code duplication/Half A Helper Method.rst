@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-block :: javascript
+.. code-block:: javascript
 
     function readFile(filename) {
     // open file and return its string

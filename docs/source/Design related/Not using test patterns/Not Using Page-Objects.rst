@@ -7,6 +7,15 @@ Definition:
 
 Code Example:
 
+.. code-block:: csharp
+
+  [When(@&quot;I buy some '(.*)' tea&quot;)]
+  public void WhenIBuySomeTea(string typeOfTea)
+  {
+    Driver.FindElement(By.Id(&quot;tea-&quot;+typeOfTea)).Click();
+    Driver.FindElement(By.Id(&quot;buy&quot;)).Click();
+  }
+
 References:
 
  * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20220627170939/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns//>`_

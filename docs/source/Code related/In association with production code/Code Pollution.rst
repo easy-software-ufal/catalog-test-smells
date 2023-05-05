@@ -7,35 +7,38 @@ Definition:
 
 Code Example:
 
-.. code-example:: java
+.. code-block:: csharp
 
-    public interface ILogger
-    {
-        void Log(string text);
-    }
+  public class OrderRepository
+  {
+      public void Save(Order order)
+      {
+          /* ... */
+      }
 
-    public class Logger : ILogger
-    {
-        public void Log(string text)
-        {
-            /* Log the text */
-        }
-    }
+      public Order GetById(long id)
+      {
+          /* ... */
+      }
+  }
 
-    public class FakeLogger : ILogger
-    {
-        public void Log(string text)
-        {
-        }
-    }
+.. code-block:: csharp
 
-    public class Controller
-    {
-        public void SomeMethod(ILogger logger)
-        {
-            logger.Log("SomeMethod is called");
-        }
-    }
+  [Fact]
+  public void Some_integration_test()
+  {
+      // Arrange
+      var repository = new OrderRepository();
+      var service = new OrderService(repository);
+      long customerId = 42;
+
+      // Act
+      service.DoSomething(customerId);
+
+      // Assert
+      IReadOnlyList<Order> orders = repository.GetByCustomerId(customerId); // Code added for the use in this unit test
+      /* validate orders */
+  }
 
 References:
 

@@ -7,6 +7,10 @@ Definition:
 
 Code Example:
 
+.. code-block:: ruby
+
+  Assertions.assertThat(processTemplate("param1", "param2")).isEqualTo(String.format("this is '%s', and this is '%s'", param1, param2));
+
 References:
 
  * `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_

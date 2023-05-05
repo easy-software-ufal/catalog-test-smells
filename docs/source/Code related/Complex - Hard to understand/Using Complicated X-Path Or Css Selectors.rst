@@ -9,8 +9,9 @@ Code Example:
 
 .. code-block:: java
 
-        private static readonly By TeaTypeSelector = By.CssSelector("#input-tea-type > div > div.TeaSearchRow > div.TeaSearchCell.no > div:nth-child(2) > label");
-
+  private static readonly By TeaTypeSelector =
+            By.CssSelector(
+                &quot;#input-tea-type &gt; div &gt; div.TeaSearchRow &gt; div.TeaSearchCell.no &gt; div:nth-child(2) &gt; label&quot;);
 
 References:
 

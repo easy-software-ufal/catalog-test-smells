@@ -7,57 +7,71 @@ Definition:
 
 Code Example:
 
-.. code-block:: javascript
+.. code-block:: ruby
 
-    // Subject under test
-    function Stack () {
-    this.items = []
-    }
-    Stack.prototype.push = function (item) { this.items.push(item) }
-    Stack.prototype.pop = function () { return this.items.pop() }
-    Stack.prototype.peek = function () { return this.items[this.items.length - 1] }
-    Stack.prototype.depth = function () { return this.items.length }
+  # Subject under test
+  class Stack
+    def initialize
+      @items = []
+    end
 
-    // Test
-    module.exports = {
-        makeSureEverythingWorks: function () {
-            var subject = new Stack()
+    def push(item)
+      @items << item
+    end
 
-            // Test Push
-            subject.push('A')
-            subject.push('B')
-            subject.push('C')
+    def pop
+      @items.pop
+    end
 
-            assert.equal(subject.pop(), 'C')
-            assert.equal(subject.pop(), 'B')
-            assert.equal(subject.pop(), 'A')
+    def peek
+      @items.last
+    end
 
-            // Test Peek
-            subject.push('D')
-            subject.push('E')
+    def depth
+      @items.size
+    end
+  end
 
-            assert.equal(subject.peek(), 'E')
+  # Test
+  class Long < SmellTest
+    def test_make_sure_everything_works
+      subject = Stack.new
 
-            subject.pop()
+      # Test Push
+      subject.push("A")
+      subject.push("B")
+      subject.push("C")
 
-            assert.equal(subject.peek(), 'D')
+      assert_equal "C", subject.pop
+      assert_equal "B", subject.pop
+      assert_equal "A", subject.pop
 
-            subject.pop()
+      # Test Peek
+      subject.push("D")
+      subject.push("E")
 
-            // Test Depth
-            subject.push('F')
-            subject.push('G')
+      assert_equal "E", subject.peek
 
-            assert.equal(subject.depth(), 2)
+      subject.pop
 
-            // Test Pop
-            subject.pop()
-            subject.pop()
+      assert_equal "D", subject.peek
 
-            assert.equal(subject.depth(), 0)
-            assert.equal(subject.pop(), undefined)
-        }
-    }
+      subject.pop
+
+      # Test Depth
+      subject.push("F")
+      subject.push("G")
+
+      assert_equal 2, subject.depth
+
+      # Test Pop
+      subject.pop
+      subject.pop
+
+      assert_equal 0, subject.depth
+      assert_equal nil, subject.pop
+    end
+  end
 
 References:
 
