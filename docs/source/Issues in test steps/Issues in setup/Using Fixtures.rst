@@ -1,6 +1,6 @@
 Using Fixtures
 ^^^^^
-Definitions:
+Definition:
 
 * When a test uses fixtures to prepare and reuse test data.
 * It is not clear where the user came from and how it is set up.

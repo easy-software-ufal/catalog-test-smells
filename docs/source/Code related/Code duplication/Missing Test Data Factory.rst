@@ -1,6 +1,6 @@
 Missing Test Data Factory
 ^^^^^
-Definitions:
+Definition:
 
 * Where every test has its own way of making the same test example data
 

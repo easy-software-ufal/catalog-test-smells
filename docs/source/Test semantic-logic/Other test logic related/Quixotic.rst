@@ -1,6 +1,6 @@
 Quixotic
 ^^^^^
-Definitions:
+Definition:
 
 * A test that charts an idealistic path through the subject code, cherry-picking inputs that provide minimum resistance (e.g. in test data setup), which may result in missed test coverage in code that handle negative cases. Notably, this is more likely to occur when those negative cases are also somehow complex, which is precisely when good testing is important!
 

@@ -1,6 +1,6 @@
 Complex Conditional
 ^^^^^
-Definitions:
+Definition:
 
 * A conditional expression is composed of many boolean conjunctions.
 

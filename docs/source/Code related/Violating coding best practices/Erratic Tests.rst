@@ -1,6 +1,6 @@
 Erratic Tests
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that will pass or fail without you changing anything
 

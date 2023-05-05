@@ -1,6 +1,6 @@
 Commented Test
 ^^^^^
-Definitions:
+Definition:
 
 * Test contents are commented so that it passes
 

@@ -1,6 +1,6 @@
 Context-Dependent Rotten Green Assertion Test
 ^^^^^
-Definitions:
+Definition:
 
 * Tests contain multiple conditional branches with different assertions in each branch
 

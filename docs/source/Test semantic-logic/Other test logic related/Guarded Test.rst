@@ -1,6 +1,6 @@
 Guarded Test
 ^^^^^
-Definitions:
+Definition:
 
 * Guarded Tests include boolean branching logics like ifTrue: or ifFalse:
 * Conditional test including branches like ifTrue:aBlock or ifFalse:aBlock

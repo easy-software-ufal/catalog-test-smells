@@ -1,6 +1,6 @@
 Hidden Test Call 
 ^^^^^
-Definitions:
+Definition:
 
 * Tests calling other tests
 

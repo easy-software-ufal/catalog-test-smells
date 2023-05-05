@@ -1,6 +1,6 @@
 Paranoid
 ^^^^^
-Definitions:
+Definition:
 
 * A test (and as a result, its subject) covers edge cases that aren't actually reachable by the production application.
 

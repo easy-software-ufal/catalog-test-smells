@@ -1,6 +1,6 @@
 Duplicate Local Variable/Constant/Timer
 ^^^^^
-Definitions:
+Definition:
 
 * The same local variable, constant or timer is defined in two or more functions, test cases or altsteps running on the same component.
 

@@ -1,6 +1,6 @@
 Generative
 ^^^^^
-Definitions:
+Definition:
 
 * A test loops over a data structure of discrete inputs and expected outputs to generate test cases.
 

@@ -1,6 +1,6 @@
 The First And Last Rites 
 ^^^^^
-Definitions:
+Definition:
 
 * Where there’s some ritual/boilerplate at the start and end of most test bodies, suggesting a lack of common setup/teardown code
 

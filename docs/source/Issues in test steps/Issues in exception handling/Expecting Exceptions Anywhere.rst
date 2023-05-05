@@ -1,6 +1,6 @@
 Expecting Exceptions Anywhere
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that do not track the step that raised the expected exception and pass
 

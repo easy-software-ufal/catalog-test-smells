@@ -1,6 +1,6 @@
 Self Important Test Data
 ^^^^^
-Definitions:
+Definition:
 
 * Test data is more complex than is needed to exercise some behavior in a test.
 

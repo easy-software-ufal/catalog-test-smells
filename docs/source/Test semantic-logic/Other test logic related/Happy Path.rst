@@ -1,6 +1,6 @@
 Happy Path
 ^^^^^
-Definitions:
+Definition:
 
 * A test that uses known input, which executes without exception and produces an expected output.
 

@@ -1,6 +1,6 @@
 Hard-Coded Values
 ^^^^^
-Definitions:
+Definition:
 
 * Scalar values or value objects that are used directly in fixture setup, as parameters in the test exercise or as expected values in the verification. That is, they are not assigned to a named constant or variable.
 

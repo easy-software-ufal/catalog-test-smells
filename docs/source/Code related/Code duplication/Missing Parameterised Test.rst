@@ -1,6 +1,6 @@
 Missing Parameterised Test
 ^^^^^
-Definitions:
+Definition:
 
 * When you did it the long way round because you didn’t bring in parameterisation
 

@@ -1,6 +1,6 @@
 Require External Resources
 ^^^^^
-Definitions:
+Definition:
 
 * Test require external resources but can not guarantee their state and availability
 

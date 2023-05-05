@@ -1,6 +1,6 @@
 Branch To Assumption Anti-Pattern
 ^^^^^
-Definitions:
+Definition:
 
 * An assumption is conditionally executed.
 

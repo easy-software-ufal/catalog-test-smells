@@ -1,6 +1,6 @@
 Missing Verdict
 ^^^^^
-Definitions:
+Definition:
 
 * A test case does not set a verdict. Normally a test case should set a verdict before terminating.
 

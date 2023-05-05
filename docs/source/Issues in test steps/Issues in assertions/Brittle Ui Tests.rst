@@ -1,6 +1,6 @@
 Brittle Ui Tests
 ^^^^^
-Definitions:
+Definition:
 
 * Tests having fixed delays, bad selectors and targeting elements, and difficult investigating failures
 

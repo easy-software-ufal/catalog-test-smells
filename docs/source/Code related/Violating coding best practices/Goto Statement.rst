@@ -1,6 +1,6 @@
 Goto Statement
 ^^^^^
-Definitions:
+Definition:
 
 * A goto statement is used. The use of goto statements is inadvisable and should be avoided.
 

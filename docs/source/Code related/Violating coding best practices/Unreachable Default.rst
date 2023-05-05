@@ -1,6 +1,6 @@
 Unreachable Default
 ^^^^^
-Definitions:
+Definition:
 
 * An alt statement contains an else branch while a default is active. The else branch of an alt statement is taken if no other branch is applicable. If a default is active at the same time, its branches come after all branches of the alt statement. Hence the default altstep can never be executed if an else branch is present.
 

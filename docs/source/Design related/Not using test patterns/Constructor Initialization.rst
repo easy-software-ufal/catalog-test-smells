@@ -1,6 +1,6 @@
 Constructor Initialization
 ^^^^^
-Definitions:
+Definition:
 
 * Ideally, the test suite should not have a constructor. Initialization of fields should be in the setUp() method. Developers who are unaware of the purpose of setUp() method would give rise to this smell by defining a constructor for the test suite.
 

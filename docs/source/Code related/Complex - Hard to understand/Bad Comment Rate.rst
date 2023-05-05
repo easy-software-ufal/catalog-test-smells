@@ -1,6 +1,6 @@
 Bad Comment Rate
 ^^^^^
-Definitions:
+Definition:
 
 * The comment rate (number of comments per line) is too high or too low.
 

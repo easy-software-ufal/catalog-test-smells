@@ -1,6 +1,6 @@
 Indirect Testing
 ^^^^^
-Definitions:
+Definition:
 
 * The Test Method is interacting with the SUT indirectly via another object thereby making the interactions more complex.
 

@@ -1,6 +1,6 @@
 The Silent Catcher
 ^^^^^
-Definitions:
+Definition:
 
 * A test that passes if an exception is thrown. Even if the exception that actually occurs is one that is different than the one the developer intended.
 

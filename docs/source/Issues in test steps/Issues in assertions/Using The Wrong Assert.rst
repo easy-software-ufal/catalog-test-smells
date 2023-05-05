@@ -1,6 +1,6 @@
 Using The Wrong Assert
 ^^^^^
-Definitions:
+Definition:
 
 * There are a large number of different methods beginning with assert defined in the Assert class. Each of these methods has slightly different arguments and semantics about what they are asserting. However, many programmers seem to stick with a single assertion method: assertTrue, and then force the argument of this method into the required boolean expression.
 

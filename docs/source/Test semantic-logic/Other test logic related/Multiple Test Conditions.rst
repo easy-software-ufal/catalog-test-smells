@@ -1,6 +1,6 @@
 Multiple Test Conditions
 ^^^^^
-Definitions:
+Definition:
 
 * A test is trying to apply the same test logic to many sets of input values each with their own corresponding expected result.
 

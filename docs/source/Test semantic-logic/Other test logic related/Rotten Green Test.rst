@@ -1,6 +1,6 @@
 Rotten Green Test
 ^^^^^
-Definitions:
+Definition:
 
 * A test that passes (is green) but contains assertions that are never executed
 

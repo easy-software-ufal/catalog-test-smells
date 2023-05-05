@@ -1,6 +1,6 @@
 Mock’Em All!
 ^^^^^
-Definitions:
+Definition:
 
 * When a test overuse all kinds of test double, even when it is not really the best option
 

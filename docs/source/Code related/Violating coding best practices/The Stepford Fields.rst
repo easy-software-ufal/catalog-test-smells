@@ -1,6 +1,6 @@
 The Stepford Fields
 ^^^^^
-Definitions:
+Definition:
 
 * Where (too) many of the fields in test contain the same value, making it hard to spot when a calculation is reading a value from the wrong field, because it works on the test data; this also makes load testing near a cache pretty meaningless
 

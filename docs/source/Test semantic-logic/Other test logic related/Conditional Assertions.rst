@@ -1,6 +1,6 @@
 Conditional Assertions
 ^^^^^
-Definitions:
+Definition:
 
 * it makes your test non-deterministic: you will never be sure which path will be verified in the next pass
 

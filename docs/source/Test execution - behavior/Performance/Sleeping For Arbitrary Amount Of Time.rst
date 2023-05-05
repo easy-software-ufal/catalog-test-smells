@@ -1,6 +1,6 @@
 Sleeping For Arbitrary Amount Of Time
 ^^^^^
-Definitions:
+Definition:
 
 * When a test becomes fragile to network or processing congestion
 

@@ -1,6 +1,6 @@
 Complicated Set Up Scenarios Within The Tests Themselves
 ^^^^^
-Definitions:
+Definition:
 
 * Whilst there’s a place for automated end-to-end scenarios (I call these user journies), I prefer most acceptance tests to jump straight to the point.
 

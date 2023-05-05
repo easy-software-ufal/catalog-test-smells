@@ -1,6 +1,6 @@
 Excessive Setup
 ^^^^^
-Definitions:
+Definition:
 
 * Many dependencies you have to create beforehand (such as classes, operating system dependencies, databases - basically anything that removes the attention to the testing goal).
 

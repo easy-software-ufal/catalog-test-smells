@@ -1,6 +1,6 @@
 Over-Specific Runs On
 ^^^^^
-Definitions:
+Definition:
 
 * A behavioral entity (function, test case or altstep) is declared to run on a component, but uses only elements of this component’s super-component or no elements of the component at all.
 

@@ -1,6 +1,6 @@
 Is Mockito Working Fine?
 ^^^^^
-Definitions:
+Definition:
 
 * When the mock framerwork is tested intead of the SUT
 

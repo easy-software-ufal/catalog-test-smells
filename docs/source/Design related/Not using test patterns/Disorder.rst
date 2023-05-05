@@ -1,6 +1,6 @@
 Disorder
 ^^^^^
-Definitions:
+Definition:
 
 * The sequence of elements within a module does not conform to a given order. A preferred ordering could be:
 

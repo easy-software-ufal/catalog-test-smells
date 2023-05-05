@@ -1,6 +1,6 @@
 Test::Class Hierarchy
 ^^^^^
-Definitions:
+Definition:
 
 * When test classes are not independent and test methods are inherited
 

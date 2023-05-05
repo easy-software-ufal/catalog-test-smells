@@ -1,6 +1,6 @@
 Mockers Without Borders
 ^^^^^
-Definitions:
+Definition:
 
 * Tests demonstrate little rhyme or reason for whether a given test ought to fake a particular dependency or call through to the real thing.
 

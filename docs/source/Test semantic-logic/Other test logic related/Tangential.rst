@@ -1,6 +1,6 @@
 Tangential
 ^^^^^
-Definitions:
+Definition:
 
 * The subject and its test claim to be focused on something, but the bulk of their complexity is focused on a different (often subordinate) responsibility.
 

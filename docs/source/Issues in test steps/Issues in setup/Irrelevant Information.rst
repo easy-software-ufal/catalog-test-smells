@@ -1,6 +1,6 @@
 Irrelevant Information
 ^^^^^
-Definitions:
+Definition:
 
 * The test is exposing a lot of irrelevant details about the fixture that distract the test reader from what really affects the behavior of the SUT.
 

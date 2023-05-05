@@ -1,6 +1,6 @@
 Magic Values
 ^^^^^
-Definitions:
+Definition:
 
 * Magic Values are literals not defined as constant. Numeric literals are called Magic Numbers, string literals are called Magic Strings.
 

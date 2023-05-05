@@ -1,6 +1,6 @@
 Factories With Random Data Instead Of Sequences
 ^^^^^
-Definitions:
+Definition:
 
 * When used alongside factories, random data generators may compromise the reliability of a test suite.
 

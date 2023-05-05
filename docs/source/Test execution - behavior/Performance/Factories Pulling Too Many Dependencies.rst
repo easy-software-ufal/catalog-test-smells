@@ -1,6 +1,6 @@
 Factories Pulling Too Many Dependencies
 ^^^^^
-Definitions:
+Definition:
 
 * Calling one factory may silently create many associated records, which accumulates to make the whole test suite slow (more on that later)
 

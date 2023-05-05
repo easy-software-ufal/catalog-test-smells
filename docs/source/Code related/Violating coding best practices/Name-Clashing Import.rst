@@ -1,6 +1,6 @@
 Name-Clashing Import
 ^^^^^
-Definitions:
+Definition:
 
 * An imported element causes a name clash with a declaration in the importing module or another imported element.
 

@@ -1,6 +1,6 @@
 The Giant
 ^^^^^
-Definitions:
+Definition:
 
 * Many assertions in a single test case
 

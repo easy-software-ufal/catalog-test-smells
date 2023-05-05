@@ -1,6 +1,6 @@
 Overspecified Tests
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that specify too many things that aren’t genuinely related to the scenario being tested.
 

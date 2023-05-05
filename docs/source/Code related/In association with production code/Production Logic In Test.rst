@@ -1,6 +1,6 @@
 Production Logic In Test
 ^^^^^
-Definitions:
+Definition:
 
 * Some forms of Conditional Test Logic are found in the result verification section of our tests.
 

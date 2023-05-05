@@ -1,6 +1,6 @@
 Time Sensitive Test
 ^^^^^
-Definitions:
+Definition:
 
 * Tests that only pass depending on the time of the day they are executed
 

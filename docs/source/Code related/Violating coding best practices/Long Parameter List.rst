@@ -1,6 +1,6 @@
 Long Parameter List
 ^^^^^
-Definitions:
+Definition:
 
 * High number of formal parameters.
 
