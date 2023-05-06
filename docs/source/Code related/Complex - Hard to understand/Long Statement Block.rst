@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-block:: pseudo
+.. code-block:: ttcn3
 
   function ptc_CC_PR_MP_RQ_V_030(CSeq lo cCSeq s) runs on SipComponent {
     var Request vINVITERequest;
