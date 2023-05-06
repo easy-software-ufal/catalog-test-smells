@@ -7,6 +7,33 @@ Definition:
 
 Code Example:
 
+.. code-block::
+
+  public class TransactionTest {
+    @Test
+    public void shouldRecognizeTransactionsWithZeroValueAsInvalid() {
+      //given
+      Transaction tx = new Transaction(BigDecimal.ZERO,
+      new InternalUser());
+      //when
+      boolean actual = tx.validate();
+      //then
+      assertThat(actual).isFalse();
+    }
+    
+    @Test
+    public void shouldRecognizeTransactionWithNegativeValueAsInvalid() {
+      //given
+      Transaction tx = new Transaction(BigDecimal.ONE.negate(),
+      new InternalUser());
+      //when
+      boolean actual = tx.validate();
+      //then
+      assertThat(actual).isFalse();
+    }
+  }
+
+
 References:
 
  * `Bad tests, good tests <http://kaczanowscy.pl/books/bad_tests_good_tests.html>`_
