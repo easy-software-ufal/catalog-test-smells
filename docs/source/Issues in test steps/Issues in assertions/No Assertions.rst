@@ -7,6 +7,18 @@ Definition:
 
 Code Example:
 
+.. code-block:: java
+
+  IResult result = format.execute();
+  System.out.println(result.size());
+  Iterator iter = result.iterator();
+  
+  while (iter.hasNext()) {
+    IResult r = (IResult) iter.next();
+    System.out.println(r.getMessage());
+  }
+
+
 References:
 
  * `Bad tests, good tests <http://kaczanowscy.pl/books/bad_tests_good_tests.html>`_

@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-block::java
+.. code-block:: java
 
     assertEqual('Joe', person.getFirstName())
     assertEqual('Bloggs', person.getLastName())

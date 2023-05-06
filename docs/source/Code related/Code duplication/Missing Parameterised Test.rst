@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-example:: java
+.. code-block:: java
 
     @ParameterizedTest
     @CsvSource({

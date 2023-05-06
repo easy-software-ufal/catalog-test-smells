@@ -4,8 +4,29 @@ Definition:
 
 * Tests pass when the scenario they test is not really fulfilled
 
-
 Code Example:
+
+.. code-block:: java
+
+  public class PriceCalculatorFactoryTest {
+    SettingsService settings = mock(SettingsService.class);
+    @Test
+    public void shouldCreatePriceCalculator() {
+      //given
+      given(settings.getMinMargin()).willReturn(new BigDecimal(20));
+      given(settings.getMaxMargin()).willReturn(new BigDecimal(50));
+      given(settings.getPremiumShare()).willReturn(new BigDecimal(50));
+      //when
+      PriceCalculator calculator
+      = new PriceCalculatorFactory(settings).create();
+      Chapter 3. Strength
+      7
+      //then
+      assertThat(calculator)
+      .isEqualTo(new PriceCalculator(new BigDecimal(20),
+      new BigDecimal(50), new BigDecimal(50)));
+    }
+  }
 
 References:
 
