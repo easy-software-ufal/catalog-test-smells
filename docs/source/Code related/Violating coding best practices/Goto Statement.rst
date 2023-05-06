@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-block::
+.. code-block:: csharp
 
   function f ( integer i ) runs on ExampleComponent {
     var integer MyVar := i ;

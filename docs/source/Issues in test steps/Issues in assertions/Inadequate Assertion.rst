@@ -7,6 +7,29 @@ Definition:
 
 Code Example:
 
+.. code-block:: java
+
+    public class ClassUnderTest{
+        private int data1;
+        private int data2;
+        public int getData1() { return data1;}
+        public int getData2() { return data2;}
+
+        public void method1(int flag){
+            if(flag>0){
+                this.data2 =  2; //define data2
+            }
+            this.data1 = 4;      //define data1
+
+
+    public class ClassUnderTest extends TestCase{
+        public void testMethod1(){
+            ClassUnderTest cut = new ClassUnderTest;
+            int testInput = 1;
+            cut.method1(testInput);
+
+            assertTrue(cut.getData1()==4); // Is this assertion adequate enough?
+
 References:
 
  * `On adequacy of assertions in automated test suites: an empirical investigation <https://ieeexplore.ieee.org/abstract/document/6571656>`_

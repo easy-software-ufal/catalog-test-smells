@@ -7,9 +7,14 @@ Definition:
 
 Code Example:
 
+    Scenario: Social media links displayed on checkout page
+    Given I am the checkout page for Australia
+    Then I should see a link to 'http://twitter.com/beautifultea'
+    And I should see a link to 'https://facebook.com/beautifultea'
+ 
 References:
 
- * `Five automated acceptance test anti-patterns <https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_
+ * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20211113081220/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_
 
-tance-test-anti-patterns//>`_
+
 

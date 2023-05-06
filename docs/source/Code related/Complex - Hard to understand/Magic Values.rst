@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-block:: TTCN-3
+.. code-block:: javascript
 
   testcase SIP_CC_PR_TR_SE_TI_004 (inout CSeq loc_CSeq_s, CSeq loc_CSeq_ptcs)
     runs on SipComponent system SipInterfaces

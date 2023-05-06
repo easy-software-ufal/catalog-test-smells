@@ -7,9 +7,14 @@ Definition:
 
 Code Example:
 
-.. code-block::
+.. code-block:: java
 
-    “Don’t worry, this test only breaks the build sometimes”
+    @Test
+    public void testMethod() {
+        int expected = 5;
+        int actual = MyUnstableClass.doSomethingWithRandomReturns();
+        assertEquals(expected, actual);
+    }
 
 References:
 

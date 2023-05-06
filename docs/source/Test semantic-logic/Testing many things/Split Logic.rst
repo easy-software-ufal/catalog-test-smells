@@ -7,6 +7,29 @@ Definition:
 
 Code Example:
 
+.. code-block:: java
+
+    public class AddToCartTests {
+        @Test
+        public void testAddToCart() {
+            // Test adding product to cart
+        }
+        
+        @Test
+        public void testCartIsEmptyAfterCheckout() {
+            // Checkout process
+            // Assert that cart is empty
+        }
+    }
+
+    public class CheckoutTests {
+        @Test
+        public void testCheckout() {
+            // Checkout process
+        }
+    }
+
+
 References:
 
  * `Developer test anti-patterns by lasse koskela <https://www.youtube.com/watch?v=3Fa69eQ6XgM>`_

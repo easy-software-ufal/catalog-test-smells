@@ -7,6 +7,15 @@ Definition:
 
 Code Example:
 
+.. code-block:: java
+
+    @Test
+    public void test1() {
+        // test user login
+        LoginPage.login("user", "password");
+    }
+
+
 References:
 
  * `Assessing test quality ‐ TestLint <http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9594>`_

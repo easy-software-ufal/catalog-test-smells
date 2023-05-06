@@ -11,11 +11,10 @@ Code Example:
 
   private static readonly By TeaTypeSelector =
             By.CssSelector(
-                &quot;#input-tea-type &gt; div &gt; div.TeaSearchRow &gt; div.TeaSearchCell.no &gt; div:nth-child(2) &gt; label&quot;);
+                '#input-tea-type < div < div.TeaSearchRow < div.TeaSearchCell.no < div:nth-child(2) < label');
 
 References:
 
- * `Five automated acceptance test anti-patterns <https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_
+ * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20211113081220/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_
 
-test-anti-patterns//>`_
 

@@ -7,6 +7,10 @@ Definition:
 
 Code Example:
 
+.. code-block:: css
+
+    /html/body/div/div/div/div/div[2]/label/span[2]
+
 References:
 
  * `Writing good gherkin <https://techbeacon.com/app-dev-testing/7-ways-tidy-your-test-code>`_

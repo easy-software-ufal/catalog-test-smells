@@ -7,7 +7,7 @@ Definition:
 
 Code Example:
 
-.. code-block:: st
+.. code-block:: go
 
   DebuggerTest >> #testUnwindDebuggerWithStep
     "test if unwind blocks work properly when a debugger is closed"
