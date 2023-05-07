@@ -23,5 +23,3 @@ References:
 
  * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20211113081220/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_
 
-nti-patterns//>`_
-

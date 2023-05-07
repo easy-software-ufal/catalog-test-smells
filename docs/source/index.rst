@@ -5,9 +5,9 @@ Welcome!
 
 Search for a test smell using the **search** or the **sidebar** --- works with test smells descriptions too --- if you already know what to look for. If not, you may browse by category in the left panel. Download options (PDF and EPUB) are available in the `Read the Docs` menu (bottom of left panel). There is a **lot** to see!
 
-The catalog provides a visualization of the data set compiled in a Multivocal Literature Review published here. Initially, it unifies 127 formal and informal sources (sites, personal blogs, even videos!). As the catalog is open-source, any community member can submit a contribution as a pull request and help improve it.
+The catalog provides a visualization of the data set compiled in a Multivocal Literature Review published here. Initially, the catalog unifies information from 127 formal and informal sources. As the catalog is open-source, any community member can submit a contribution as a pull request and help improve it.
 
-Every smell listed in this catalog contains a name, AKA (when available), definition, code example (likely extracted from the listed references), and the listed references, which of course provide further information. We expect the catalog to be a helpful resource for software testing community members to better understand test smells. In this sense, it may help avoid adding new names (AKA) to existing test smells in an overlap.
+Every listed test smell contains a name, AKA (when available), definition, code example (likely extracted from the listed references), and the listed references, which of course provide further information. We expect the catalog to be a helpful resource for software testing community members to better understand test smells. Furthermore, it may help avoid proposing new names (AKA) to existing test smells in an overlap.
 
 .. tip::
 

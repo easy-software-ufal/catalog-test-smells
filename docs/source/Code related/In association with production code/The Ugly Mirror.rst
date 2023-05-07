@@ -30,5 +30,5 @@ References:
  * `Testing anti-patterns: The ugly mirror <https://jasonrudolph.com/blog/2008/07/30/testing-anti-patterns-the-ugly-mirror/>`_
  * `Anti-Patterns - Digital Tapestry <https://digitaltapestry.net/testify/manual/AntiPatterns.html>`_
  * `Java: code duplication in classes and their junit test cases <https://stackoverflow.com/questions/10781050/java-code-duplication-in-classes-and-their-junit-test-cases>`_
- * `Smells in software test code: A survey of knowledge in industry and academia <https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060>`_
+ * `Smells in Software Test Code: A Survey of Knowledge in Industry and Academia <https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060>`_
 

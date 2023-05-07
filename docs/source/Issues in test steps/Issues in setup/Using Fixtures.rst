@@ -3,8 +3,6 @@ Using Fixtures
 Definition:
 
 * When a test uses fixtures to prepare and reuse test data.
-* It is not clear where the user came from and how it is set up.
-* We are testing against a “magic value” — implying something was defined in some code, somewhere else.
 
 
 Code Example:
