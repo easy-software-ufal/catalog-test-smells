@@ -40,7 +40,7 @@ Code Example:
 
 References:
 
- *  `Assessing Diffusion and Perception of Test Smells in Scala Projects <https://dl.acm.org/doi/10.1109/MSR.2019.00072>`_ |code_example| |cause_effect| |freq|
+ * `Assessing Diffusion and Perception of Test Smells in Scala Projects <https://dl.acm.org/doi/10.1109/MSR.2019.00072>`_ |code_example| |cause_effect| |freq|
  * `Obscure Test <http://xunitpatterns.com/Obscure%20Test.html>`_ |freq|
  * `Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities <https://ieeexplore.ieee.org/document/9240691>`_ |code_example| |cause_effect|
  * `Smells in Software Test Code: A Survey of Knowledge in Industry and Academia <https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060>`_

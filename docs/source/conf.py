@@ -48,7 +48,7 @@ rst_prolog = """
         :alt: Code Example
         :height: 25px
 
-.. |cause_effect| image:: https://github.com/easy-software-ufal/catalog-test-smells/blob/main/docs/source/_static/logo_causes_effects.jpg?raw=true
+.. |cause_effect| image:: https://github.com/easy-software-ufal/catalog-test-smells/blob/main/docs/source/_static/logo_causes_effects.png?raw=true
         :alt: Cause and Effect
         :height: 25px
 
