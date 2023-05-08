@@ -42,5 +42,19 @@ html_theme_options = {
     'logo_only': False,
     'display_version': True,
 }
+rst_epilog = """
+
+.. |code_example| image:: <url>
+        :alt: Code Example
+        :height: 25px
+
+.. |cause_effect| image:: <url>
+        :alt: Cause and Effect
+        :height: 25px
+
+.. |freq| image:: <url>
+        :alt: Frequency
+        :height: 25px
+"""
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
