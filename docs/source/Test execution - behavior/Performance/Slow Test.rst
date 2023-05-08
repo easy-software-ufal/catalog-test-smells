@@ -5,7 +5,11 @@ Definition:
 * Slow tests are kind of tests which take long enough to run
 
 
-Code Example:
+Also Known As:
+
+* Long Running Test, The Slow Poke
+
+
 Code Example:
 
 .. code-block:: ruby

@@ -5,6 +5,11 @@ Definition:
 * The tests have to be executed in a certain order due to dependencies between them.
 
 
+Also Known As:
+
+* Chained Tests, Chain Gang
+
+
 Code Example:
 
 .. code-block:: ruby

@@ -5,6 +5,11 @@ Definition:
 * A Long Test is a test that consists of lot of code and statements. Such tests are mostly (but not necessarily) complex and badly document the purpose of the test and the application code. Furthermore they tend to test too much functionality, maybe even getting eager.
 
 
+Also Known As:
+
+* Obscure Test, Verbose Test, Complex Test
+
+
 Code Example:
 
 .. code-block:: ruby

@@ -5,6 +5,11 @@ Definition:
 * A test that at first glance appears to be doing no testing, due to absence of assertions. But "The devil is in the details".. the test is really relying on an exception to be thrown and expecting the testing framework to capture the exception and report it to the user as a failure.
 
 
+Also Known As:
+
+* The Silent Catcher
+
+
 Code Example:
 
 .. code-block:: csharp

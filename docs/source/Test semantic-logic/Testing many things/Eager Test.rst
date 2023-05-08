@@ -7,7 +7,7 @@ Definition:
 
 Also Known As:
 
-* The Test It All, Split Personality
+* The Test It All, Split Personality, Many Assertions, Multiple Assertions, The Free Ride
 
 Code Example:
 

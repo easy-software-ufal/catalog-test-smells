@@ -5,6 +5,11 @@ Definition:
 * Tests that have no assertions and require the manual verification of log outputs
 
 
+Also Known As:
+
+* Lying Test, Assertionless Test, The Line Hitter
+
+
 Code Example:
 
 .. code-block:: java

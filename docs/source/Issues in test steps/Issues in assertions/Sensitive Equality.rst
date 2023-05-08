@@ -5,6 +5,11 @@ Definition:
 * Occurs when the toString method is used within a test method. Test methods verify objects by invoking the default toString() method of the object and comparing the output against an specific string. Changes to the implementation of toString() might result in failure. The correct approach is to implement a custom method within the object to perform this comparison.
 
 
+Also Known As:
+
+* The Butterfly
+
+
 Code Example:
 
 .. code-block:: java

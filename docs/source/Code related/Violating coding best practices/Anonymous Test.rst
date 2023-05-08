@@ -5,6 +5,11 @@ Definition:
 * An anonymous test is a test whose name is meaningless as it doesn't express the purpose of the test in the current context. However tests can be regarded as documentation, and the name is an important part of that as it should abstract what the test is all about.
 
 
+Also Known As:
+
+* Unclear Naming, Naming Convention Violation
+
+
 Code Example:
 
 .. code-block:: java
