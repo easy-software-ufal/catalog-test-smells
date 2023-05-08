@@ -42,17 +42,17 @@ html_theme_options = {
     'logo_only': False,
     'display_version': True,
 }
-rst_epilog = """
+rst_prolog = """
 
-.. |code_example| image:: <url>
+.. |code_example| image:: https://github.com/easy-software-ufal/catalog-test-smells/blob/main/docs/source/_static/logo_example.png?raw=true
         :alt: Code Example
         :height: 25px
 
-.. |cause_effect| image:: <url>
+.. |cause_effect| image:: https://github.com/easy-software-ufal/catalog-test-smells/blob/main/docs/source/_static/logo_causes_effects.jpg?raw=true
         :alt: Cause and Effect
         :height: 25px
 
-.. |freq| image:: <url>
+.. |freq| image:: https://github.com/easy-software-ufal/catalog-test-smells/blob/main/docs/source/_static/logo_freq.png?raw=true
         :alt: Frequency
         :height: 25px
 """
