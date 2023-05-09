@@ -1,11 +1,11 @@
 Not Using Page-Objects
 ^^^^^
-Definition:
+**Definition:**
 
 * Page objects are just a design pattern to ensure automated UI tests use reusable, modular code. Not using them, eg, writing WebDriver code directly in step definitions, means any changes to your UI will require updates in lots of different places instead of the one ‘page’ class.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: csharp
 
@@ -16,13 +16,13 @@ Code Example:
     Driver.FindElement(By.Id('buy')).Click();
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Five automated acceptance test anti-patterns <https://web.archive.org/web/20211113081220/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Five automated acceptance test anti-patterns <https://web.archive.org/web/20211113081220/https://alisterbscott.com/2015/01/20/five-automated-acceptance-test-anti-patterns/>`_ :octicon:`file-code;1em`
 

@@ -1,11 +1,11 @@
 Superfluous Setup Data
 ^^^^^
-Definition:
+**Definition:**
 
 * Occurs when testing queries or filters, in which you only expect to get a subset of the data back. The underlying idea is that, in order to be thorough, “extra” data should be present to show that the query or filter works as required.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -22,13 +22,13 @@ Code Example:
   assertEquals("a", results[0].getName());
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Testing anti-patterns <https://medium.com/jameskbride/testing-anti-patterns-b5ffc1612b8b>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Testing anti-patterns <https://medium.com/jameskbride/testing-anti-patterns-b5ffc1612b8b>`_ :octicon:`file-code;1em`
 

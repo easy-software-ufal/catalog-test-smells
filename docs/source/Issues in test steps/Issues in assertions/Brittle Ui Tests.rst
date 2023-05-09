@@ -1,11 +1,11 @@
 Brittle Ui Tests
 ^^^^^
-Definition:
+**Definition:**
 
 * Tests having fixed delays, bad selectors and targeting elements, and difficult investigating failures
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -13,13 +13,13 @@ Code Example:
     Thread.Sleep(5000);
     IWebElement myDynamicElement = driver.FindElement(By.Id("someDynamicElement"));
     
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Tips to avoid brittle ui tests <https://code.tutsplus.com/tutorials/tips-to-avoid-brittle-ui-tests--net-35188>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Tips to avoid brittle ui tests <https://code.tutsplus.com/tutorials/tips-to-avoid-brittle-ui-tests--net-35188>`_ :octicon:`file-code;1em`
 

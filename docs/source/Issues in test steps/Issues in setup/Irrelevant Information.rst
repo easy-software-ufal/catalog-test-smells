@@ -1,11 +1,11 @@
 Irrelevant Information
 ^^^^^
-Definition:
+**Definition:**
 
 * The test is exposing a lot of irrelevant details about the fixture that distract the test reader from what really affects the behavior of the SUT.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -24,14 +24,14 @@ Code Example:
       assertContainsExactlyOneLineItem(invoice, expected);
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Obscure Test <http://xunitpatterns.com/Obscure%20Test.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
- * `Detecting Redundant Unit Tests for AspectJ Programs <https://ieeexplore.ieee.org/abstract/document/4021983>`_
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Obscure Test <http://xunitpatterns.com/Obscure%20Test.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+* `Detecting Redundant Unit Tests for AspectJ Programs <https://ieeexplore.ieee.org/abstract/document/4021983>`_
 

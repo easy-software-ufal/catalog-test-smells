@@ -1,11 +1,11 @@
 Fragile Tests
 ^^^^^
-Definition:
+**Definition:**
 
 * Tests which seem to break when they shouldn't
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: ruby
 
@@ -25,13 +25,13 @@ Code Example:
     end
   end
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_ :octicon:`file-code;1em`
 

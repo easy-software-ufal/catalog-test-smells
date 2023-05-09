@@ -1,11 +1,11 @@
 Half A Helper Method
 ^^^^^
-Definition:
+**Definition:**
 
 * Where there’s a utility method to help a test do its job, yet all calls to it are immediately followed by the exact same code. This is because the method is only doing half the job it should, so your test has more boilerplate in it.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: javascript
 
@@ -24,13 +24,13 @@ Code Example:
     const file = readFile('foo.txt');
     const substituted = substituteId(file, currentId);
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
 

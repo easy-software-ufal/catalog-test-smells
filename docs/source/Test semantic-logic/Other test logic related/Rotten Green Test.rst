@@ -1,11 +1,11 @@
 Rotten Green Test
 ^^^^^
-Definition:
+**Definition:**
 
 * A test that passes (is green) but contains assertions that are never executed
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -22,15 +22,15 @@ Code Example:
     . . . .
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `RTj: a Java framework for detecting and refactoring rotten green test cases <https://dl.acm.org/doi/10.1145/3377812.3382151>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
- * `JTDog: a Gradle Plugin for Dynamic Test Smell Detection <https://ieeexplore.ieee.org/document/9678529/>`_ :octicon:`comment-discussion;1em`
- * `Test Smell Detection Tools: A Systematic Mapping Study <https://dl.acm.org/doi/10.1145/3463274.3463335>`_
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `RTj: a Java framework for detecting and refactoring rotten green test cases <https://dl.acm.org/doi/10.1145/3377812.3382151>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
+* `JTDog: a Gradle Plugin for Dynamic Test Smell Detection <https://ieeexplore.ieee.org/document/9678529/>`_ :octicon:`comment-discussion;1em`
+* `Test Smell Detection Tools: A Systematic Mapping Study <https://dl.acm.org/doi/10.1145/3463274.3463335>`_
 

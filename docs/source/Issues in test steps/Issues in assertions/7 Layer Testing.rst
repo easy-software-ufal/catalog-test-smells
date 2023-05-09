@@ -1,11 +1,11 @@
 7 Layer Testing
 ^^^^^
-Definition:
+**Definition:**
 
 * Numerous tests depend on the functionality of a single unit, typically incidentally. A single change in the code often breaks many tests in the build. Often exhibits itself when a team finds that even trivial changes to a system results in exorbitant effort to get back to a green build.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: javascript
 
@@ -101,13 +101,13 @@ Code Example:
     }
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

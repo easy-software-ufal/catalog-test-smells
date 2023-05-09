@@ -1,11 +1,11 @@
 Chafing
 ^^^^^
-Definition:
+**Definition:**
 
 * A test in which the author attempts to eliminate as much textual duplication as possible, even if the indirection it introduces confuses future readers of the intention and behavior of the test.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: ruby
 
@@ -54,13 +54,13 @@ Code Example:
   end
 
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

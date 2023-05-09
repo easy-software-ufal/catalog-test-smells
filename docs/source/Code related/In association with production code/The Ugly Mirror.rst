@@ -1,6 +1,6 @@
 The Ugly Mirror
 ^^^^^
-Definition:
+**Definition:**
 
 * When you occasionally find yourself staring at a spec that looks exactly like the code under test, there’s surprisingly little win left to enjoy.
 
@@ -10,7 +10,7 @@ Also Known As:
 * Tautological tests
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: ruby
 
@@ -30,17 +30,17 @@ Code Example:
   end
 
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Testing anti-patterns: How to fail with 100% test coverage <https://jasonrudolph.com/blog/testing-anti-patterns-how-to-fail-with-100-test-coverage/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
- * `Testing anti-patterns: The ugly mirror <https://jasonrudolph.com/blog/2008/07/30/testing-anti-patterns-the-ugly-mirror/>`_ :octicon:`file-code;1em`
- * `Anti-Patterns - Digital Tapestry <https://digitaltapestry.net/testify/manual/AntiPatterns.html>`_
- * `Java: code duplication in classes and their junit test cases <https://stackoverflow.com/questions/10781050/java-code-duplication-in-classes-and-their-junit-test-cases>`_
- * `Smells in Software Test Code: A Survey of Knowledge in Industry and Academia <https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060>`_
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Testing anti-patterns: How to fail with 100% test coverage <https://jasonrudolph.com/blog/testing-anti-patterns-how-to-fail-with-100-test-coverage/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+* `Testing anti-patterns: The ugly mirror <https://jasonrudolph.com/blog/2008/07/30/testing-anti-patterns-the-ugly-mirror/>`_ :octicon:`file-code;1em`
+* `Anti-Patterns - Digital Tapestry <https://digitaltapestry.net/testify/manual/AntiPatterns.html>`_
+* `Java: code duplication in classes and their junit test cases <https://stackoverflow.com/questions/10781050/java-code-duplication-in-classes-and-their-junit-test-cases>`_
+* `Smells in Software Test Code: A Survey of Knowledge in Industry and Academia <https://www.sciencedirect.com/science/article/abs/pii/S0164121217303060>`_
 

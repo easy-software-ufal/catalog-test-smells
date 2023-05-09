@@ -1,11 +1,11 @@
 Self-Test
 ^^^^^
-Definition:
+**Definition:**
 
 * Tests that do not compare a result with an expected value, but with the result itself
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -29,13 +29,13 @@ Code Example:
     assertThat(methodsForCountry).isEqualTo(methodsAvailableInPoland);
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Bad tests, good tests <http://kaczanowscy.pl/books/bad_tests_good_tests.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Bad tests, good tests <http://kaczanowscy.pl/books/bad_tests_good_tests.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

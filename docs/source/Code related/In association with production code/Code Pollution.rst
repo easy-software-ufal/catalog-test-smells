@@ -1,11 +1,11 @@
 Code Pollution
 ^^^^^
-Definition:
+**Definition:**
 
 * It takes place when you introduce additional code to your main code base in order to enable unit testing
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: csharp
 
@@ -40,13 +40,13 @@ Code Example:
       /* validate orders */
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Code pollution <https://enterprisecraftsmanship.com/posts/code-pollution/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Code pollution <https://enterprisecraftsmanship.com/posts/code-pollution/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

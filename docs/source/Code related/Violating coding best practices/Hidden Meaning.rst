@@ -1,11 +1,11 @@
 Hidden Meaning
 ^^^^^
-Definition:
+**Definition:**
 
 * Where something that should be part of the execution of the test, and appear in a test report, is hidden in a comment – essentially comment instead of name
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -19,13 +19,13 @@ Code Example:
       assertEquals(200, response);
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
 

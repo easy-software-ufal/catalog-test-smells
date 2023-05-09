@@ -16,7 +16,7 @@ A clear and concise description of what the smell is. Ex: There's always more th
 **Copy a code example**
 A clear and concise code example of the test smells you've considered.
 
-**References**
+****References:****
 Add every reference that you have found this test smell.
 
 **Additional Context**

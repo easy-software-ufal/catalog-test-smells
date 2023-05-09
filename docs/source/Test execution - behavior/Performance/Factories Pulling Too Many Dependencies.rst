@@ -1,11 +1,11 @@
 Factories Pulling Too Many Dependencies
 ^^^^^
-Definition:
+**Definition:**
 
 * Calling one factory may silently create many associated records, which accumulates to make the whole test suite slow (more on that later)
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: ruby
 
@@ -16,14 +16,13 @@ Code Example:
     end
   end
 
-References
+**References:**
 
-.. note ::
+.. admonition:: Quality attributes
 
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
 
- * `Rails Testing Antipatterns: Fixtures and Factories <https://semaphoreci.com/blog/2014/01/14/rails-testing-antipatterns-fixtures-and-factories.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+* `Rails Testing Antipatterns: Fixtures and Factories <https://semaphoreci.com/blog/2014/01/14/rails-testing-antipatterns-fixtures-and-factories.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

@@ -1,11 +1,11 @@
 Testing The Internal Monologue
 ^^^^^
-Definition:
+**Definition:**
 
 * Where the writer of the test has been so focused on the lines of code in their implementation that they haven’t sought ways to observe the behaviour of the system from the outside.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -24,13 +24,13 @@ Code Example:
       verify(service, never()).internalCall();
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
 

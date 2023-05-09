@@ -1,11 +1,11 @@
 Second Guess The Calculation
 ^^^^^
-Definition:
+**Definition:**
 
 * Where rather than using concrete test data, we use something that needs us to calculate the correct answer ahead of assertion
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -21,13 +21,13 @@ Code Example:
         assertEquals(expectedPrice, actualPrice, 0.001);
     }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
 

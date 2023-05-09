@@ -1,11 +1,11 @@
 Coupling Between Test Methods
 ^^^^^
-Definition:
+**Definition:**
 
 * Test methods (and all tests in general) must be perfectly isolated from each other. This means that changing one test must not affect any others.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -33,13 +33,13 @@ Code Example:
     }
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `A few thoughts on unit test scaffolding <https://www.yegor256.com/2015/05/25/unit-test-scaffolding.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `A few thoughts on unit test scaffolding <https://www.yegor256.com/2015/05/25/unit-test-scaffolding.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

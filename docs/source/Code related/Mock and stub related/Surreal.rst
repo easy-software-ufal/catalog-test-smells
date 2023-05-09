@@ -1,11 +1,11 @@
 Surreal
 ^^^^^
-Definition:
+**Definition:**
 
 * A test whose use of test doubles is so confusing, it's hard to tell what the test is even doing at run-time.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: ruby
 
@@ -82,13 +82,13 @@ Code Example:
   end
   FACTORS = Factors.new
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

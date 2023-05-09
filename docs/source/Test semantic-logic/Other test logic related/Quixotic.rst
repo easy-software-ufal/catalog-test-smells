@@ -1,10 +1,10 @@
 Quixotic
 ^^^^^
-Definition:
+**Definition:**
 
 * A test that charts an idealistic path through the subject code, cherry-picking inputs that provide minimum resistance (e.g. in test data setup), which may result in missed test coverage in code that handle negative cases. Notably, this is more likely to occur when those negative cases are also somehow complex, which is precisely when good testing is important!
 
-Code Example:
+**Code Example:**
 
 .. code-block:: ruby
   
@@ -46,13 +46,13 @@ Code Example:
     text.include?("obscenities")
   end
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

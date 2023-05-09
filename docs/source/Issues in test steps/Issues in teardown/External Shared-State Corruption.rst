@@ -1,11 +1,11 @@
 External Shared-State Corruption
 ^^^^^
-Definition:
+**Definition:**
 
 * Integration tests with shared resources and no rollback
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: text
 
@@ -13,13 +13,13 @@ Code Example:
   Tests touch shared resources (either in memory or in external resources,such as databases and filesystems)
   without cleaning up or rolling back any changes they make to those resources.
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Chapter 8. The pillars of good unit tests <https://apprize.best/c/unit/8.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Chapter 8. The pillars of good unit tests <https://apprize.best/c/unit/8.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

@@ -1,11 +1,11 @@
 Inadequate Assertion
 ^^^^^
-Definition:
+**Definition:**
 
 * Every update to the execution state must eventually be verified in the assertions. In principle, assertions should verify the correctness of all updates to the  object/program state, otherwise the strength of the test oracles is considered not enough to guard the program against faults.
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: java
 
@@ -30,13 +30,13 @@ Code Example:
 
             assertTrue(cut.getData1()==4); // Is this assertion adequate enough?
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `On adequacy of assertions in automated test suites: an empirical investigation <https://ieeexplore.ieee.org/abstract/document/6571656>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `On adequacy of assertions in automated test suites: an empirical investigation <https://ieeexplore.ieee.org/abstract/document/6571656>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
 

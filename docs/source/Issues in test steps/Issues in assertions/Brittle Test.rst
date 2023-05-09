@@ -1,11 +1,11 @@
 Brittle Test
 ^^^^^
-Definition:
+**Definition:**
 
 * UI tests containing procedural test code, duplicated steps and magic values
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: csharp
 
@@ -54,14 +54,14 @@ Code Example:
       }
   }
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Maintainable automated ui tests <https://code.tutsplus.com/articles/maintainable-automated-ui-tests--net-35089>`_ :octicon:`file-code;1em`
- * `Smells of Testing (signs your tests are bad) <https://jakescruggs.blogspot.com/2009/04/smells-of-testing-signs-your-tests-are.html>`_
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Maintainable automated ui tests <https://code.tutsplus.com/articles/maintainable-automated-ui-tests--net-35089>`_ :octicon:`file-code;1em`
+* `Smells of Testing (signs your tests are bad) <https://jakescruggs.blogspot.com/2009/04/smells-of-testing-signs-your-tests-are.html>`_
 

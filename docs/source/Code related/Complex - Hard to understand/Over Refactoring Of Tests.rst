@@ -1,11 +1,11 @@
 Over Refactoring Of Tests
 ^^^^^
-Definition:
+**Definition:**
 
 * where you can’t read them because they’ve been DRYed out to death
 
 
-Code Example:
+**Code Example:**
 
 .. code-block:: javascript
 
@@ -19,13 +19,13 @@ Code Example:
   assertThat(calculateAnswercountTheWordsIn("This is a string"))
    .isEqualTo(4);
 
-References
+**References:**
 
-.. note ::
-    Every icon means something:
-    - :octicon:`file-code;1em` - Reference has Code Example
-    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
-    - :octicon:`graph;1em` - Reference has Frequency
+.. admonition:: Quality attributes
 
- * `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `Test Smells - The Coding Craftsman <https://codingcraftsman.wordpress.com/2018/09/27/test-smells/>`_ :octicon:`file-code;1em`
 

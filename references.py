@@ -46,7 +46,7 @@ for root, dirs, files in os.walk("docs\source", topdown=False):
             for line in linhas:
                 i+=1
                 text += line
-                if("References:" in line):
+                if("**References:**:" in line):
                     text+="\n"
                     break
             i+=1
