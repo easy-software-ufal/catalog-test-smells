@@ -13,9 +13,9 @@ Lack Of Cohesion Of Test Methods
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Automated Detection of Test Fixture Strategies and Smells <https://ieeexplore.ieee.org/document/6569744>`_ :octicon:`comment-discussion;1em`
- * `Automatic Test Smell Detection Using Information Retrieval Techniques <https://ieeexplore.ieee.org/abstract/document/8530039>`_ :octicon:`graph;1em`
- * `Just-In-Time Test Smell Detection and Refactoring: The DARTS Project <https://fpalomba.github.io/pdf/Conferencs/C51.pdf>`_
- * `Strategies for avoiding text fixture smells during software evolution <https://ieeexplore.ieee.org/document/6624053>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em`
- * `Test Smell Detection Tools: A Systematic Mapping Study <https://dl.acm.org/doi/10.1145/3463274.3463335>`_
+* `Automated Detection of Test Fixture Strategies and Smells <https://ieeexplore.ieee.org/document/6569744>`_ :octicon:`comment-discussion;1em`
+* `Automatic Test Smell Detection Using Information Retrieval Techniques <https://ieeexplore.ieee.org/abstract/document/8530039>`_ :octicon:`graph;1em`
+* `Just-In-Time Test Smell Detection and Refactoring: The DARTS Project <https://fpalomba.github.io/pdf/Conferencs/C51.pdf>`_
+* `Strategies for avoiding text fixture smells during software evolution <https://ieeexplore.ieee.org/document/6624053>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em`
+* `Test Smell Detection Tools: A Systematic Mapping Study <https://dl.acm.org/doi/10.1145/3463274.3463335>`_
 

@@ -13,5 +13,5 @@ Mock Everything
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_
+* `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_
 

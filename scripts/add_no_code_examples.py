@@ -50,7 +50,7 @@ for name in testsmells.keys():
     template = template.replace("[DEFINITION]", "* " + definition + "\n")
 
     for reference in testsmells[name]["references"]:
-      references += f' * `{reference["title"]} <{reference["link"]}>`_'
+      references += f'* `{reference["title"]} <{reference["link"]}>`_'
 
       if(reference["code_example"]):
         references += " :octicon:`file-code;1em`"
@@ -116,7 +116,7 @@ for name in testsmells.keys():
 
 #         references = ""
 #         for reference in testsmells[name]["references"]:
-#             references += f' * `{reference[0]} <{reference[1]}>`_\n'
+#             references += f'* `{reference[0]} <{reference[1]}>`_\n'
         
 #         template = template.replace("[REFERENCES]", references)
 

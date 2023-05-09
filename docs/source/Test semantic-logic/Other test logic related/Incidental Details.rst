@@ -13,5 +13,5 @@ Incidental Details
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Cucumber anti-patterns (part one) <https://cucumber.io/blog/bdd/cucumber-antipatterns-part-one/>`_
+* `Cucumber anti-patterns (part one) <https://cucumber.io/blog/bdd/cucumber-antipatterns-part-one/>`_
 

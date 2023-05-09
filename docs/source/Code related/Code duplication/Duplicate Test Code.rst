@@ -13,5 +13,5 @@ Duplicate Test Code
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `What We Know About Smells in Software Test Code <https://ieeexplore.ieee.org/document/8501942>`_
+* `What We Know About Smells in Software Test Code <https://ieeexplore.ieee.org/document/8501942>`_
 

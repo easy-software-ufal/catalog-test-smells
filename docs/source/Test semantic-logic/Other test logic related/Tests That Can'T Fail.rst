@@ -13,5 +13,5 @@ Tests That Can'T Fail
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `A testing anti-pattern safari <https://www.youtube.com/watch?v=VBgySRk0VKY>`_
+* `A testing anti-pattern safari <https://www.youtube.com/watch?v=VBgySRk0VKY>`_
 

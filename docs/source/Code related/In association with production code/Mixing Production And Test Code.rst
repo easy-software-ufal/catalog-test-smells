@@ -13,5 +13,5 @@ Mixing Production And Test Code
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_
+* `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_
 

@@ -13,5 +13,5 @@ Assert 1 = 2
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Abap assertion anti-patterns <https://blogs.sap.com/2013/02/14/abap-assertion-anti-patterns/>`_ :octicon:`comment-discussion;1em`
+* `Abap assertion anti-patterns <https://blogs.sap.com/2013/02/14/abap-assertion-anti-patterns/>`_ :octicon:`comment-discussion;1em`
 

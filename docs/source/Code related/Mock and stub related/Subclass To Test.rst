@@ -13,5 +13,5 @@ Subclass To Test
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Subclass To Test Anti Pattern <https://wiki.c2.com/?SubclassToTestAntiPattern>`_ :octicon:`comment-discussion;1em`
+* `Subclass To Test Anti Pattern <https://wiki.c2.com/?SubclassToTestAntiPattern>`_ :octicon:`comment-discussion;1em`
 

@@ -13,5 +13,5 @@ Disabled Test
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `How disabled tests manifest in test maintainability challenges? <https://dl.acm.org/doi/10.1145/3468264.3468609>`_
+* `How disabled tests manifest in test maintainability challenges? <https://dl.acm.org/doi/10.1145/3468264.3468609>`_
 

@@ -13,5 +13,5 @@ Test Cases Are Concerned With More Than One Unit Of Code
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Anti-Patterns In Unit Testing <https://completedeveloperpodcast.com/anti-patterns-in-unit-testing/>`_
+* `Anti-Patterns In Unit Testing <https://completedeveloperpodcast.com/anti-patterns-in-unit-testing/>`_
 

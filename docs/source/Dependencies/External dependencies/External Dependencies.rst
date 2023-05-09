@@ -13,6 +13,6 @@ External Dependencies
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Categorising Test Smells <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.5180&rep=rep1&type=pdf>`_ :octicon:`graph;1em`
- * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_ :octicon:`comment-discussion;1em`
+* `Categorising Test Smells <https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.5180&rep=rep1&type=pdf>`_ :octicon:`graph;1em`
+* `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_ :octicon:`comment-discussion;1em`
 

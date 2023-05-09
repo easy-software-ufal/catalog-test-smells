@@ -13,5 +13,5 @@ Only Easy Tests
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_ :octicon:`comment-discussion;1em`
+* `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_ :octicon:`comment-discussion;1em`
 

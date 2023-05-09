@@ -13,6 +13,6 @@ Treating Test Code As A Second Class Citizen
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Anti-patterns of automated testing <https://medium.com/swlh/anti-patterns-of-automated-software-testing-b396283a4cb6>`_
- * `Software Testing Anti-patterns <http://blog.codepipes.com/testing/software-testing-antipatterns.html>`_ :octicon:`comment-discussion;1em`
+* `Anti-patterns of automated testing <https://medium.com/swlh/anti-patterns-of-automated-software-testing-b396283a4cb6>`_
+* `Software Testing Anti-patterns <http://blog.codepipes.com/testing/software-testing-antipatterns.html>`_ :octicon:`comment-discussion;1em`
 

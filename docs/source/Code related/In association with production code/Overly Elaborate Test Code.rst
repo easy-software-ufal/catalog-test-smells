@@ -13,5 +13,5 @@ Overly Elaborate Test Code
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Hacker News on: Software Testing Anti-patterns <https://news.ycombinator.com/item?id=16895784>`_
+* `Hacker News on: Software Testing Anti-patterns <https://news.ycombinator.com/item?id=16895784>`_
 

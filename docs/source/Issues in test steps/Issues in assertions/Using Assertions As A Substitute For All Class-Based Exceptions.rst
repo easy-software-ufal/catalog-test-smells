@@ -13,5 +13,5 @@ Using Assertions As A Substitute For All Class-Based Exceptions
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
 
- * `Abap assertion anti-patterns <https://blogs.sap.com/2013/02/14/abap-assertion-anti-patterns/>`_
+* `Abap assertion anti-patterns <https://blogs.sap.com/2013/02/14/abap-assertion-anti-patterns/>`_
 
