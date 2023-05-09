@@ -21,6 +21,12 @@ Code Example:
   }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Unit testing Anti-patterns catalogue <https://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue>`_ :octicon:`file-code;1em`
  * `Anti-Patterns - Digital Tapestry <https://digitaltapestry.net/testify/manual/AntiPatterns.html>`_

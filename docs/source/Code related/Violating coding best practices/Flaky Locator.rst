@@ -12,6 +12,12 @@ Code Example:
     /html/body/div/div/div/div/div[2]/label/span[2]
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Writing good gherkin <https://techbeacon.com/app-dev-testing/7-ways-tidy-your-test-code>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

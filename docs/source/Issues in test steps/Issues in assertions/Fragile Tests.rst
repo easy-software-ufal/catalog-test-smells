@@ -26,6 +26,12 @@ Code Example:
   end
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_ :octicon:`file-code;1em`
 

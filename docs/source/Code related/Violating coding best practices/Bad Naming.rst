@@ -18,6 +18,12 @@ Code Example:
   }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Pattern-based Smell Detection in TTCN-3 Test Suites <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.6997&rep=rep1&type=pdf>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
  * `Test Naming Failures. An Exploratory Study of Bad Naming Practices in Test Code <https://scholarworks.rit.edu/theses/11053/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`

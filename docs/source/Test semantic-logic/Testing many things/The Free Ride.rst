@@ -30,6 +30,12 @@ Code Example:
     }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `TDD Anti-patterns: The Free Ride / Piggyback <https://matheus.ro/2018/04/30/tdd-antipatterns-the-free-ride-piggyback/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
  * `Tdd antipatterns: The free ride <https://semaphoreci.com/blog/2014/06/24/tdd-antipatterns-the-free-ride.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`

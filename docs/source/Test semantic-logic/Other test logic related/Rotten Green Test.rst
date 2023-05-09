@@ -23,6 +23,12 @@ Code Example:
   }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `RTj: a Java framework for detecting and refactoring rotten green test cases <https://dl.acm.org/doi/10.1145/3377812.3382151>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
  * `JTDog: a Gradle Plugin for Dynamic Test Smell Detection <https://ieeexplore.ieee.org/document/9678529/>`_ :octicon:`comment-discussion;1em`

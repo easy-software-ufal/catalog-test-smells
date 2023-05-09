@@ -34,6 +34,12 @@ Code Example:
   }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `A few thoughts on unit test scaffolding <https://www.yegor256.com/2015/05/25/unit-test-scaffolding.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

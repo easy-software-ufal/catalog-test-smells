@@ -16,6 +16,12 @@ Code Example:
   }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Anti-patterns in test automation <https://www.codementor.io/@mgawinecki/anti-patterns-in-test-automation-101c6vm5jz>`_ :octicon:`file-code;1em`
  * `On the Maintenance of System User Interactive Tests <https://orbilu.uni.lu/handle/10993/48254>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em`

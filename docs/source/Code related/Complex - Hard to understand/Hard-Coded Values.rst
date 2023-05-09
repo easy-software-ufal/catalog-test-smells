@@ -18,6 +18,12 @@ Code Example:
     }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Test Smell: Hard Coded Values <https://www.integer-net.com/test-smell-hard-coded-values/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
  * `Hunting for smells in natural language tests <https://ieeexplore.ieee.org/abstract/document/6606682>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em`

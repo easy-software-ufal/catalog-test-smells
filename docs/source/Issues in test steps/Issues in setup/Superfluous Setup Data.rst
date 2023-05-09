@@ -23,6 +23,12 @@ Code Example:
   }
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Testing anti-patterns <https://medium.com/jameskbride/testing-anti-patterns-b5ffc1612b8b>`_ :octicon:`file-code;1em`
 

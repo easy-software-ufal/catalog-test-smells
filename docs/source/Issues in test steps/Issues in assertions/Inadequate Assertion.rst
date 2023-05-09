@@ -31,6 +31,12 @@ Code Example:
             assertTrue(cut.getData1()==4); // Is this assertion adequate enough?
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `On adequacy of assertions in automated test suites: an empirical investigation <https://ieeexplore.ieee.org/abstract/document/6571656>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
 

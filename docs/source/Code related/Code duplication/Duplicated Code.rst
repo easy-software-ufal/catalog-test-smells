@@ -14,6 +14,12 @@ Code Example:
     assertEqual(23, person.getAge())
 
 References:
+.. note ::
+
+    Every icon means something:
+    - :octicon:`file-code;1em` - Reference has Code Example
+    - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
+    - :octicon:`graph;1em` - Reference has Frequency
 
  * `Is duplicated code more tolerable in unit tests? <https://stackoverflow.com/questions/129693/is-duplicated-code-more-tolerable-in-unit-tests>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
  * `A Refactoring Tool for TTCN-3 <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.3594&rep=rep1&type=pdf>`_ :octicon:`comment-discussion;1em`
