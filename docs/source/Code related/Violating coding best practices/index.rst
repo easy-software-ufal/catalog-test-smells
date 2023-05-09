@@ -27,6 +27,7 @@ Violating coding best practices
     Missed Skip Rotten Green Test
     Missing Variable Definition
     Missing Verdict
+    Messy Test
     Name-Clashing Import
     Nondeterministic Test
     Over-Specific Runs On

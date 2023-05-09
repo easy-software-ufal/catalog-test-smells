@@ -10,7 +10,6 @@ Testing many things
 
     Assertion Roulette
     Eager Test
-    Messy Test
     Missing Assertion Message
     Multiple Assertions
     Split Logic
