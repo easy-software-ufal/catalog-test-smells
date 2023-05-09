@@ -1,0 +1,262 @@
+Category,Subcategory,Name,Sources,AKA-ALL,Code Example,Causes / Effects,Frequency
+Test execution / behavior,Other test execution / behavior,Abnormal UTF-Use,2,,FALSE,FALSE,TRUE
+Code related,Complex / Hard to understand,Absence of why,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Accidental test framework,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Ambiguous Tests,1,,FALSE,TRUE,TRUE
+Test semantic/logic,Other test logic related,Anal Probe,3,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Anonymous test case,1,,FALSE,FALSE,FALSE
+Code related,Code duplication,Army of Clones,2,,FALSE,TRUE,TRUE
+Test semantic/logic,Other test logic related,ASSERT 1 = 2,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Testing many things,Assert the world,1,,FALSE,FALSE,FALSE
+Code related,Code duplication,Assertion Chorus,1,Missing custom assertion method,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Assertion-free,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Asynchronous Code,1,,FALSE,TRUE,FALSE
+Code related,Violating coding best practices,Badly Structured Test Suite,1,,FALSE,TRUE,TRUE
+Code related,In association with production code,Behavior Sensitivity,2,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in assertions,Blinkered assertions,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Boilerplate hell,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Brittle Assertion,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Celery data,1,,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,Chain Gang,3,Order Dependent Tests,FALSE,FALSE,FALSE
+Code related,In association with production code,Changing implementation to make tests possible,1,,FALSE,TRUE,FALSE
+Issues in test steps,Issues in assertions,Circumstantial evidence,1,,FALSE,FALSE,FALSE
+Code related,In association with production code,Code Run Only by Tests,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Commented Code in the Test,2,Under-the-carpet Failing Assertion,FALSE,FALSE,TRUE
+Code related,Complex / Hard to understand,Comments,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Comments Only Test,2,,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Conditional Logic,1,,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Conditional Logic Test,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Conditional Tests,1,,FALSE,TRUE,TRUE
+Test semantic/logic,Other test logic related,Conditionals in tests,1,,FALSE,FALSE,FALSE
+Dependencies,External dependencies,Context Sensitivity,2,,FALSE,TRUE,TRUE
+Design related,Not using test patterns,Contortionist testing,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Control Logic,2,,FALSE,FALSE,TRUE
+Dependencies,External dependencies,Counting on spies,1,,FALSE,FALSE,FALSE
+Code related,Code duplication,Cut-and-Paste Code Reuse,1,,FALSE,TRUE,FALSE
+Dependencies,External dependencies,Data Sensitivity,2,,FALSE,TRUE,TRUE
+Code related,Code duplication,Data-Ja Vu,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Dead Field,3,,FALSE,TRUE,TRUE
+Dependencies,Dependencies among tests,Dependent test,3,,FALSE,TRUE,FALSE
+Code related,Violating coding best practices,Disabled Test,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Doppelgänger,2,,FALSE,FALSE,FALSE
+Code related,Code duplication,Duplicate code,1,,FALSE,TRUE,FALSE
+Code related,Code duplication,Duplicate test code,1,,FALSE,FALSE,FALSE
+Code related,Code duplication,Duplicated Actions,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Early Returning Test,2,,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Easy Tests,1,The Dodger,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Empty Method Category,2,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in setup,Empty Shared-Fixture,2,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Empty Test-Method Category,1,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in assertions,Equality Sledgehammer Assertion,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Erratic test,2,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in exception handling,Exception Catch/Throw,1,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in exception handling,Exception Catching Throwing,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,Excessive Inline Setup,2,,FALSE,FALSE,TRUE
+Code related,Mock and stub related,Excessive Mocking,2,,FALSE,TRUE,FALSE
+Dependencies,External dependencies,External Data,1,Mystery Guest,FALSE,FALSE,FALSE
+Dependencies,External dependencies,External Dependencies,2,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in setup,Factories that contain unnecessary data,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Testing many units,Feature Envy,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Flaky test,2,,FALSE,TRUE,FALSE
+Code related,In association with production code,For Testers Only,13,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in setup,Fragile Fixture,2,,FALSE,TRUE,TRUE
+Test execution / behavior,Other test execution / behavior,Frequent Debugging,4,Manual Debugging,FALSE,TRUE,TRUE
+Issues in test steps,Issues in teardown,Generous Leftovers,4,"Wet Floor, Sloppy worker",FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Get really clever and use random numbers in your tests,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Happenstance testing,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Hard-to-Test Code,5,,FALSE,TRUE,FALSE
+Code related,Complex / Hard to understand,hard-to-write test,1,,FALSE,TRUE,FALSE
+Code related,Complex / Hard to understand,Hardcoded environment,2,,FALSE,TRUE,TRUE
+Code related,Complex / Hard to understand,Hardcoded environment configuration,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Hardcoded test data,1,Magic Strings,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Having flaky or slow tests,1,,FALSE,TRUE,FALSE
+Code related,Complex / Hard to understand,Hidden Complexity,1,,FALSE,TRUE,FALSE
+Dependencies,External dependencies,Hidden Dependency,6,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in setup,Hidden Test Data,2,,FALSE,TRUE,TRUE
+Code related,In association with production code,Hooks everywhere,1,Testing Causes an Abstraction Virus,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,I wrote it like this,1,,FALSE,FALSE,FALSE
+Design related,Not using test patterns,I'll believe it when I see some flashing GUIs,2,,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,Identity Dodgems,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in teardown,Improper clean up after tests have been run,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Improper Test Method Location,1,,FALSE,TRUE,FALSE
+Issues in test steps,Issues in assertions,Inappropriate Assertions,1,Wrong Assert,FALSE,FALSE,TRUE
+Issues in test steps,Issues in setup,Inappropriately Shared Fixture,2,Excessive Setup,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Incidental details,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Inconsistent Hierarchy,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Inconsistent Wording,1,,FALSE,TRUE,TRUE
+Code related,In association with production code,Indecent exposure,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Other test logic related,Indented Test,2,,FALSE,FALSE,FALSE
+Test execution / behavior,Performance,Inefficient waits,1,,FALSE,TRUE,FALSE
+Code related,Violating coding best practices,"Integration test, masquerading as unit test",1,,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,Interacting Tests,3,,FALSE,TRUE,TRUE
+Test execution / behavior,Other test execution / behavior,Interactive Test,1,Manual Intervention,FALSE,TRUE,FALSE
+Code related,In association with production code,Interface Sensitivity,2,,FALSE,TRUE,TRUE
+Code related,Violating coding best practices,Intermittent Test Failures,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Other test logic related,Invalid test data,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in exception handling,Issues in Exception Handling,1,The Secret Catcher,FALSE,TRUE,FALSE
+Issues in test steps,Issues in teardown,It was like that when I got here,1,,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,Lack of Cohesion of Test Cases,1,,FALSE,TRUE,TRUE
+Dependencies,Dependencies among tests,Lack of Cohesion of Test Methods,5,,FALSE,TRUE,TRUE
+Code related,Violating coding best practices,Lack of Encapsulation,3,,FALSE,TRUE,TRUE
+Code related,Violating coding best practices,Lack of Macro Events,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,Large Fixture,1,,FALSE,FALSE,TRUE
+Code related,Complex / Hard to understand,Large Macro Component,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Large Module,1,Large Class,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Large Test File,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Likely ineffective Object-Comparison,2,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in assertions,Line hitter,2,Assertionless Test,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,Lonely Test,2,,FALSE,TRUE,TRUE
+Code related,Complex / Hard to understand,Long class,1,,FALSE,TRUE,FALSE
+Code related,Complex / Hard to understand,Long Function,1,Long Method,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Long Macro Event,1,Long Keyword,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Long method,1,Long Function,FALSE,TRUE,FALSE
+Test execution / behavior,Performance,Long Running Tests,1,Slow Test,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Long Test Steps,3,,FALSE,TRUE,TRUE
+Code related,Complex / Hard to understand,Long/complex/verbose/obscure test,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Lost Test,1,,FALSE,TRUE,FALSE
+Code related,Mock and stub related,Making a mockery of design,1,,FALSE,FALSE,FALSE
+Test execution / behavior,Other test execution / behavior,Manual Assertions,1,,FALSE,FALSE,FALSE
+Test execution / behavior,Other test execution / behavior,Manual Event Injection,2,,FALSE,TRUE,TRUE
+Test execution / behavior,Other test execution / behavior,Manual Fixture Setup,2,,FALSE,TRUE,TRUE
+Test execution / behavior,Other test execution / behavior,Manual Intervention,3,"Interactive Test, Manual Testing, Manual Test",FALSE,TRUE,TRUE
+Test execution / behavior,Other test execution / behavior,Manual Result Verification,2,,FALSE,TRUE,TRUE
+Test semantic/logic,Testing many things,Many Assertions,1,Eager Test,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Martini Assertion,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,Max Instance Variables,2,,FALSE,FALSE,TRUE
+Dependencies,External dependencies,Middle Man,3,,FALSE,TRUE,TRUE
+Code related,Violating coding best practices,Mistaken identity,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Mixed Selectors,3,,FALSE,TRUE,TRUE
+Code related,In association with production code,Mixing Production and Test Code,1,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Mock everything,1,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Mock Happy,3,The Mockery,FALSE,FALSE,TRUE
+Code related,Mock and stub related,Mock madness,1,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Mocking a Mocking Framework,1,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Mocking what you don’t own,2,,FALSE,FALSE,FALSE
+Code related,In association with production code,Multiple points of failure,1,,FALSE,TRUE,FALSE
+Code related,Code duplication,Multiple tests testing the same or similar things,1,,FALSE,FALSE,FALSE
+Design related,Not using test patterns,Narcissistic,2,,FALSE,TRUE,TRUE
+Test semantic/logic,Other test logic related,Neverfail Test,1,,FALSE,TRUE,FALSE
+Design related,Not using test patterns,No clear structure within the test,1,,FALSE,TRUE,FALSE
+Design related,Not using test patterns,No structure when creating test cases,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,No traces left,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,Noisy Logging,2,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in teardown,Not Idempotent,2,"Interacting Test With High Dependency, ",FALSE,FALSE,TRUE
+Issues in test steps,Issues in setup,Obscure In-Line Setup,4,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in assertions,On the Fly,2,,FALSE,TRUE,TRUE
+Test semantic/logic,Other test logic related,Only Easy Tests,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Other test logic related,Only Happy Path Tests,1,,FALSE,TRUE,FALSE
+Code related,Complex / Hard to understand,Optimizing DRY,1,,FALSE,TRUE,FALSE
+Issues in test steps,Issues in assertions,Over-Checking,3,,FALSE,TRUE,TRUE
+Code related,Violating coding best practices,Over-eager Helper,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Overly Complex Tests,1,,FALSE,TRUE,FALSE
+Code related,Complex / Hard to understand,Overly Dry Tests,2,,FALSE,FALSE,TRUE
+Code related,In association with production code,Overly elaborate test code,1,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Overmocking,1,,FALSE,FALSE,FALSE
+Code related,In association with production code,Overspecified Software,2,Overcoupled Test,FALSE,TRUE,TRUE
+Code related,Complex / Hard to understand,Overuse of abstractions,1,it’s too DRY,FALSE,FALSE,FALSE
+Test semantic/logic,Testing many things,Piggybacking on existing tests,1,,FALSE,FALSE,FALSE
+Test execution / behavior,Other test execution / behavior,Print Statement,2,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Proper Organization,2,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in setup,Refused Bequest,2,,FALSE,FALSE,TRUE
+Code related,Code duplication,Reinventing the Wheel,1,,FALSE,TRUE,FALSE
+Test execution / behavior,Other test execution / behavior,Requires Supervision,1,,FALSE,FALSE,FALSE
+Dependencies,External dependencies,Resource Leakage,2,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in assertions,Returning Assertion,2,,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Rewriting private methods as public,1,,FALSE,FALSE,FALSE
+Code related,Code duplication,Second Class Citizens,3,Test Code Duplication,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Sensitive Locators,2,,FALSE,TRUE,TRUE
+Issues in test steps,Issues in setup,Share the world,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Shotgun Surgery,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Skip-Epidemic,1,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in teardown,Sloppy Worker,1,Generous Leftovers,FALSE,FALSE,TRUE
+Test execution / behavior,Performance,Slow Component Usage,1,,FALSE,TRUE,FALSE
+Test execution / behavior,Performance,Slow Running Tests,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Other test logic related,Sneaky Checking,3,,FALSE,TRUE,TRUE
+Design related,Not using test patterns,So the Automation Tool Wrote This Crap,1,,FALSE,FALSE,FALSE
+Dependencies,External dependencies,Stinky Synchronization,2,,FALSE,TRUE,TRUE
+Dependencies,External dependencies,Stinky synchronization syndrome,1,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Subclass To Test,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Other test logic related,Success Against All Odds,3,The Liar,FALSE,FALSE,TRUE
+Issues in test steps,Issues in setup,Taking environment state for granted,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in teardown,Teardown Only Test,2,,FALSE,FALSE,TRUE
+Test semantic/logic,Testing many things,Test cases are concerned with more than one unit of code,1,,FALSE,FALSE,FALSE
+Code related,Code duplication,Test Clones,2,,FALSE,TRUE,TRUE
+Code related,In association with production code,Test Dependency in Production,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Testing many units,Test Envy,2,,FALSE,FALSE,TRUE
+Code related,In association with production code,Test Logic in Production Code,3,,FALSE,TRUE,FALSE
+Issues in test steps,Issues in setup,Test Maverick,4,,FALSE,TRUE,TRUE
+Dependencies,Dependencies among tests,Test Pollution,1,Litter Bugs,FALSE,FALSE,FALSE
+Code related,Code duplication,Test Redundancy,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Test-Class Name,2,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Test-Method Category Name,2,,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,Test-per-Method,1,,FALSE,FALSE,FALSE
+Design related,Not using test patterns,Testing business rules through UI,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Testing for a specific bug,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Testing internal implementation,1,,FALSE,TRUE,FALSE
+Test semantic/logic,Other test logic related,Testing the Authentication Framework,1,,FALSE,TRUE,FALSE
+Code related,Mock and stub related,Testing the Framework,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Tests Are Difficult to Write,1,,FALSE,TRUE,FALSE
+Code related,In association with production code,Tests cluttered with business logic,1,,FALSE,FALSE,FALSE
+Dependencies,External dependencies,Tests depend on something outside of the test suite,1,,FALSE,FALSE,FALSE
+Code related,In association with production code,Tests require too much intimate knowledge of the code to run,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Tests that Can't Fail,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Testy testy test test,1,,FALSE,FALSE,FALSE
+Test execution / behavior,Performance,The Bandwidth Demander,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,The Butterfly,1,Sensitive Equality,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,The Conjoined Twins,2,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,The Cuckoo,4,Excessive Setup,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,The Dodger,3,Easy Tests,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,The Enumerator,4,Test With No Name,FALSE,FALSE,TRUE
+Dependencies,Dependencies among tests,The Environmental Vandal,1,The Local Hero,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,The Flickering Test,2,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,The Forty Foot Pole Test,3,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in exception handling,The Greedy Catcher,4,,FALSE,FALSE,TRUE
+Dependencies,Dependencies among tests,The Inhuman Centipede,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,The Inspector,5,,FALSE,FALSE,TRUE
+Dependencies,Dependencies among tests,The Leaky Cauldron,1,,FALSE,FALSE,FALSE
+Dependencies,External dependencies,The Local Hero,7,"Wait and See, The Environmental Vandal",FALSE,FALSE,TRUE
+Test execution / behavior,Other test execution / behavior,The Loudmouth,4,Transcripting Test,FALSE,FALSE,TRUE
+Code related,Mock and stub related,The Mockery,4,"Mock Happy, Mock-Overkill",FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,The Mother Hen,2,Excessive Setup,FALSE,FALSE,TRUE
+Issues in test steps,Issues in assertions,The Nitpicker,3,,FALSE,FALSE,FALSE
+Test semantic/logic,Testing many things,The One,3,Eager Test,FALSE,FALSE,TRUE
+Dependencies,External dependencies,The Operating System Evangelist,3,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in teardown,The painful clean-up,1,,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,The Parasite,1,,FALSE,FALSE,FALSE
+Dependencies,Dependencies among tests,The Peeping Tom,3,The Uninvited Guests,FALSE,FALSE,TRUE
+Test semantic/logic,Other test logic related,The Sequencer,4,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,The Sleeper,3,Mount Vesuvius,FALSE,FALSE,TRUE
+Issues in test steps,Issues in teardown,The Soloist,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Testing many units,The Stranger,3,The Cuckoo,FALSE,FALSE,TRUE
+Code related,In association with production code,The telltale heart,1,,FALSE,FALSE,FALSE
+Test execution / behavior,Performance,The Temporal Tip Toe,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Testing many things,The Test It All,1,Eager Test,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,The Test With No Name,3,The Enumerator,FALSE,FALSE,TRUE
+Design related,Not using test patterns,The Turing Test,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,There is too much setup to run the test cases,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Time Bomb Data,1,,FALSE,FALSE,FALSE
+Test execution / behavior,Performance,Too Many Tests,1,,FALSE,TRUE,FALSE
+Code related,Violating coding best practices,Treating test code as a second class citizen,2,,FALSE,TRUE,FALSE
+Code related,Violating coding best practices,Unclassified Method Category,2,,FALSE,FALSE,TRUE
+Issues in test steps,Issues in assertions,Under-the-carpet Assertion,1,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Unsuitable Naming,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Untestable Test Code,1,,FALSE,TRUE,FALSE
+Code related,Violating coding best practices,Unused Inputs,1,,FALSE,FALSE,FALSE
+Code related,Violating coding best practices,Unused Shared-Fixture Variables,2,,FALSE,FALSE,TRUE
+Dependencies,Dependencies among tests,Unusual Test Order,2,,FALSE,FALSE,TRUE
+Code related,Violating coding best practices,Unworldly test data,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Using Assertions as a Substitute for all Class-Based Exceptions,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in assertions,Using Assertions as a Substitute for all Defensive Programming Techniques,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Using the word “and” when describing a test,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,Vague Header Setup,3,,FALSE,TRUE,TRUE
+Code related,Violating coding best practices,Verbless and Noun-full,1,,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,Verbose Test,7,Obscure Test,FALSE,TRUE,TRUE
+Code related,Code duplication,Very similar test cases,1,,FALSE,TRUE,FALSE
+Test execution / behavior,Performance,Wait and See,2,The Local Hero,FALSE,FALSE,FALSE
+Dependencies,External dependencies,Web-Browsing Test,1,,FALSE,FALSE,TRUE
+Code related,In association with production code,"Well, My Setup Works",1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in teardown,Wet Floor,3,Generous leftovers,FALSE,FALSE,FALSE
+Code related,Complex / Hard to understand,What are we Testing?,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,Wheel of fortune,1,,FALSE,FALSE,FALSE
+Issues in test steps,Issues in setup,Where Does This One Go?,1,,FALSE,FALSE,FALSE
+Test semantic/logic,Other test logic related,You Do Weird Things to Get at the Code Under Test,1,,FALSE,TRUE,FALSE
