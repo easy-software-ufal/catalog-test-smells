@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "Test Smell Catalog"
-authors = [{name = "EASY - Universidade Federal de Alagoas (UFAL)", email = "easy@ic.ufal.br"}]
+authors = [{name = "EASY LAB - Universidade Federal de Alagoas (UFAL)", email = "easy@ic.ufal.br"}]
 dynamic = ["version", "description"]
