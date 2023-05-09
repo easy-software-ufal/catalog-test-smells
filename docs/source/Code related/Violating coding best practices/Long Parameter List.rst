@@ -16,7 +16,7 @@ Code Example:
 
 References:
 
- * `Pattern-based Smell Detection in TTCN-3 Test Suites <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.6997&rep=rep1&type=pdf>`_
+ * `Pattern-based Smell Detection in TTCN-3 Test Suites <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.6997&rep=rep1&type=pdf>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
  * `A Refactoring Tool for TTCN-3 <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.3594&rep=rep1&type=pdf>`_
  * `An approach to quality engineering of TTCN-3 test specifications <https://link.springer.com/article/10.1007/s10009-008-0075-0>`_
  * `Bad smells and refactoring methods for GUI test script <https://ieeexplore.ieee.org/abstract/document/6299294>`_

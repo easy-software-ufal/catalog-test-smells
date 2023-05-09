@@ -15,5 +15,5 @@ Code Example:
     
 References:
 
- * `Tips to avoid brittle ui tests <https://code.tutsplus.com/tutorials/tips-to-avoid-brittle-ui-tests--net-35188>`_
+ * `Tips to avoid brittle ui tests <https://code.tutsplus.com/tutorials/tips-to-avoid-brittle-ui-tests--net-35188>`_ :octicon:`file-code;1em`
 

@@ -5,17 +5,30 @@ testsmells = {}
 
 i = 0
 
-with open('MYCS.csv', 'r', encoding="utf8") as csvfile:
+with open('mycsv.csv', 'r', encoding="utf8") as csvfile:
     file = csv.reader(csvfile)
     for row in file:
         i+=1
         name = row[7].title()
-        print(name)
+        #print(row[10] == "TRUE", row[11] == "TRUE", row[12] == "TRUE")
+
         if(name not in testsmells):
             testsmells[name] = {}
-            testsmells[name]["references"] = [(row[2], row[3])]
+            testsmells[name]["references"] = [{
+                "url": row[2],
+                "title": row[3],
+                "example": row[10] == "TRUE",
+                "ce": row[11] == "TRUE",
+                "freq": row[12] == "TRUE"
+            }]
         else:
-            testsmells[name]["references"].append((row[2], row[3]))
+            testsmells[name]["references"].append({
+                "url": row[2],
+                "title": row[3],
+                "example": row[10] == "TRUE",
+                "ce": row[11] == "TRUE",
+                "freq": row[12] == "TRUE"
+            })
 
 for root, dirs, files in os.walk("docs\source", topdown=False):
     for name in files:
@@ -28,14 +41,29 @@ for root, dirs, files in os.walk("docs\source", topdown=False):
         with open(".\\"+path_file, 'r+', encoding="utf-8") as rstfile:
             title = rstfile.readline()[:-1].strip().title()
             text += title + '\n'
-            for line in rstfile.readlines():
+            linhas = rstfile.readlines()
+            i = 0
+            for line in linhas:
+                i+=1
                 text += line
                 if("References:" in line):
                     text+="\n"
                     break
-            for reference in testsmells[title]["references"]:
-                text += f' * `{reference[1]} <{reference[0]}>`_\n'
-            
+            i+=1
+            rstfile.seek(0)
+            for lineReference in linhas[i:]:
+                for reference in testsmells[title]["references"]:
+                    if(reference["url"] in lineReference):
+                        text += lineReference[:-1]
+
+                        if(reference["example"]):
+                            text += " :octicon:`file-code;1em`"
+                        if(reference["ce"]):
+                            text += " :octicon:`comment-discussion;1em`"
+                        if(reference["freq"]):
+                            text += " :octicon:`graph;1em`"
+                        text += "\n"
+
             text+='\n'
             rstfile.seek(0, 0)
 

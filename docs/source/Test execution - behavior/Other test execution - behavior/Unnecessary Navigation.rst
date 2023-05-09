@@ -53,5 +53,5 @@ Code Example:
 
 References:
 
- * `How test automation with selenium can fail <https://mattarcherblog.wordpress.com/2010/11/29/how-test-automation-with-selenium-or-watir-can-fail/>`_
+ * `How test automation with selenium can fail <https://mattarcherblog.wordpress.com/2010/11/29/how-test-automation-with-selenium-or-watir-can-fail/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

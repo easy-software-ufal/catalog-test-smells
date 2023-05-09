@@ -42,5 +42,5 @@ Code Example:
 
 References:
 
- * `Code pollution <https://enterprisecraftsmanship.com/posts/code-pollution/>`_
+ * `Code pollution <https://enterprisecraftsmanship.com/posts/code-pollution/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

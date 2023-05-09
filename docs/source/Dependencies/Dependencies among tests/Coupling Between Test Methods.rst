@@ -35,5 +35,5 @@ Code Example:
 
 References:
 
- * `A few thoughts on unit test scaffolding <https://www.yegor256.com/2015/05/25/unit-test-scaffolding.html>`_
+ * `A few thoughts on unit test scaffolding <https://www.yegor256.com/2015/05/25/unit-test-scaffolding.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

@@ -32,5 +32,5 @@ Code Example:
 
 References:
 
- * `On adequacy of assertions in automated test suites: an empirical investigation <https://ieeexplore.ieee.org/abstract/document/6571656>`_
+ * `On adequacy of assertions in automated test suites: an empirical investigation <https://ieeexplore.ieee.org/abstract/document/6571656>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
 

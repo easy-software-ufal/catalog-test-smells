@@ -13,5 +13,5 @@ Code Example:
 
 References:
 
- * `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_
+ * `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_ :octicon:`file-code;1em`
 

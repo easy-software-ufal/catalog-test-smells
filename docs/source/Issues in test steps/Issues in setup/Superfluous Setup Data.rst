@@ -24,5 +24,5 @@ Code Example:
 
 References:
 
- * `Testing anti-patterns <https://medium.com/jameskbride/testing-anti-patterns-b5ffc1612b8b>`_
+ * `Testing anti-patterns <https://medium.com/jameskbride/testing-anti-patterns-b5ffc1612b8b>`_ :octicon:`file-code;1em`
 

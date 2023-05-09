@@ -59,5 +59,5 @@ Code Example:
 
 References:
 
- * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_
+ * `A workbook repository of example test smells and what to do about them <https://github.com/testdouble/test-smells>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

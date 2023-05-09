@@ -19,6 +19,6 @@ Code Example:
 
 References:
 
- * `Test Smell: Hard Coded Values <https://www.integer-net.com/test-smell-hard-coded-values/>`_
- * `Hunting for smells in natural language tests <https://ieeexplore.ieee.org/abstract/document/6606682>`_
+ * `Test Smell: Hard Coded Values <https://www.integer-net.com/test-smell-hard-coded-values/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
+ * `Hunting for smells in natural language tests <https://ieeexplore.ieee.org/abstract/document/6606682>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em`
 

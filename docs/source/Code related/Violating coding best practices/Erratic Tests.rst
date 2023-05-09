@@ -23,5 +23,5 @@ Code Example:
 
 References:
 
- * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_
+ * `Rails Testing Antipatterns <https://thoughtbot.com/upcase/videos/testing-antipatterns>`_ :octicon:`file-code;1em`
 

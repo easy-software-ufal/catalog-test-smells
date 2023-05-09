@@ -13,5 +13,5 @@ Code Example:
 
 References:
 
- * `Writing good gherkin <https://techbeacon.com/app-dev-testing/7-ways-tidy-your-test-code>`_
+ * `Writing good gherkin <https://techbeacon.com/app-dev-testing/7-ways-tidy-your-test-code>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

@@ -14,5 +14,5 @@ Code Example:
 
 References:
 
- * `Anti-patterns in test automation <https://www.codementor.io/@mgawinecki/anti-patterns-in-test-automation-101c6vm5jz>`_
+ * `Anti-patterns in test automation <https://www.codementor.io/@mgawinecki/anti-patterns-in-test-automation-101c6vm5jz>`_ :octicon:`file-code;1em`
 

@@ -16,5 +16,5 @@ Code Example:
 
 References:
 
- * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_
+ * `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 

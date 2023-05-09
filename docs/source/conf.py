@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx_design'
 ]
 
 intersphinx_mapping = {
@@ -42,6 +43,11 @@ html_theme_options = {
     'logo_only': False,
     'display_version': True,
 }
+
+html_css_files = [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+]
+
 rst_prolog = """
 
 .. |code_example| image:: https://github.com/easy-software-ufal/catalog-test-smells/blob/main/docs/source/_static/logo_example.png?raw=true

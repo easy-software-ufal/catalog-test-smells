@@ -49,5 +49,5 @@ Code Example:
 
 References:
 
- * `A testing anti-pattern safari <https://www.youtube.com/watch?v=VBgySRk0VKY>`_
+ * `A testing anti-pattern safari <https://www.youtube.com/watch?v=VBgySRk0VKY>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 
