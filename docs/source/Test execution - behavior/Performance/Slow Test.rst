@@ -5,7 +5,7 @@ Slow Test
 * Slow tests are kind of tests which take long enough to run
 
 
-Also Known As:
+**Also Known As:**
 
 * Long Running Test, The Slow Poke
 

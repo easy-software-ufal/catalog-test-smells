@@ -4,7 +4,7 @@ Wasted Variable Definition
 
 * A variable is defined and defined again before it is read.
 
-Also Known As:
+**Also Known As:**
 
 * Dd Data Flow Anomaly
 

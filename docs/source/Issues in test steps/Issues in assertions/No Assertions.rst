@@ -5,7 +5,7 @@ No Assertions
 * Tests that have no assertions and require the manual verification of log outputs
 
 
-Also Known As:
+**Also Known As:**
 
 * Lying Test, Assertionless Test, The Line Hitter
 

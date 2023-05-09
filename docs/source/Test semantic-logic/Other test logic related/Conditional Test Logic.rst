@@ -5,7 +5,7 @@ Conditional Test Logic
 * Test methods need to be simple and execute all statements in the production method. Conditions within the test method will alter the behavior of the test and its expected output, and would lead to situations where the test fails to detect defects in the production method since test statements were not executed as a condition was not met. Furthermore, conditional code within a test method negatively impacts the ease of comprehension by developers.
 
 
-Also Known As:
+**Also Known As:**
 
 * Indented Test Code
 

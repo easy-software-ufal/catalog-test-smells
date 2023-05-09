@@ -4,7 +4,7 @@ Everything Is A Property
 
 * Where a test class keeps what should be temporary variables in instance variables
 
-Also Known As:
+**Also Known As:**
 
 * Temporary Test Property
 

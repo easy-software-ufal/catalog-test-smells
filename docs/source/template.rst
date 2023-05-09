@@ -4,7 +4,7 @@
 
 * [DEFINITION]
 
-Also Known As:
+**Also Known As:**
 
 * [AKA]
 

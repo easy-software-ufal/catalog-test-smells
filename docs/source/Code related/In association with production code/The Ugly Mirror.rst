@@ -5,7 +5,7 @@ The Ugly Mirror
 * When you occasionally find yourself staring at a spec that looks exactly like the code under test, there’s surprisingly little win left to enjoy.
 
 
-Also Known As:
+**Also Known As:**
 
 * Tautological tests
 

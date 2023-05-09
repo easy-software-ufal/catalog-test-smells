@@ -4,7 +4,7 @@ The Free Ride
 
 * When an extra assertion is added in an existing test to cover a new scenario case
 
-Also Known As:
+**Also Known As:**
 
 * Piggyback
 
