@@ -14,8 +14,8 @@ Code Example:
   Suite(Suite1,Suite2).run()--> Test C in Suite2 fails
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

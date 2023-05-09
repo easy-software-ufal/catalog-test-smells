@@ -16,8 +16,8 @@ Code Example:
     5. Naming test inputs and outputs after their type, rather than their purpose in the test – e.g. String string1 = code.getUserName()
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

@@ -12,8 +12,8 @@ Code Example:
     /html/body/div/div/div/div/div[2]/label/span[2]
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

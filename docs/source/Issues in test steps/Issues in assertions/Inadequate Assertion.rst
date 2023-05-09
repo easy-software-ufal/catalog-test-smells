@@ -31,8 +31,8 @@ Code Example:
             assertTrue(cut.getData1()==4); // Is this assertion adequate enough?
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

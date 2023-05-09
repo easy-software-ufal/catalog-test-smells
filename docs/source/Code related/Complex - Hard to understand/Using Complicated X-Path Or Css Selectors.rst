@@ -14,8 +14,8 @@ Code Example:
                 '#input-tea-type < div < div.TeaSearchRow < div.TeaSearchCell.no < div:nth-child(2) < label');
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

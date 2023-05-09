@@ -14,8 +14,8 @@ Code Example:
   without cleaning up or rolling back any changes they make to those resources.
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

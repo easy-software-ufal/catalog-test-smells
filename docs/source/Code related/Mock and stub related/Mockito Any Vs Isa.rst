@@ -21,8 +21,8 @@ Code Example:
   verify(async).execute(isA(AddOrganizationAction.class),
     any(AsyncCallback.class));
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

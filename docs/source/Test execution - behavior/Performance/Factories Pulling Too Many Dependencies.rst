@@ -17,6 +17,7 @@ Code Example:
   end
 
 References:
+
 .. note ::
 
     Every icon means something:

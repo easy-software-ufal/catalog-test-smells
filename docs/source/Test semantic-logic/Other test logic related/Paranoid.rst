@@ -86,8 +86,8 @@ Code Example:
   # => 'id,name,bio\n1,joe,"why, hello ""joe""!"'
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect

@@ -35,8 +35,8 @@ Code Example:
     self assert: (system is: (TPClassType on: True class) subtypeOf: (TPClassType on: False class)).
 
 References:
-.. note ::
 
+.. note ::
     Every icon means something:
     - :octicon:`file-code;1em` - Reference has Code Example
     - :octicon:`comment-discussion;1em` - Reference has Cause and Effect
