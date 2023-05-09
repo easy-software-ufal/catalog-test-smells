@@ -4,7 +4,7 @@
 
 project = 'Test Smells Catalog'
 copyright = '2023, EASY'
-author = 'EASY'
+author = 'Engineering and Systems Software Research Group - Universidade Federal de Alagoas (UFAL)'
 
 release = '2.0'
 version = '2.3.0'
