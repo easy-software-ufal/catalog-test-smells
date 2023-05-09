@@ -12,7 +12,7 @@ Code Example:
   Expected: true
   Actual: false
 
-References:
+References
 
 .. note ::
     Every icon means something:

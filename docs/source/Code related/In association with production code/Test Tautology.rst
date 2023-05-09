@@ -11,7 +11,7 @@ Code Example:
 
   Assertions.assertThat(processTemplate("param1", "param2")).isEqualTo(String.format("this is '%s', and this is '%s'", param1, param2));
 
-References:
+References
 
 .. note ::
     Every icon means something:

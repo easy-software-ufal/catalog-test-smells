@@ -16,7 +16,7 @@ Code Example:
     Driver.FindElement(By.Id('buy')).Click();
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

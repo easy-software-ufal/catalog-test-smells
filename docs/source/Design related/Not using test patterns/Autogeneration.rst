@@ -30,7 +30,7 @@ Code Example:
     // JUnitDoclet end method setParam getParam
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

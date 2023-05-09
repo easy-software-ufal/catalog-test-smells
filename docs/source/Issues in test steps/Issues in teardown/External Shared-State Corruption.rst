@@ -13,7 +13,7 @@ Code Example:
   Tests touch shared resources (either in memory or in external resources,such as databases and filesystems)
   without cleaning up or rolling back any changes they make to those resources.
 
-References:
+References
 
 .. note ::
     Every icon means something:

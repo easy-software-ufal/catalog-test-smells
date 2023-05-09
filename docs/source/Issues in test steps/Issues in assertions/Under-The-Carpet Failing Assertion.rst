@@ -17,7 +17,7 @@ Code Example:
     "self assert: ...
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

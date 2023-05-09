@@ -19,7 +19,7 @@ Code Example:
       assertEquals(Coord3D.ORIGIN, result);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -71,7 +71,7 @@ Code Example:
   // Exclude this test from CI, since it's erratic
   if (process.env.CI) module.exports = {}
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -28,7 +28,7 @@ Code Example:
     field3 := true
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

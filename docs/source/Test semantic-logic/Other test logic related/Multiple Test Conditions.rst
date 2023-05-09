@@ -29,7 +29,7 @@ Code Example:
     return "Row "+ String.valueOf(i);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

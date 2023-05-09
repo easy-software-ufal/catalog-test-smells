@@ -14,7 +14,7 @@ Code Example:
   assertTrue("Object must be null", actual == null);
   assertTrue("Object must not be null", actual != null);
 
-References:
+References
 
 .. note ::
     Every icon means something:

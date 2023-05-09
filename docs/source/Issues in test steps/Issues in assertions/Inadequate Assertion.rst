@@ -30,7 +30,7 @@ Code Example:
 
             assertTrue(cut.getData1()==4); // Is this assertion adequate enough?
 
-References:
+References
 
 .. note ::
     Every icon means something:

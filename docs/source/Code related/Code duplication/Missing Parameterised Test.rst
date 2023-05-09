@@ -21,7 +21,7 @@ Code Example:
             .isEqualTo(expected);
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

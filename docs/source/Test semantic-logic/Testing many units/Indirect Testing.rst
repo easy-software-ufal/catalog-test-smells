@@ -31,7 +31,7 @@ Code Example:
       assertEquals("html", expected.toString(), actualHtml);
    }
 
-References:
+References
 
 .. note ::
     Every icon means something:

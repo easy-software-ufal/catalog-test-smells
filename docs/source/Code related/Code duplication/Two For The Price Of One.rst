@@ -25,7 +25,7 @@ Code Example:
         assertEquals(expected, MyDates.describe(baseline, compare);
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

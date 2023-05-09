@@ -24,7 +24,7 @@ Code Example:
     p.send(templateA("foo", 43));
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

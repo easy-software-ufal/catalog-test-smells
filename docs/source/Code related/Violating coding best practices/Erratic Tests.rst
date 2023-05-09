@@ -21,7 +21,7 @@ Code Example:
 
   expect(has_css?(".active")).to eq(false)
 
-References:
+References
 
 .. note ::
     Every icon means something:

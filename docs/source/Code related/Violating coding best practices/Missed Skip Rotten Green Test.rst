@@ -18,7 +18,7 @@ Code Example:
         testNormalizedKeysGreatSmall(true, comparator,true);
         testNormalizedKeysGreatSmall(false, comparator,true);
         }
-References:
+References
 
 .. note ::
     Every icon means something:

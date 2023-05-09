@@ -16,7 +16,7 @@ Code Example:
       assertEquals(30, localTime.get(Calendar.MINUTE));
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

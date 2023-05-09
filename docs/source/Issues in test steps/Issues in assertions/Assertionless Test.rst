@@ -20,7 +20,7 @@ Code Example:
     self addCalendarWithName: ’new Calendar 3’.
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

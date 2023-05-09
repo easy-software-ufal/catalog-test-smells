@@ -15,7 +15,7 @@ Code Example:
     4. Pasting in the same comments from other tests whether or not they’re relevant – this is probably a case for reducing boilerplate so you don’t need as much paste, or as much comment
     5. Naming test inputs and outputs after their type, rather than their purpose in the test – e.g. String string1 = code.getUserName()
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -15,7 +15,7 @@ Code Example:
     // test for not existing user...
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

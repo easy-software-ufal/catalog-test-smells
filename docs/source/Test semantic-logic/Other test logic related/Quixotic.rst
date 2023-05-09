@@ -46,7 +46,7 @@ Code Example:
     text.include?("obscenities")
   end
 
-References:
+References
 
 .. note ::
     Every icon means something:

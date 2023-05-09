@@ -26,7 +26,7 @@ Code Example:
     assert !free_shipping?(MIN_FREE_SHIPPING_PRICE - 1)
     end
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -28,7 +28,7 @@ Code Example:
     .toBe('Testing');
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

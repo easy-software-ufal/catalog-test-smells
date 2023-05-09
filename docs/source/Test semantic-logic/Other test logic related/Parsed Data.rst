@@ -18,7 +18,7 @@ Code Example:
     Assert.IsTrue(c.Contains(e));
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

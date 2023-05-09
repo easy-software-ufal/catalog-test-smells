@@ -14,7 +14,7 @@ Code Example:
     return i + j ;
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

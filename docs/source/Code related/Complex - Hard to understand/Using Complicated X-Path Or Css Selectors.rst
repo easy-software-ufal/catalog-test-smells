@@ -13,7 +13,7 @@ Code Example:
             By.CssSelector(
                 '#input-tea-type < div < div.TeaSearchRow < div.TeaSearchCell.no < div:nth-child(2) < label');
 
-References:
+References
 
 .. note ::
     Every icon means something:

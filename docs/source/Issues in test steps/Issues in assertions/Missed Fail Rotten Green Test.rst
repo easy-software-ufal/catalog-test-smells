@@ -19,7 +19,7 @@ Code Example:
         fail("Something went wrong");
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

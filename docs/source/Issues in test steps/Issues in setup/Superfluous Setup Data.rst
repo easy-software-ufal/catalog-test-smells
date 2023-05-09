@@ -22,7 +22,7 @@ Code Example:
   assertEquals("a", results[0].getName());
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

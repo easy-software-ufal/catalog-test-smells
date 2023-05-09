@@ -34,7 +34,7 @@ Definition:
     if __name__ == '__main__':
         unittest.main(argv=['first-arg-is-ignored'], exit=False)
 
-References:
+References
 
 .. note ::
     Every icon means something:

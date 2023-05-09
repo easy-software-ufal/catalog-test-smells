@@ -14,7 +14,7 @@ Code Example:
       assertTrue(service.isLastOperationSuccessful());
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

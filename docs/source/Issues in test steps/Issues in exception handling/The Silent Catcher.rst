@@ -16,7 +16,7 @@ Code Example:
     // some code that throws another exception yet passes the test
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

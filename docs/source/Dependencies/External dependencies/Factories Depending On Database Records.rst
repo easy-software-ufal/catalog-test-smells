@@ -16,7 +16,7 @@ Code Example:
     schedule_duration ScheduleDuration.find_by_name("Custom")
   end
 
-References:
+References
 
 .. note ::
     Every icon means something:

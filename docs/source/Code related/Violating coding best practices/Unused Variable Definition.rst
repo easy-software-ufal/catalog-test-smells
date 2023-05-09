@@ -17,7 +17,7 @@ Code Example:
     j := 1;
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

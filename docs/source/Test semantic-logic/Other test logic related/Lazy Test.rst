@@ -31,7 +31,7 @@ Code Example:
       assertEquals(xml, decrypt);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

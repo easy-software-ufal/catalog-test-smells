@@ -85,7 +85,7 @@ Code Example:
   csv_for([["id", "name", "bio"], [1, "joe", "why, hello \"joe\"!"]])
   # => 'id,name,bio\n1,joe,"why, hello ""joe""!"'
 
-References:
+References
 
 .. note ::
     Every icon means something:

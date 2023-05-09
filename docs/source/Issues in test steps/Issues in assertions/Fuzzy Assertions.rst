@@ -19,7 +19,7 @@ Code Example:
       { obj.creationDate - now() < inSeconds(5) }
   ])
 
-References:
+References
 
 .. note ::
     Every icon means something:

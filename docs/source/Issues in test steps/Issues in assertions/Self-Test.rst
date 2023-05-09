@@ -29,7 +29,7 @@ Code Example:
     assertThat(methodsForCountry).isEqualTo(methodsAvailableInPoland);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -78,7 +78,7 @@ Code Example:
     end
   end
 
-References:
+References
 
 .. note ::
     Every icon means something:

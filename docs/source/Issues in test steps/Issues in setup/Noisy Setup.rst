@@ -23,7 +23,7 @@ Code Example:
     # Run the query and make assertions
   end
 
-References:
+References
 
 .. note ::
     Every icon means something:

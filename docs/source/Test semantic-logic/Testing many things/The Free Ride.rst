@@ -29,7 +29,7 @@ Code Example:
         Assert.Equal(expectedResultAge, resultAge);
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

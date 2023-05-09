@@ -11,7 +11,7 @@ Code Example:
 
   Thread.sleep(4*1000);
 
-References:
+References
 
 .. note ::
     Every icon means something:

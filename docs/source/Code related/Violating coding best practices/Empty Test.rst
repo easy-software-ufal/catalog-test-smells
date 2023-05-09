@@ -15,7 +15,7 @@ Code Example:
     //        assertEquals("user@example.com",credentials.user);
     }
                 
-References:
+References
 
 .. note ::
     Every icon means something:

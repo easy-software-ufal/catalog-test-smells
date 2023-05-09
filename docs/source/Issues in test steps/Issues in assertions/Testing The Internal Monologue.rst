@@ -24,7 +24,7 @@ Code Example:
       verify(service, never()).internalCall();
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

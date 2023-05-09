@@ -19,7 +19,7 @@ Code Example:
       assertEquals(200, response);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

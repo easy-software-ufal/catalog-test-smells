@@ -19,7 +19,7 @@ Code Example:
     return amount;
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

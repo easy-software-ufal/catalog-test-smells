@@ -17,7 +17,7 @@ Code Example:
         $this->assertEquals(1445736974, $this->model->getTranslationFileTimestamp());
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

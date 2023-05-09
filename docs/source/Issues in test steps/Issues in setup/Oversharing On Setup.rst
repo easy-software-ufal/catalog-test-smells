@@ -16,7 +16,7 @@ Code Example:
     imageData = loadImageBytes();
   });
 
-References:
+References
 
 .. note ::
     Every icon means something:

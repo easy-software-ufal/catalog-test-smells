@@ -36,7 +36,7 @@ Code Example:
     + String.valueOf(j) + ")";
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

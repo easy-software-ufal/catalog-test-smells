@@ -13,7 +13,7 @@ Code Example:
     assertEqual('Bloggs', person.getLastName())
     assertEqual(23, person.getAge())
 
-References:
+References
 
 .. note ::
     Every icon means something:

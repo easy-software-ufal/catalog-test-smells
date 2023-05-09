@@ -13,7 +13,7 @@ Code Example:
       assertEquals(true, true);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

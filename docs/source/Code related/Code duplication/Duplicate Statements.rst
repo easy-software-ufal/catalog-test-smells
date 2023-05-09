@@ -19,7 +19,7 @@ Code Example:
         pt.send("second timeout " );
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

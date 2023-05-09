@@ -11,7 +11,7 @@ Code Example:
 
     /html/body/div/div/div/div/div[2]/label/span[2]
 
-References:
+References
 
 .. note ::
     Every icon means something:

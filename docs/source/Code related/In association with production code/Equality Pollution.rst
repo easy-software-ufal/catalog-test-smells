@@ -21,7 +21,7 @@ Code Example:
       Equal(expected, actual, GetEqualityComparer<T>());
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

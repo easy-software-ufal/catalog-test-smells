@@ -40,7 +40,7 @@ Code Example:
   } // end testcase SIP_CC_PR_TR_SE_TI_004
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

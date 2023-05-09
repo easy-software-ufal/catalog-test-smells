@@ -17,7 +17,7 @@ Code Example:
       Write(customerToWrite);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

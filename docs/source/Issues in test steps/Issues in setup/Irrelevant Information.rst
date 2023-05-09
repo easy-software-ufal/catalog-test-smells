@@ -24,7 +24,7 @@ Code Example:
       assertContainsExactlyOneLineItem(invoice, expected);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

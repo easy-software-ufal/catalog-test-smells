@@ -15,7 +15,7 @@ Code Example:
    hidePane();
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

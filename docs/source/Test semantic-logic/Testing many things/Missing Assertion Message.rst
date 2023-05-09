@@ -21,7 +21,7 @@ Code Example:
         assertEquals(expItem.getQuantity(), actual.getQuantity());
     }  
 
-References:
+References
 
 .. note ::
     Every icon means something:

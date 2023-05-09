@@ -12,7 +12,7 @@ Code Example:
     Then I should see a link to 'http://twitter.com/beautifultea'
     And I should see a link to 'https://facebook.com/beautifultea'
  
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -21,7 +21,7 @@ Code Example:
             .isEqualTo("status not ok");
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

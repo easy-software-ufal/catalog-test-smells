@@ -17,7 +17,7 @@ Code Example:
   Suite.run()--> Test C fails
   Suite.run()--> Test C fails
 
-References:
+References
 
 .. note ::
     Every icon means something:

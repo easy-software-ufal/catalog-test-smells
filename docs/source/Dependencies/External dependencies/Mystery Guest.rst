@@ -18,7 +18,7 @@ Code Example:
       assertEquals( "Calgary", firstFlight.getOriginCity());
    }
 
-References:
+References
 
 .. note ::
     Every icon means something:

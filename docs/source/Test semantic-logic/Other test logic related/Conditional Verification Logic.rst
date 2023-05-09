@@ -32,7 +32,7 @@ Code Example:
     return "Cell (" + String.valueOf(i) + ", " + String.valueOf(j) + ")";
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

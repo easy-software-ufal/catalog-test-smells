@@ -15,7 +15,7 @@ Code Example:
     }
     assertEquals(true, isValid)
 
-References:
+References
 
 .. note ::
     Every icon means something:

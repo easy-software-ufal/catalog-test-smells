@@ -19,7 +19,7 @@ Code Example:
   when: controller handles a get request
   then: the result will be the test collection as json 
 
-References:
+References
 
 .. note ::
     Every icon means something:

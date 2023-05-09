@@ -35,7 +35,7 @@ Code Example:
     assertEquals( expectedTime, result);
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

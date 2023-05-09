@@ -14,7 +14,7 @@ Code Example:
   Suite.run() --> All tests pass
   Suite.run() --> Test 3 fails
 
-References:
+References
 
 .. note ::
     Every icon means something:

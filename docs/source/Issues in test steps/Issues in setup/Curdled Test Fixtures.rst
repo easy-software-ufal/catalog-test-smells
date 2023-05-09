@@ -30,7 +30,7 @@ Code Example:
     void testOne() { ... }
 }
 
-References:
+References
 
 .. note ::
     Every icon means something:

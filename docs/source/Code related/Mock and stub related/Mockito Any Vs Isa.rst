@@ -20,7 +20,7 @@ Code Example:
 
   verify(async).execute(isA(AddOrganizationAction.class),
     any(AsyncCallback.class));
-References:
+References
 
 .. note ::
     Every icon means something:

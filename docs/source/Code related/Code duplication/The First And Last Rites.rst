@@ -31,7 +31,7 @@ Code Example:
         database.close();
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

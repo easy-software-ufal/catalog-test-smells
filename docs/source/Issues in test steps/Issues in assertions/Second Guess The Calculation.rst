@@ -21,7 +21,7 @@ Code Example:
         assertEquals(expectedPrice, actualPrice, 0.001);
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

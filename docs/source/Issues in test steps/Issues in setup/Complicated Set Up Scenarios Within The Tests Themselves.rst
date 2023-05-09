@@ -19,7 +19,7 @@ Code Example:
     And I should see 'mastercard' is accepted
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

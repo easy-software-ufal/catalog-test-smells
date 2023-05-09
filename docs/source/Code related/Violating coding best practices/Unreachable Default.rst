@@ -26,7 +26,7 @@ Code Example:
     deactivate(myDefaultVar)
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -82,7 +82,7 @@ Code Example:
   end
   FACTORS = Factors.new
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -40,7 +40,7 @@ Code Example:
       /* validate orders */
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

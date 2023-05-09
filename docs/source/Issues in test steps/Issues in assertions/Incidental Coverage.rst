@@ -19,7 +19,7 @@ Code Example:
     # ... remaining tests omitted
   end
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -12,7 +12,7 @@ Code Example:
     import { createMockSession, createMockUser } from
     '../../components/auth/__tests__/User.test.ts';
 
-References:
+References
 
 .. note ::
     Every icon means something:

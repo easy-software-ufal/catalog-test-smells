@@ -34,7 +34,7 @@ Code Example:
 
     self assert: (system is: (TPClassType on: True class) subtypeOf: (TPClassType on: False class)).
 
-References:
+References
 
 .. note ::
     Every icon means something:

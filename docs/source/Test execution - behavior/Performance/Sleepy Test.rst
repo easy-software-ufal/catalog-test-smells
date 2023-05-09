@@ -29,7 +29,7 @@ Code Example:
         assertEquals(1, result.size());
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

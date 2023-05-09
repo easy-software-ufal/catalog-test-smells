@@ -24,7 +24,7 @@ Code Example:
     const file = readFile('foo.txt');
     const substituted = substituteId(file, currentId);
 
-References:
+References
 
 .. note ::
     Every icon means something:

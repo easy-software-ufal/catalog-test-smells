@@ -19,7 +19,7 @@ Code Example:
     assertThat(foo.getBar()).isEqualTo("baz");
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -23,7 +23,7 @@ Code Example:
         port ExamplePort pt;
     }
 
-References:
+References
 
 .. note ::
     Every icon means something:

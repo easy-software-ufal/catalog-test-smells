@@ -17,7 +17,7 @@ Code Example:
     Debug.Assert(condition, "this should not happen");
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

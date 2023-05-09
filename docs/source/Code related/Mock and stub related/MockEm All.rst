@@ -22,7 +22,7 @@ Code Example:
     verify(modelAndView).addObject("timezone", "timezone X");
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

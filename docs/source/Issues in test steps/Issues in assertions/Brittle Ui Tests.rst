@@ -13,7 +13,7 @@ Code Example:
     Thread.Sleep(5000);
     IWebElement myDynamicElement = driver.FindElement(By.Id("someDynamicElement"));
     
-References:
+References
 
 .. note ::
     Every icon means something:

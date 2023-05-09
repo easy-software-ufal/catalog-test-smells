@@ -17,7 +17,7 @@ Code Example:
   assertThat(result.getBar().get(0)).isEqualTo("buzz");
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -24,7 +24,7 @@ Code Example:
     }
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

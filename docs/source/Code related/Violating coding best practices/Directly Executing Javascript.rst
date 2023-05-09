@@ -14,7 +14,7 @@ Code Example:
     (driver as IJavaScriptExecutor).ExecuteScript(string.Format(&quot;viewModel.tea.types.removeTeaType(\&quot;{0}\&quot;);&quot;, teaType));
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

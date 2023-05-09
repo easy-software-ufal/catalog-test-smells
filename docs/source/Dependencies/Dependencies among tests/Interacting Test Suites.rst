@@ -13,7 +13,7 @@ Code Example:
   Suite2.run()--> Green
   Suite(Suite1,Suite2).run()--> Test C in Suite2 fails
 
-References:
+References
 
 .. note ::
     Every icon means something:

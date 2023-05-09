@@ -33,7 +33,7 @@ Code Example:
         expect(@rss_feed_episode.content('title')).to eq('')
     end
     end
-References:
+References
 
 .. note ::
     Every icon means something:

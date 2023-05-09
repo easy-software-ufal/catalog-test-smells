@@ -18,7 +18,7 @@ Code Example:
     ) do: [ :urlText | self should: [ urlText = urlText asUrl asString ] ].
 
 
-References:
+References
 
 .. note ::
     Every icon means something:

@@ -19,7 +19,7 @@ Code Example:
   assertThat(calculateAnswercountTheWordsIn("This is a string"))
    .isEqualTo(4);
 
-References:
+References
 
 .. note ::
     Every icon means something:

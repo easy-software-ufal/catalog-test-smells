@@ -19,7 +19,7 @@ Code Example:
     previousOrder = ordering;
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

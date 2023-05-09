@@ -20,7 +20,7 @@ Code Example:
     DoSomethingThatShouldNotThrowAnException();
   }
 
-References:
+References
 
 .. note ::
     Every icon means something:

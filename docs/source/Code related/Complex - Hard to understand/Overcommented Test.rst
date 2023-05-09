@@ -31,7 +31,7 @@ Code Example:
     "and see if unwind protection worked"
     self assert: sema isSignaled
 
-References:
+References
 
 .. note ::
     Every icon means something:

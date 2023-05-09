@@ -26,7 +26,7 @@ Code Example:
     Transcript cr; show:'Time for quick-sort: ', time printString,' msecs'.
     "The merge-sort version"
 
-References:
+References
 
 .. note ::
     Every icon means something:

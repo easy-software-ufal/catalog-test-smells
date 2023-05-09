@@ -16,7 +16,7 @@ Code Example:
     end
   end
 
-References:
+References
 
 .. note ::
 
