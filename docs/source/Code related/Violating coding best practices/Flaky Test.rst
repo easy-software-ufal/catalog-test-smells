@@ -12,7 +12,7 @@ Flaky Test
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
 * `JTDog: a Gradle Plugin for Dynamic Test Smell Detection <https://ieeexplore.ieee.org/document/9678529/>`_ :octicon:`comment-discussion;1em`
 * `What We Know About Smells in Software Test Code <https://ieeexplore.ieee.org/document/8501942>`_
-

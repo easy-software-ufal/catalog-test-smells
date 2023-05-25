@@ -15,6 +15,6 @@ Long Macro Event
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Bad smells and refactoring methods for GUI test script <https://ieeexplore.ieee.org/abstract/document/6299294>`_
-
+* `Bad smells and refactoring methods for GUI test script <https://ieeexplore.ieee.org/abstract/document/6299294>`_ :octicon:`sync;1em`

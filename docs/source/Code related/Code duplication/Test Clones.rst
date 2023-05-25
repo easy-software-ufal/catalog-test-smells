@@ -12,7 +12,7 @@ Test Clones
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Generating refactoring proposals to remove clones from automated system tests <https://ieeexplore.ieee.org/abstract/document/7181438/>`_
+* `Generating refactoring proposals to remove clones from automated system tests <https://ieeexplore.ieee.org/abstract/document/7181438/>`_ :octicon:`file-code;1em` :octicon:`sync;1em`
 * `Hunting for smells in natural language tests <https://ieeexplore.ieee.org/abstract/document/6606682>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em`
-

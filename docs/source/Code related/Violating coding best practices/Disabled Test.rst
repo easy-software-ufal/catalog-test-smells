@@ -12,6 +12,6 @@ Disabled Test
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `How disabled tests manifest in test maintainability challenges? <https://dl.acm.org/doi/10.1145/3468264.3468609>`_
-
+* `How disabled tests manifest in test maintainability challenges? <https://dl.acm.org/doi/10.1145/3468264.3468609>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em` :octicon:`sync;1em`

@@ -12,6 +12,6 @@ Mock Everything
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_
-
+* `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_ :octicon:`sync;1em`

@@ -12,7 +12,7 @@ Mocking What You Don’T Own
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
 * `Anti-patterns of automated testing <https://medium.com/swlh/anti-patterns-of-automated-software-testing-b396283a4cb6>`_
-* `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_
-
+* `How to write good tests <https://github.com/mockito/mockito/wiki/How-to-write-good-tests>`_ :octicon:`sync;1em`

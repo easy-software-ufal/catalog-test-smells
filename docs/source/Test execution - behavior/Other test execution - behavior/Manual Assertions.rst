@@ -12,6 +12,6 @@ Manual Assertions
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_
-
+* `JUnit Anti-patterns <https://exubero.com/junit/anti-patterns/>`_ :octicon:`sync;1em`

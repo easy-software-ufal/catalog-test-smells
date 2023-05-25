@@ -12,6 +12,6 @@ Subclass To Test
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Subclass To Test Anti Pattern <https://wiki.c2.com/?SubclassToTestAntiPattern>`_ :octicon:`comment-discussion;1em`
-
+* `Subclass To Test Anti Pattern <https://wiki.c2.com/?SubclassToTestAntiPattern>`_ :octicon:`comment-discussion;1em` :octicon:`sync;1em`

@@ -61,7 +61,7 @@ Brittle Test
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Maintainable automated ui tests <https://code.tutsplus.com/articles/maintainable-automated-ui-tests--net-35089>`_ :octicon:`file-code;1em`
-* `Smells of Testing (signs your tests are bad) <https://jakescruggs.blogspot.com/2009/04/smells-of-testing-signs-your-tests-are.html>`_
-
+* `Maintainable automated ui tests <https://code.tutsplus.com/articles/maintainable-automated-ui-tests--net-35089>`_ :octicon:`file-code;1em` :octicon:`sync;1em`
+* `Smells of Testing (signs your tests are bad) <https://jakescruggs.blogspot.com/2009/04/smells-of-testing-signs-your-tests-are.html>`_ :octicon:`sync;1em`

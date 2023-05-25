@@ -12,6 +12,6 @@ Incidental Details
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
 * `Cucumber anti-patterns (part one) <https://cucumber.io/blog/bdd/cucumber-antipatterns-part-one/>`_
-
