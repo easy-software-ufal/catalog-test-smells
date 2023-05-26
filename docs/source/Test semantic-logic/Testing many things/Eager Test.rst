@@ -6,7 +6,7 @@ Eager Test
 
 **Also Known As:**
 
-* The Test It All, Split Personality, Many Assertions, Multiple Assertions, The Free Ride, Silver Bullet, Piggyback
+* The Test It All, Split Personality, Many Assertions, Multiple Assertions, The Free Ride, The One, Piggyback, Silver Bullet
 
 **Code Example:**
 
