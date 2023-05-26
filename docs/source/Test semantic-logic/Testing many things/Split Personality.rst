@@ -4,6 +4,9 @@ Split Personality
 
 * A test method that attempts to test several behaviors of the tested object.
 
+**Also Known As:**
+
+* Eager Test
 
 **Code Example:**
 

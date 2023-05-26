@@ -5,6 +5,11 @@ Fire And Forget
 * A test that's at risk of exiting prematurely, typically before its assertions can run and fail the test run if necessary
 
 
+**Also Known As:**
+
+* Plate-Spinning
+
+
 **Code Example:**
 
 .. code-block:: ruby

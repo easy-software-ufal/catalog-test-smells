@@ -6,6 +6,11 @@ Assertionless Test
 * Pretending to assert data and functionality, but does not
 
 
+**Also Known As:**
+
+* Lying Test, The Line Hitter, No Assertions
+
+
 **Code Example:**
 
 .. code-block:: Smalltalk

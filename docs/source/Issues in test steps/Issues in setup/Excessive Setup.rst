@@ -4,6 +4,9 @@ Excessive Setup
 
 * Many dependencies you have to create beforehand (such as classes, operating system dependencies, databases - basically anything that removes the attention to the testing goal).
 
+**Also Known As:**
+
+* Large Setup Methods, Inappropriately Shared Fixture, The Mother Hen, The Stranger, The Distant Relative, The Cuckoo
 
 **Code Example:**
 

@@ -6,7 +6,7 @@ The Free Ride
 
 **Also Known As:**
 
-* Piggyback
+* Eager Test
 
 **Code Example:**
 

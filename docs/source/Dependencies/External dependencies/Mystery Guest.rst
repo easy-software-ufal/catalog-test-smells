@@ -4,6 +4,10 @@ Mystery Guest
 
 * A test case that uses external resources that are not managed by a fixture. A drawback of this approach is that the interface to external resources might change over time necessitating an update of the test case, or that those resources might not be available when the test case is run, endangering the deterministic behavior of the test.
 
+**Also Known As:**
+
+* External Data
+
 **Code Example:**
 
 .. code-block:: java

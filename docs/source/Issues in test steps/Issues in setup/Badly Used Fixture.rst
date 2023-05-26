@@ -4,6 +4,9 @@ Badly Used Fixture
 
 * A Badly Used Fixture is a fixture that is not fully used by the tests in the test-suite.
 
+**Also Known As:**
+
+* General Fixture
 
 **Code Example:**
 

@@ -5,6 +5,11 @@ Brittle Test
 * UI tests containing procedural test code, duplicated steps and magic values
 
 
+**Also Known As:**
+
+* Fragile Test
+
+
 **Code Example:**
 
 .. code-block:: csharp

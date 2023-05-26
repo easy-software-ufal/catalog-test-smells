@@ -4,10 +4,9 @@ Eager Test
 
 * A test case that checks or uses more than one method of the class under test. Since its introduction, this smell has been somewhat broadly defined. It is left to interpretation which method calls count towards the maximum. Either all methods invoked on the class under test could count, or only the methods invoked on the same instance under test, or only the methods of which the return value is eventually used within an assertion.
 
-
 **Also Known As:**
 
-* The Test It All, Split Personality, Many Assertions, Multiple Assertions, The Free Ride
+* The Test It All, Split Personality, Many Assertions, Multiple Assertions, The Free Ride, Silver Bullet, Piggyback
 
 **Code Example:**
 
