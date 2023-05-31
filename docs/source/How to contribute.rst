@@ -10,7 +10,7 @@ First, you must know what you want to contribute.
 3. Do you want to modify an already cataloged smell?
 
 
-1. Contribuiting with a new smell
+1. Contributing with a new smell
 ----------------------------------
 You may create a new smell page, following the `template.rst` available on this very directory, or open a new issue on our GitHub page.
 
