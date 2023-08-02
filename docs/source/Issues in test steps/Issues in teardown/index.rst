@@ -13,6 +13,7 @@ Issues in teardown
     Generous Leftovers
     Improper Clean Up After Tests Have Been Run
     It Was Like That When I Got Here
+    Leaving Temporary Files Behind
     Not Idempotent
     Shared-State Corruption
     Sloppy Worker

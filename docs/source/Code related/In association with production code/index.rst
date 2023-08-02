@@ -34,5 +34,7 @@ In association with production code
     Tests Require Too Much Intimate Knowledge Of The Code To Run
     The Telltale Heart
     The Ugly Mirror
+    Trying To Test The Untestable
+    Ui Tests Should Not Expose Interactions With Web Elements
     Well, My Setup Works
 

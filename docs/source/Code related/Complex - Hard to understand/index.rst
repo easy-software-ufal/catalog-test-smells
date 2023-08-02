@@ -11,16 +11,20 @@ Complex - Hard to understand
     Bad Comment Rate
     Boilerplate Hell
     Comments
+    Complicated Logic In Tests
     Hard-Coded Test Data
     Hard-Coded Values
     Hard-To-Test Code
     Hard-To-Write Test
     Hardcoded Environment Configuration
     Hardcoded Environment
+    Hardcoded Literals
     Hardcoded Test Data
     Herp Derp
     Hidden Complexity
     It Looks Right To Me
+    Keyword Driven Testing
+    Lack Comments
     Large Macro Component
     Large Module
     Large Test File
@@ -43,7 +47,9 @@ Complex - Hard to understand
     Overuse Of Abstractions
     Self Important Test Data
     Tests Are Difficult To Write
+    Using Complicated Data Store
     Using Complicated X-Path Or Css Selectors
+    Using Test Case Inheritance To Test Source Code Polymorphism
     Verbose Test
     What Are We Testing
 

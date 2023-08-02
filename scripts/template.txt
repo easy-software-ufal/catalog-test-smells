@@ -3,6 +3,7 @@
 **Definition:**
 
 [DEFINITION]
+[CODE EXAMPLE]
 [AKA]
 **References:**
 

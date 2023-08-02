@@ -131,7 +131,7 @@ Code related,Mock and stub related,Mock everything,1,,FALSE,FALSE,FALSE
 Code related,Mock and stub related,Mock Happy,3,The Mockery,FALSE,FALSE,TRUE
 Code related,Mock and stub related,Mock madness,1,,FALSE,FALSE,FALSE
 Code related,Mock and stub related,Mocking a Mocking Framework,1,,FALSE,FALSE,FALSE
-Code related,Mock and stub related,Mocking what you don’t own,2,,FALSE,FALSE,FALSE
+Code related,Mock and stub related,Mocking What You Don'T Own,2,,FALSE,FALSE,FALSE
 Code related,In association with production code,Multiple points of failure,1,,FALSE,TRUE,FALSE
 Code related,Code duplication,Multiple tests testing the same or similar things,1,,FALSE,FALSE,FALSE
 Design related,Not using test patterns,Narcissistic,2,,FALSE,TRUE,TRUE

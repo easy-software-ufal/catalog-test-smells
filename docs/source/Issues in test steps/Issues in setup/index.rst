@@ -16,6 +16,7 @@ Issues in setup
     Excessive Setup
     Factories That Contain Unnecessary Data
     Fragile Fixture
+    Fragile Locators
     General Fixture
     Hidden Test Data
     Idle Ptc
@@ -29,10 +30,14 @@ Issues in setup
     Obscure In-Line Setup
     Oversharing On Setup
     Refused Bequest
+    Scattered Test Fixtures
+    Separate Fixture Files
     Share The World
     Superfluous Setup Data
     Taking Environment State For Granted
     Test Maverick
+    Test Objects Initialized In A Describe Block
+    Test Objects Initialized In Each Test
     Test Setup Is Somewhere Else
     The Cuckoo
     The Mother Hen
@@ -40,5 +45,6 @@ Issues in setup
     Unused Definition
     Using Fixtures
     Vague Header Setup
+    Verifying In Setup Method
     Where Does This One Go
 

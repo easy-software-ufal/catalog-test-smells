@@ -9,6 +9,7 @@ Code duplication
 
     Army Of Clones
     Assertion Chorus
+    Copy-Paste
     Cut-And-Paste Code Reuse
     Data-Ja Vu
     Duplicate Alt Branches
@@ -20,6 +21,7 @@ Code duplication
     Duplicate Statements
     Duplicate Template Fields
     Duplicate Test Code
+    Duplicate Test Runs
     Duplicated Actions
     Duplicated Code In Conditional
     Duplicated Code

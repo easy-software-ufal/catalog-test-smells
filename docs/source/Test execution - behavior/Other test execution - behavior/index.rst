@@ -21,5 +21,6 @@ Other test execution - behavior
     Requires Supervision
     The Loudmouth
     Transcripting Test
+    Trying To Use Ui Automation To Replace Manual Testing
     Unnecessary Navigation
 

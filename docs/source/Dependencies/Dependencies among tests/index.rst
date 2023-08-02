@@ -9,6 +9,7 @@ Dependencies among tests
 
     Chain Gang
     Constrained Test Order
+    Coupled Tests
     Coupling Between Test Methods
     Dependent Test
     Identity Dodgems

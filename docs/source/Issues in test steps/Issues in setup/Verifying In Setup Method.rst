@@ -1,0 +1,19 @@
+Verifying In Setup Method
+^^^^^
+**Definition:**
+
+* When there is an assertion method within the SetUp method.
+
+
+
+**References:**
+
+.. admonition:: Quality attributes
+
+    * :octicon:`file-code;1em` -  Code Example
+    * :octicon:`comment-discussion;1em` -  Cause and Effect
+    * :octicon:`graph;1em` -  Frequency
+
+* `TEMPY: Test Smell Detector for Python <https://dl.acm.org/doi/10.1145/3555228.3555280>`_ :octicon:`graph;1em`
+* `Handling Test Smells in Python: Results from a Mixed-Method Study <https://dl.acm.org/doi/10.1145/3474624.3477066>`_ :octicon:`comment-discussion;1em`
+

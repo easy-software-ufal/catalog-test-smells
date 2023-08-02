@@ -14,6 +14,7 @@ Issues in exception handling
     Expected Exceptions And Verification
     Expecting Exceptions Anywhere
     Issues In Exception Handling
+    No Error Handling In Tests
     The Greedy Catcher
     The Secret Catcher
     The Silent Catcher

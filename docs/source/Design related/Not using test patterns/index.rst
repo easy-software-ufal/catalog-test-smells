@@ -21,5 +21,7 @@ Not using test patterns
     TestClass Hierarchy
     Testing Business Rules Through Ui
     The Turing Test
+    Unclassified Method Category
+    Undefined Test
     Unknown Test
 

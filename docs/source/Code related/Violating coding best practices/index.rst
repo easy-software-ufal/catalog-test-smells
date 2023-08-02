@@ -46,6 +46,7 @@ Violating coding best practices
     Literal Pollution
     Long Parameter List
     Lost Test
+    Meaningless Variable Names
     Messy Test
     Missed Skip Rotten Green Test
     Missing Variable Definition
@@ -53,7 +54,9 @@ Violating coding best practices
     Mistaken Identity
     Mixed Selectors
     Name-Clashing Import
+    Non-Functional Statement
     Nondeterministic Test
+    Opaque Output
     Over-Eager Helper
     Over-Specific Runs On
     Overreferencing
@@ -89,6 +92,7 @@ Violating coding best practices
     Unused Shared-Fixture Variables
     Unused Variable Definition
     Unworldly Test Data
+    Using Faker
     Verbless And Noun-Full
     Wasted Variable Definition
 

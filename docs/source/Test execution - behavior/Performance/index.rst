@@ -9,6 +9,7 @@ Performance
 
     Asynchronous Test
     Factories Pulling Too Many Dependencies
+    Hardcoded Sleep
     Inefficient Waits
     Long Running Tests
     Sleeping For Arbitrary Amount Of Time

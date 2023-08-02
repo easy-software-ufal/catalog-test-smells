@@ -10,6 +10,7 @@ Issues in assertions
     7 Layer Testing
     Asserting Pre-Condition And Invariants
     Assertion Diversion
+    Assertion Mismatch Scenario
     Assertion-Free
     Assertionless Test
     Assertions Should Be Merciless
@@ -41,6 +42,7 @@ Issues in assertions
     Martini Assertion
     Missed Fail Rotten Green Test
     Missing Assertions
+    Missing Test
     No Assertions
     No Traces Left
     On The Fly

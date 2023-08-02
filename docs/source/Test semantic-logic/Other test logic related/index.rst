@@ -43,6 +43,7 @@ Other test logic related
     Invalid Test Data
     Invasion Of Privacy
     Lazy Test
+    London School Orthodoxy
     Multiple Test Conditions
     Nested Conditional
     Neverfail Test

@@ -15,8 +15,11 @@ External dependencies
     Factories Depending On Database Records
     Hidden Dependency
     Hidden Integration Test
+    Local Only Testing
     Middle Man
     Mystery Guest
+    Programming Paradigms Blend
+    Remote Mystery Guest
     Require External Resources
     Resource Leakage
     Resource Optimism
