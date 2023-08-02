@@ -9,13 +9,13 @@ def safe_open_w(path):
 testsmells = {}
 
 
-with open('./newcsv.csv', encoding="utf8") as csvfile:
+with open('./scripts/allreferences.csv', encoding="utf8") as csvfile:
     filereader = csv.DictReader(csvfile)
     for row in filereader:
         if(row["Name"].title() in testsmells.keys()):
             testsmells[row["Name"].title()]["references"].append(
               {
-                "link": row["URL"],
+                "link": row["Reference Title"],
                 "title": row["Title"],
                 "code_example": row["Code Example"] == "TRUE",
                 "causes_effects": row["Causes / Effects"] == "TRUE",
@@ -28,7 +28,7 @@ with open('./newcsv.csv', encoding="utf8") as csvfile:
             testsmells[row["Name"].title()] = {
               "references": [
                 {
-                  "link": row["URL"],
+                  "link": row["Reference Title"],
                   "title": row["Title"],
                   "code_example": row["Code Example"] == "TRUE",
                   "causes_effects": row["Causes / Effects"] == "TRUE",
@@ -64,6 +64,8 @@ for root, dirs, files in os.walk("docs\source", topdown=False):
                     break
             i+=1
             rstfile.seek(0)
+            
+            testsmells[title]["references"].sort(key=lambda x: x["title"])
 
             for reference in testsmells[title]["references"]:
                 
@@ -95,7 +97,7 @@ for root, dirs, files in os.walk("docs\source", topdown=False):
 #         if(name not in testsmells):
 #             testsmells[name] = {}
 #             testsmells[name]["references"] = [{
-#                 "url": row[2],
+#                 "Reference Title": row[2],
 #                 "title": row[3],
 #                 "example": row[10] == "TRUE",
 #                 "ce": row[11] == "TRUE",
@@ -103,7 +105,7 @@ for root, dirs, files in os.walk("docs\source", topdown=False):
 #             }]
 #         else:
 #             testsmells[name]["references"].append({
-#                 "url": row[2],
+#                 "Reference Title": row[2],
 #                 "title": row[3],
 #                 "example": row[10] == "TRUE",
 #                 "ce": row[11] == "TRUE",
@@ -133,7 +135,7 @@ for root, dirs, files in os.walk("docs\source", topdown=False):
 #             rstfile.seek(0)
 #             for lineReference in linhas[i:]:
 #                 for reference in testsmells[title]["references"]:
-#                     if(reference["url"] in lineReference):
+#                     if(reference["Reference Title"] in lineReference):
 #                         text += lineReference[:-1]
 
 #                         if(reference["example"]):

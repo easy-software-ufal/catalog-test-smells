@@ -39,54 +39,61 @@ nExists = 0
 for name in testsmells.keys():
   filepath = f'./docs/source/{testsmells[name]["category"]}/{testsmells[name]["subcategory"]}/{name.replace("?", "").replace("::", "").replace("/", "-")}.rst'
   exists = os.path.isfile(filepath)
-  if(not exists):
+  if(exists):
+#     with safe_open_w(filepath) as rstfile:
+      
+#       template = txt.replace("[SMELL NAME]", name)
+
+#       references = ""
+
+#       definition = ""
+
+#       for defi in testsmells[name]["definitions"]:
+#         if(len(definition) < len(defi)):
+#             definition = defi
+      
+
+#       template = template.replace("[DEFINITION]", "* " + definition + "\n")
+#       haveCodeExample = False
+#       for reference in testsmells[name]["references"]:
+#         references += f'* `{reference["title"]} <{reference["link"]}>`_'
+
+#         if(reference["code_example"]):
+#           references += " :octicon:`file-code;1em`"
+#           haveCodeExample = True
+#         if(reference["causes_effects"]):
+#           references += " :octicon:`comment-discussion;1em`"
+#         if(reference["frequency"]):
+#           references += " :octicon:`graph;1em`"
+#         references += "\n"
+
+#       if(haveCodeExample):
+#          template = template.replace("[CODE EXAMPLE]",
+# """**Code Example:**
+
+# * No code examples yet...
+# .. TODO CODE EXAMPLE""")
+#       else:
+#          template = template.replace("[CODE EXAMPLE]", "")
+
+#       template = template.replace("[REFERENCE]", references)
+
+#       if(testsmells[name]["AKA"] != ""):
+#         akas = "**Also Known As:**\n\n"
+#         akas += "* "+ testsmells[name]["AKA"]
+#         akas += "\n"
+#         template = template.replace("[AKA]", akas)
+#       else:
+#         template = template.replace("[AKA]", "")
+      
+#       rstfile.write(template)
+#   else:
+#      
+#ler o arquivo, buscar até a linha de referência e adicionar a referência
     with safe_open_w(filepath) as rstfile:
-      
-      template = txt.replace("[SMELL NAME]", name)
-
-      references = ""
-
-      definition = ""
-
-      for defi in testsmells[name]["definitions"]:
-        if(len(definition) < len(defi)):
-            definition = defi
-      
-
-      template = template.replace("[DEFINITION]", "* " + definition + "\n")
-      haveCodeExample = False
-      for reference in testsmells[name]["references"]:
-        references += f'* `{reference["title"]} <{reference["link"]}>`_'
-
-        if(reference["code_example"]):
-          references += " :octicon:`file-code;1em`"
-          haveCodeExample = True
-        if(reference["causes_effects"]):
-          references += " :octicon:`comment-discussion;1em`"
-        if(reference["frequency"]):
-          references += " :octicon:`graph;1em`"
-        references += "\n"
-
-      if(haveCodeExample):
-         template = template.replace("[CODE EXAMPLE]",
-"""**Code Example:**
-
-* No code examples yet...
-.. TODO CODE EXAMPLE""")
-      else:
-         template = template.replace("[CODE EXAMPLE]", "")
-
-      template = template.replace("[REFERENCE]", references)
-
-      if(testsmells[name]["AKA"] != ""):
-        akas = "**Also Known As:**\n\n"
-        akas += "* "+ testsmells[name]["AKA"]
-        akas += "\n"
-        template = template.replace("[AKA]", akas)
-      else:
-        template = template.replace("[AKA]", "")
-      
-      rstfile.write(template)
+      lines = rstfile
+      for i in range(len(lines)):
+         print(lines[i])
 
 # with open ('nocodeexamples.csv', encoding="utf8") as csvfile:
 #     file = csv.reader(csvfile)

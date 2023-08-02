@@ -16,6 +16,6 @@ Test Objects Initialized In Each Test
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
 * `JavaScript Testing Anti-Patterns <https://www.jonmellman.com/posts/javascript-testing-anti-patterns>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
-

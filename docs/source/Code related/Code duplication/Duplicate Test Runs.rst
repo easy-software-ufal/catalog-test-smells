@@ -16,6 +16,6 @@ Duplicate Test Runs
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies <https://ieeexplore.ieee.org/document/9303402/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em`
-
+* `Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies <https://ieeexplore.ieee.org/document/9303402/>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`graph;1em` :octicon:`sync;1em`

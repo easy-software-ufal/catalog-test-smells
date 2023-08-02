@@ -16,6 +16,7 @@ Lack Of Cohesion Of Test Methods
 
 * `Automated Detection of Test Fixture Strategies and Smells <https://ieeexplore.ieee.org/document/6569744>`_ :octicon:`comment-discussion;1em` :octicon:`sync;1em`
 * `Automatic Test Smell Detection Using Information Retrieval Techniques <https://ieeexplore.ieee.org/abstract/document/8530039>`_ :octicon:`graph;1em`
+* `Automatic generation of smell-free unit tests <https://repositorio.ul.pt/handle/10451/56819>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
 * `Just-In-Time Test Smell Detection and Refactoring: The DARTS Project <https://fpalomba.github.io/pdf/Conferencs/C51.pdf>`_ :octicon:`sync;1em`
 * `Strategies for avoiding text fixture smells during software evolution <https://ieeexplore.ieee.org/document/6624053>`_ :octicon:`comment-discussion;1em` :octicon:`graph;1em` :octicon:`sync;1em`
 * `Test Smell Detection Tools: A Systematic Mapping Study <https://dl.acm.org/doi/10.1145/3463274.3463335>`_

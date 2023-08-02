@@ -16,6 +16,6 @@ Trying To Test The Untestable
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
 * `Testing the Untestable and Other Anti-Patterns <https://dzone.com/articles/testing-the-untestable-and-other-anti-patterns>`_ :octicon:`file-code;1em`
-

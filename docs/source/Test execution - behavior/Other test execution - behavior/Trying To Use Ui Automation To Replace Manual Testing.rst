@@ -13,6 +13,6 @@ Trying To Use Ui Automation To Replace Manual Testing
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Top 17 Automated Testing Best Practices (Supported By Data) <https://ultimateqa.com/automation-patterns-antipatterns/>`_ :octicon:`comment-discussion;1em`
-
+* `Top 17 Automated Testing Best Practices (Supported By Data) <https://ultimateqa.com/automation-patterns-antipatterns/>`_ :octicon:`comment-discussion;1em` :octicon:`sync;1em`

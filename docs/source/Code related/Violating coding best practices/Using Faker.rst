@@ -16,6 +16,6 @@ Using Faker
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `Using Faker is anti-pattern <https://dev.to/vasily/using-faker-is-anti-pattern-1jgl>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em`
-
+* `Using Faker is anti-pattern <https://dev.to/vasily/using-faker-is-anti-pattern-1jgl>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`sync;1em`

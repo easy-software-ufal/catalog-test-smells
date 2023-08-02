@@ -43,3 +43,4 @@ Coupling Between Test Methods
     * :octicon:`sync;1em` -  Refactoring
 
 * `A few thoughts on unit test scaffolding <https://www.yegor256.com/2015/05/25/unit-test-scaffolding.html>`_ :octicon:`file-code;1em` :octicon:`comment-discussion;1em` :octicon:`sync;1em`
+* `Refactoring Test Smells With JUnit 5: Why Should Developers Keep Up-to-Date? <https://ieeexplore.ieee.org/document/9769994/>`_

@@ -16,6 +16,6 @@ Fragile Locators
     * :octicon:`file-code;1em` -  Code Example
     * :octicon:`comment-discussion;1em` -  Cause and Effect
     * :octicon:`graph;1em` -  Frequency
+    * :octicon:`sync;1em` -  Refactoring
 
-* `How To Avoid Anti-Patterns In Cypress <https://www.lambdatest.com/blog/avoid-anti-patterns-in-cypress/>`_ :octicon:`file-code;1em`
-
+* `How To Avoid Anti-Patterns In Cypress <https://www.lambdatest.com/blog/avoid-anti-patterns-in-cypress/>`_ :octicon:`file-code;1em` :octicon:`sync;1em`

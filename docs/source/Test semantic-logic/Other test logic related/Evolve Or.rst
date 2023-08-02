@@ -1,4 +1,4 @@
-Evolve Or …
+Evolve Or
 ^^^^^
 **Definition:**
 
