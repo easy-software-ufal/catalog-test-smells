@@ -7,7 +7,7 @@ No Assertions
 
 **Also Known As:**
 
-* Lying Test, Assertionless Test, The Line Hitter
+* Assertionless Test
 
 
 **Code Example:**

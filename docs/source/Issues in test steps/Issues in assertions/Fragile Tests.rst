@@ -5,6 +5,11 @@ Fragile Test
 * Tests which seem to break when they shouldn't
 
 
+**Also Known As:**
+
+* Brittle Test
+
+
 **Code Example:**
 
 .. code-block:: ruby

@@ -6,7 +6,7 @@ Unused Variable Definition
 
 **Also Known As:**
 
-* Du Data Flow Anomaly
+* DU Data Flow Anomaly
 
 **Code Example:**
 

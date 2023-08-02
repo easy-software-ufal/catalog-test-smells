@@ -7,7 +7,7 @@ The Secret Catcher
 
 **Also Known As:**
 
-* The Silent Catcher
+* The Silent Catcher, Issues in Exception Handling
 
 
 **Code Example:**

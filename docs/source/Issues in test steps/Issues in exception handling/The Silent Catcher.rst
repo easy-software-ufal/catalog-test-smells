@@ -4,6 +4,9 @@ The Silent Catcher
 
 * A test that passes if an exception is thrown. Even if the exception that actually occurs is one that is different than the one the developer intended.
 
+**Also Known As:**
+
+* The Secret Catcher
 
 **Code Example:**
 

@@ -4,6 +4,9 @@ Transcripting Test
 
 * A Transcripting Test is writing information to the console or a global stream, for example the Transcript in Smalltalk, while it is running.
 
+**Also Known As:**
+
+* The Loudmouth
 
 **Code Example:**
 

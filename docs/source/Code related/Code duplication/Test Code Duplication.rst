@@ -6,6 +6,11 @@ Test Code Duplication
 * This test smell normally identifies classes that contain test methods with repeated test code steps.
 
 
+**Also Known As:**
+
+* Second Class Citizen
+
+
 **Code Example:**
 
 .. code-block:: python

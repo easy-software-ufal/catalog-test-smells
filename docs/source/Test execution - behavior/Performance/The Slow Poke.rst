@@ -4,6 +4,9 @@ The Slow Poke
 
 * Usually, it puts the test suite to execution and takes longer to finish and give the developer feedback.
 
+**Also Known As:**
+
+* Slow Test
 
 **Code Example:**
 

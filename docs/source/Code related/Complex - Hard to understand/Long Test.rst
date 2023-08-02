@@ -7,7 +7,7 @@ Long Test
 
 **Also Known As:**
 
-* Obscure Test, Verbose Test, Complex Test
+* Obscure Test
 
 
 **Code Example:**

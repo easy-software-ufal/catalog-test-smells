@@ -6,7 +6,7 @@ Wasted Variable Definition
 
 **Also Known As:**
 
-* Dd Data Flow Anomaly
+* DD Data Flow Anomaly
 
 **Code Example:**
 

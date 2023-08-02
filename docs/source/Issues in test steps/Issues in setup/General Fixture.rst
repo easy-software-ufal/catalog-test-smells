@@ -4,6 +4,9 @@ General Fixture
 
 * Occurs when a test case fixture is too general and the test methods only access part of it. A test setup/fixture method that initializes fields that are not accessed by test methods indicates that the fixture is too generalized. A drawback of it being too general is that unnecessary work is being done when a test method is run.
 
+**Also Known As:**
+
+* Badly Used Fixture
 
 **Code Example:**
 
