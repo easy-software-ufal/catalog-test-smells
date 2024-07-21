@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Test Smells Catalog'
-copyright = '2023, EASY'
+copyright = '2024, EASY'
 author = 'EASY LAB - Universidade Federal de Alagoas (UFAL)'
 
 release = '2.0'
@@ -38,7 +38,7 @@ html_js_files = [
 ]
 
 html_static_path = ['_static']
-html_logo = "https://easy-group.netlify.app/img/easy.svg"
+html_logo = "https://ic.ufal.br/easy/src/assets/img/logo-easy-centro-pesquisa-desenvolvimento-inovacao-nordeste-alagoas-maceio.svg"
 html_theme_options = {
     'logo_only': False,
     'display_version': True,
