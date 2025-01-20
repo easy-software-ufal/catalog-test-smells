@@ -39,3 +39,4 @@ Contents
 
    About
    How to contribute
+   How to cite this work
