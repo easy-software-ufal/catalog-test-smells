@@ -1,6 +1,6 @@
 How to cite this work
 ^^^^^
-.. code-block :: latex
+.. code-block:: latex
 @misc{testsmellcatalogOpenCatalog,
 	author = {Elvys Soares, Manoel Aranda III, Davi Romão},
 	title = {{T}he {O}pen {C}atalog of {T}est {S}mells - test-smell-catalog.readthedocs.io},
