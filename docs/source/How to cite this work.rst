@@ -1,9 +1,11 @@
 How to cite this work
-^^^^^
-.. code-block:: latex
-@misc{testsmellcatalogOpenCatalog,
-	author = {Elvys Soares, Manoel Aranda III, Davi Romão},
-	title = {{T}he {O}pen {C}atalog of {T}est {S}mells - test-smell-catalog.readthedocs.io},
-	howpublished = {\url{https://test-smell-catalog.readthedocs.io/en/latest/index.html }},
-	year = {2023},
-}
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. code-block:: bibtex
+
+    @misc{testsmellcatalogOpenCatalog,
+        author       = {Elvys Soares and Manoel Aranda III and Davi Romão},
+        title        = {The Open Catalog of Test Smells},
+        note         = {Available at \url{https://test-smell-catalog.readthedocs.io/en/latest/index.html}},
+        year         = {2023},
+    }
